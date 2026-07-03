@@ -1,0 +1,33 @@
+topic: prostate cancer diagnosis and treatment
+primary_sources:
+  - name: PubMed
+    query: '(prostate cancer[Title/Abstract]) AND (diagnosis OR screening OR biopsy OR MRI OR surveillance OR prostatectomy OR radiation OR androgen deprivation OR PSMA OR quality of life)'
+  - name: ClinicalTrials.gov
+    query: prostate cancer
+  - name: NCCN Guidelines
+    url: https://www.nccn.org/guidelines/category_1
+  - name: European Association of Urology Guidelines
+    url: https://uroweb.org/guidelines/prostate-cancer
+  - name: American Urological Association Guidelines
+    url: https://www.auanet.org/guidelines-and-quality/guidelines
+  - name: ASCO Guidelines
+    url: https://old-prod.asco.org/practice-patients/guidelines
+  - name: NICE Prostate Cancer Guidance
+    url: https://www.nice.org.uk/guidance/conditions-and-diseases/cancer/prostate-cancer
+watch_terms:
+  - PSA screening
+  - multiparametric MRI
+  - PI-RADS
+  - transperineal biopsy
+  - Gleason Grade Group
+  - active surveillance
+  - radical prostatectomy
+  - external beam radiation therapy
+  - brachytherapy
+  - focal therapy
+  - PSMA PET
+  - androgen deprivation therapy
+  - patient reported outcomes
+  - urinary incontinence
+  - erectile dysfunction
+  - bowel toxicity
