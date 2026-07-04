@@ -36,4 +36,13 @@ Be especially cautious with:
 
 ## Filed items
 
-_No filed items yet._
+- [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, and survivorship nutrition reviews.
+
+## Current evidence summary
+
+| Patient phase | Summary |
+|---|---|
+| Before diagnosis / incidence | Overall dietary patterns matter more than single-food claims. Western/inflammatory patterns and high dairy/calcium intake are associated with higher risk in some observational syntheses; healthy/plant-forward patterns may be associated with lower risk, but causality is uncertain. |
+| After diagnosis | Post-diagnosis plant-based, Mediterranean, and lower-inflammatory dietary patterns are associated with lower progression risk in several cohorts, but this is mostly observational. |
+| During treatment / ADT | Diet and weight-management interventions may support weight, glucose, insulin resistance, lipids, and function during ADT, but evidence is mainly supportive-care rather than cancer-control evidence. |
+| After treatment | Survivorship nutrition is strongest as cardiometabolic, bowel, muscle, weight, and quality-of-life support; evidence for recurrence/survival benefit is promising but not definitive. |
