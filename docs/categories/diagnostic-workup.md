@@ -14,3 +14,4 @@ Research notes and filed articles for **diagnostic workup**.
 ## Filed items
 
 - [STIs, UTIs, Prostatitis, and PSA Levels: Evidence Map](../papers/infections-psa-evidence/index.md) — evidence on infection-related PSA elevation, PSA timing after UTI/prostatitis/STI/systemic infection, and why infection can confound but not exclude prostate cancer evaluation.
+- [Transperineal vs Transrectal Prostate Biopsy: Evidence Map](../papers/transperineal-transrectal-biopsy-evidence/index.md) — review of biopsy-route evidence, including infection/sepsis risk, cancer detection, anesthesia/tolerability, circumstances where each approach is used, and the trend toward transperineal biopsy.
