@@ -13,4 +13,4 @@ Research notes and filed articles for **risk stratification & staging**.
 
 ## Filed items
 
-_No filed items yet._
+- [PSMA PET/CT in Prostate Cancer: Evidence Map](../papers/psma-pet-ct-prostate-cancer-evidence/index.md) — evidence summary focused on high-risk staging before curative-intent surgery or radiotherapy, including proPSMA and OSPREY findings.

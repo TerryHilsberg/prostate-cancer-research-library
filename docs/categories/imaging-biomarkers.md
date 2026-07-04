@@ -13,4 +13,4 @@ Research notes and filed articles for **imaging & biomarkers**.
 
 ## Filed items
 
-_No filed items yet._
+- [PSMA PET/CT in Prostate Cancer: Evidence Map](../papers/psma-pet-ct-prostate-cancer-evidence/index.md) — evidence summary on PSMA PET/CT as a decision-changing imaging tool across initial diagnosis-adjacent evaluation, high-risk staging, biochemical recurrence, treatment selection, and selected monitoring questions.

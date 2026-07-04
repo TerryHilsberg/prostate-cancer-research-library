@@ -19,7 +19,7 @@
 - Grade Group/Gleason score
 - Number and percentage of positive cores
 - PSA, PSA density, MRI lesion size, clinical stage
-- Whether genomic classifier or PSMA PET is relevant
+- Whether genomic classifier or [PSMA PET/CT](../../papers/psma-pet-ct-prostate-cancer-evidence/index.md) is relevant
 
 ## D. Management options
 
