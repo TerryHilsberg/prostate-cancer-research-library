@@ -13,4 +13,4 @@ Research notes and filed articles for **side effects & quality of life**.
 
 ## Filed items
 
-_No filed items yet._
+- [Blood Pressure, Hypertension, and Prostate Cancer: Evidence Map](../papers/blood-pressure-prostate-cancer-evidence/index.md) — review of blood pressure/hypertension in prostate cancer, including incidence/fatal risk signals, uncertain recurrence evidence, cardiovascular survivorship, and treatment-related hypertension during ADT and androgen-receptor pathway therapy.

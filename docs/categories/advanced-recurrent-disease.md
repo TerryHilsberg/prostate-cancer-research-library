@@ -13,4 +13,4 @@ Research notes and filed articles for **advanced & recurrent disease**.
 
 ## Filed items
 
-_No filed items yet._
+- [Blood Pressure, Hypertension, and Prostate Cancer: Evidence Map](../papers/blood-pressure-prostate-cancer-evidence/index.md) — evidence summary focused on cardiovascular and hypertension risks relevant to ADT, abiraterone, enzalutamide, apalutamide/darolutamide-class therapy, and shared decision-making in advanced or recurrent disease.
