@@ -35,4 +35,13 @@ Be especially cautious with:
 
 ## Filed items
 
-_No filed items yet._
+- [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, and exercise-oncology guidance.
+
+## Current evidence summary
+
+| Patient phase | Summary |
+|---|---|
+| Before diagnosis / incidence | Exercise is highly beneficial for general health, but prostate-cancer-specific incidence prevention evidence is mixed. Best meta-analyses show little or no association with total prostate cancer incidence, with possible but uncertain reductions in advanced/aggressive/fatal disease. |
+| After diagnosis | Higher post-diagnosis activity, especially brisk walking and vigorous activity, is consistently associated with better survival/progression outcomes in observational cohorts, but causality is not proven. |
+| During treatment | Randomized trials and systematic reviews support aerobic and resistance exercise during radiation and ADT for fatigue, fitness, strength, function, body composition, and quality of life. |
+| After treatment | Survivorship exercise supports function and quality of life. Pelvic-floor muscle exercise, especially supervised programs, has specific evidence for urinary incontinence after radical prostatectomy. |
