@@ -13,4 +13,4 @@ Research notes and filed articles for **diagnostic workup**.
 
 ## Filed items
 
-_No filed items yet._
+- [STIs, UTIs, Prostatitis, and PSA Levels: Evidence Map](../papers/infections-psa-evidence/index.md) — evidence on infection-related PSA elevation, PSA timing after UTI/prostatitis/STI/systemic infection, and why infection can confound but not exclude prostate cancer evaluation.
