@@ -8,6 +8,7 @@ Use these categories to file studies, guideline updates, patient decision aids, 
 | Diagnostic Workup | Biopsy approaches, MRI interpretation, pathology, infection/bleeding risk | How reliable is the diagnosis? |
 | Risk Stratification & Staging | Gleason/Grade Group, PSA density, TNM, nomograms, genomic classifiers | How aggressive is it? |
 | Active Surveillance | Eligibility, monitoring schedules, triggers for treatment, long-term outcomes | Can treatment safely wait? |
+| Therapies | Systemic therapy, immunotherapy, immune modulation, anti-inflammatory strategies, treatment sequencing, investigational approaches | What therapies are standard, biomarker-selected, or experimental? |
 | Localized Treatment | Surgery, radiation modalities, focal therapy, comparative outcomes | What are the curative options and trade-offs? |
 | Advanced & Recurrent Disease | ADT, AR pathway inhibitors, chemotherapy, radioligand therapy, recurrence | What if it has spread or returns? |
 | Imaging & Biomarkers | mpMRI, PSMA PET, liquid/tissue biomarkers, genomic tests | What extra tests might clarify risk? |

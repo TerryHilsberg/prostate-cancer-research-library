@@ -16,6 +16,7 @@ nav:
       - Diagnostic Workup: categories/diagnostic-workup.md
       - Risk Stratification & Staging: categories/risk-stratification-staging.md
       - Active Surveillance: categories/active-surveillance.md
+      - Therapies: categories/therapies.md
       - Localized Treatment: categories/localized-treatment.md
       - Advanced & Recurrent Disease: categories/advanced-recurrent-disease.md
       - Imaging & Biomarkers: categories/imaging-biomarkers.md
@@ -32,6 +33,7 @@ nav:
       - STIs, UTIs, and PSA Evidence: papers/infections-psa-evidence/index.md
       - Transperineal vs Transrectal Biopsy Evidence: papers/transperineal-transrectal-biopsy-evidence/index.md
       - PSMA PET/CT Evidence: papers/psma-pet-ct-prostate-cancer-evidence/index.md
+      - Immune Modulation and Anti-inflammatory Evidence: papers/immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md
   - Updates:
       - Latest Updates: updates/index.md
   - Policies:

@@ -13,4 +13,4 @@ Research notes and filed articles for **localized treatment**.
 
 ## Filed items
 
-_No filed items yet._
+- [Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map](../papers/immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md) — includes localized-disease evidence and limitations for aspirin/NSAIDs, celecoxib, vitamin D, and pre-prostatectomy anti-inflammatory biomarker studies.
