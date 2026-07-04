@@ -301,6 +301,8 @@ Post-treatment evidence is strongest for specific functional outcomes. Pelvic-fl
 - **Limitations:** Program details and timing vary; outcomes depend on adherence and baseline severity.
 - **Questions for clinician:** Should pelvic-floor physiotherapy start before or after surgery, and should it be supervised?
 
+**Practical patient resource:** [Five exercises to strengthen your pelvic floor](https://cancer.uthscsa.edu/news-and-stories/five-exercises-strengthen-your-pelvic-floor), UT Health San Antonio MD Anderson Cancer Center. This is a practical exercise-description page rather than a research paper; use it as a discussion aid with a treating clinician or pelvic-floor physiotherapist, especially after prostate surgery.
+
 #### Exercise Guidelines for Cancer Survivors: Consensus Statement
 
 - **Citation:** Campbell KL, Winters-Stone KM, Wiskemann J, et al. *Medicine & Science in Sports & Exercise*. 2019.

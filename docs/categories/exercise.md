@@ -45,3 +45,7 @@ Be especially cautious with:
 | After diagnosis | Higher post-diagnosis activity, especially brisk walking and vigorous activity, is consistently associated with better survival/progression outcomes in observational cohorts, but causality is not proven. |
 | During treatment | Randomized trials and systematic reviews support aerobic and resistance exercise during radiation and ADT for fatigue, fitness, strength, function, body composition, and quality of life. |
 | After treatment | Survivorship exercise supports function and quality of life. Pelvic-floor muscle exercise, especially supervised programs, has specific evidence for urinary incontinence after radical prostatectomy. |
+
+## Practical patient resources
+
+- [Five exercises to strengthen your pelvic floor](https://cancer.uthscsa.edu/news-and-stories/five-exercises-strengthen-your-pelvic-floor) — UT Health San Antonio MD Anderson Cancer Center patient resource. Useful as a practical discussion aid for pelvic-floor strengthening, especially around urinary-control recovery, but it should be checked with the treating surgeon, urologist, physiotherapist, or pelvic-floor clinician before use after prostate surgery or during active treatment.
