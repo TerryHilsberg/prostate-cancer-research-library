@@ -13,6 +13,7 @@ Research notes and filed articles for **side effects & quality of life**.
 
 ## Filed items
 
+- [2026-07-06 weekly scan](../updates/2026-07-06.md) — Side-effect/safety watch: a systematic review and meta-analysis of randomized trials found increased hypokalemia risk with androgen receptor axis-targeted therapy, especially abiraterone-containing regimens; patients should discuss potassium, blood pressure, edema/fluid retention, liver-test, steroid, cardiac, kidney, and interacting-medication monitoring with clinicians.
 - [Blood Pressure, Hypertension, and Prostate Cancer: Evidence Map](../papers/blood-pressure-prostate-cancer-evidence/index.md) — review of blood pressure/hypertension in prostate cancer, including incidence/fatal risk signals, uncertain recurrence evidence, cardiovascular survivorship, and treatment-related hypertension during ADT and androgen-receptor pathway therapy.
 - [Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map](../papers/immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md) — safety-oriented discussion of immune-related adverse events, aspirin/NSAID bleeding and kidney/cardiovascular risks, celecoxib risks, corticosteroid effects, vitamin D correction, and supplement/LDN interaction questions.
 

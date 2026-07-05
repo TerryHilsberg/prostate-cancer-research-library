@@ -1,5 +1,5 @@
 # Latest Updates
 
-Weekly research updates will be listed here in reverse chronological order.
+Weekly research updates are listed here in reverse chronological order.
 
-_No updates yet._
+- [2026-07-06 — Weekly Prostate Cancer Literature & Guideline Scan](2026-07-06.md)
