@@ -1,5 +1,7 @@
 # Decision Map
 
+For help understanding which specialist is usually involved at each point, see [Clinician Roles in Prostate Cancer Care](clinician-roles.md).
+
 ## A. Before diagnosis
 
 - What prompted testing?

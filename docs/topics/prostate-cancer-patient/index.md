@@ -11,6 +11,11 @@ This section turns the evidence library into a patient-oriented decision map.
 5. **Management choice** — active surveillance, surgery, radiation, systemic therapy, clinical trial, or palliative focus depending on risk/stage
 6. **Follow-up** — surveillance, PSA monitoring, side-effect management, recurrence detection
 
+## New to the care team?
+
+- [Clinician Roles in Prostate Cancer Care](clinician-roles.md) explains the typical roles of the GP, urologist, radiation oncologist, medical oncologist, radiologist, pathologist, specialist nurse, allied health clinicians, and palliative care team.
+- [Questions for Clinicians](clinician-questions.md) provides practical questions to bring to appointments.
+
 ## Repository rule
 
 Summaries should help prepare for a clinician discussion, not substitute for it.

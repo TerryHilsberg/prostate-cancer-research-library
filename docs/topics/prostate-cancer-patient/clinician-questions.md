@@ -1,5 +1,7 @@
 # Questions for Clinicians
 
+For a role-by-role guide to who may be involved, see [Clinician Roles in Prostate Cancer Care](clinician-roles.md).
+
 ## Diagnosis and risk
 
 - What is the most likely explanation for my PSA/test result?
