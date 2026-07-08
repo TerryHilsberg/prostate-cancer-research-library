@@ -13,4 +13,4 @@ Research notes and filed articles for **screening & early detection**.
 
 ## Filed items
 
-_No filed items yet._
+- [Hormone Levels and Prostate Cancer Incidence: Evidence Map](../papers/hormone-levels-prostate-cancer-incidence-evidence/index.md) — evidence on testosterone, free testosterone, SHBG, LH, IGF-I, and prostate cancer incidence/aggressive-disease risk; includes the 2026 Lancet Healthy Longevity individual-participant-data meta-analysis.

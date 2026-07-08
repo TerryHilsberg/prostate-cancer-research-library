@@ -11,6 +11,7 @@ This section can hold deeper notes on individual papers or curated paper collect
 - [Transperineal vs Transrectal Prostate Biopsy: Evidence Map](transperineal-transrectal-biopsy-evidence/index.md) — literature review comparing biopsy routes, infection risk, cancer detection, pain/tolerability, circumstances where each is used, and trends over time.
 - [PSMA PET/CT in Prostate Cancer: Evidence Map](psma-pet-ct-prostate-cancer-evidence/index.md) — evidence on PSMA PET/CT for diagnosis-adjacent use, high-risk staging, biochemical recurrence, radioligand-therapy selection, and treatment-monitoring questions.
 - [Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map](immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md) — state-of-the-art review of approved, biomarker-selected, investigational, and hypothesis-generating immune/anti-inflammatory strategies.
+- [Hormone Levels and Prostate Cancer Incidence: Evidence Map](hormone-levels-prostate-cancer-incidence-evidence/index.md) — evidence on testosterone, free testosterone, SHBG, LH, IGF-I, and prostate cancer incidence/aggressive-disease risk, centered on the 2026 Lancet Healthy Longevity IPD meta-analysis.
 
 ## Paper note template
 
