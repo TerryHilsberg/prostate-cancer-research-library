@@ -36,6 +36,8 @@ Be especially cautious with:
 
 ## Filed items
 
+- [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](../papers/metabolic-therapy-prostate-cancer-evidence/index.md) — diet-focused evidence review on ketogenic/low-carbohydrate interventions, calorie restriction, insulin/IGF signaling, and safety caveats.
+
 - [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, and survivorship nutrition reviews.
 
 ## Current evidence summary

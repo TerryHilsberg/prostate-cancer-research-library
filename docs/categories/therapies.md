@@ -15,3 +15,4 @@ Research notes and filed articles for **therapies** across localized, recurrent,
 ## Filed items
 
 - [Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map](../papers/immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md) — state-of-the-art review of sipuleucel-T, checkpoint inhibitors, biomarker-selected immunotherapy, vaccine strategies, IMM-101/LDN/bromelain case-report evidence, aspirin/NSAIDs, celecoxib, corticosteroids, and vitamin D.
+- [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](../papers/metabolic-therapy-prostate-cancer-evidence/index.md) — critique of Seyfried-style metabolic therapy claims, ketogenic/low-carbohydrate diet evidence, calorie restriction, insulin/IGF signaling, immunometabolism, and safety issues.
