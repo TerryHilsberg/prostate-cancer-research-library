@@ -13,6 +13,7 @@ This section can hold deeper notes on individual papers or curated paper collect
 - [Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map](immune-modulation-anti-inflammatory-prostate-cancer-evidence/index.md) — state-of-the-art review of approved, biomarker-selected, investigational, and hypothesis-generating immune/anti-inflammatory strategies.
 - [Hormone Levels and Prostate Cancer Incidence: Evidence Map](hormone-levels-prostate-cancer-incidence-evidence/index.md) — evidence on testosterone, free testosterone, SHBG, LH, IGF-I, and prostate cancer incidence/aggressive-disease risk, centered on the 2026 Lancet Healthy Longevity IPD meta-analysis.
 - [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](metabolic-therapy-prostate-cancer-evidence/index.md) — combined take on a Gemini analysis of Seyfried-style metabolic therapy, ketogenic/low-carbohydrate diets, calorie restriction, insulin/IGF signaling, and prostate-cancer evidence gaps.
+- [Genetic and Epigenetic Background to Prostate Cancer Risk: Evidence Map](genetic-epigenetic-risk-prostate-cancer-evidence/index.md) — inherited variants, polygenic risk, tumour genetics, epigenetic biomarkers, predicted incidence, unknowns, and promising research directions prompted by the 2026 UBC/CDK12 hereditary prostate-cancer report.
 
 ## Paper note template
 

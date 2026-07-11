@@ -14,3 +14,4 @@ Research notes and filed articles for **risk stratification & staging**.
 ## Filed items
 
 - [PSMA PET/CT in Prostate Cancer: Evidence Map](../papers/psma-pet-ct-prostate-cancer-evidence/index.md) — evidence summary focused on high-risk staging before curative-intent surgery or radiotherapy, including proPSMA and OSPREY findings.
+- [Genetic and Epigenetic Background to Prostate Cancer Risk: Evidence Map](../papers/genetic-epigenetic-risk-prostate-cancer-evidence/index.md) — germline and tumour genetic context relevant to hereditary risk, aggressiveness prediction, family counselling, and precision-treatment questions.
