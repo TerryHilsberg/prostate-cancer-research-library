@@ -317,6 +317,43 @@ Post-treatment evidence is strongest for specific functional outcomes. Pelvic-fl
 - **Limitations:** Not prostate-only; individual contraindications and treatment-specific risks require clinician input.
 - **Questions for clinician:** Should I be referred to an accredited exercise physiologist or physiotherapist with oncology experience?
 
+### Mechanistic Q&A: myokines and tumour-suppressive serum after exercise
+
+#### Q: Has a larger version of the 12-week myokine/serum tumour-suppression trial been done?
+
+**Short answer:** not yet in the same form. The 2022 study by Dieli-Conwright/colleagues was a very small mechanistic study in **10** men with prostate cancer on ADT. It tested whether a 12-week exercise-based intervention changed resting serum myokines and whether post-intervention serum suppressed growth of the DU145 prostate-cancer cell line. It is best treated as **hypothesis-generating** rather than clinical proof that exercise slows prostate cancer through this mechanism.
+
+The closest published expansion is an **INTERVAL-GAP4 mechanistic substudy** in **25** men with metastatic castration-resistant prostate cancer. It used a randomized exercise-versus-self-directed-control context, measured myokines after 6 months, and found increased SPARC/OSM signals and reduced DU145 growth with post-intervention serum. This is larger and randomized, but still a small mechanistic substudy.
+
+A separate acute high-intensity interval exercise study in **9** trained men with advanced prostate cancer found short-term rises in myokines and suppression of DU145 growth when exposed to post-exercise serum. The **MYEX** protocol plans mechanistic comparisons of aerobic versus resistance exercise effects on myokines, extracellular vesicles, and prostate cancer cell lines in **32** patients, but it is not a large outcomes trial.
+
+The much larger related trial is **INTERVAL-GAP4** — a multicentre phase III trial of intense exercise in metastatic prostate cancer with estimated enrolment of **866** and overall survival as the primary endpoint. However, it is **not simply a larger version** of the serum/cell-line myokine experiment, and definitive clinical outcome results have not yet been posted.
+
+**Patient-facing interpretation:** exercise can change circulating factors in men with prostate cancer, and small lab studies suggest post-exercise serum can suppress prostate cancer cell-line growth. But this mechanism has **not yet been proven in a large clinical trial** to slow prostate cancer progression or improve survival.
+
+- **Original mechanistic study:** *Myokine Expression and Tumor-Suppressive Effect of Serum after 12 wk of Exercise in Prostate Cancer Patients on ADT.* PMID [34559721](https://pubmed.ncbi.nlm.nih.gov/34559721/); DOI [10.1249/MSS.0000000000002783](https://doi.org/10.1249/MSS.0000000000002783).
+- **Closest published mechanistic expansion:** *Exercise in advanced prostate cancer elevates myokine levels and suppresses in-vitro cell growth.* PMID [35152272](https://pubmed.ncbi.nlm.nih.gov/35152272/).
+- **Acute HIIT mechanistic study:** PMID [36446945](https://pubmed.ncbi.nlm.nih.gov/36446945/).
+- **MYEX protocol:** PMID [38951803](https://pubmed.ncbi.nlm.nih.gov/38951803/).
+- **INTERVAL-GAP4 protocol:** PMID [29764892](https://pubmed.ncbi.nlm.nih.gov/29764892/); ClinicalTrials.gov [NCT02730338](https://clinicaltrials.gov/study/NCT02730338).
+- **INTERVAL-GAP4 feasibility/implementation report:** PMID [41561488](https://pubmed.ncbi.nlm.nih.gov/41561488/).
+
+### Adjacent cancer evidence: structured exercise after chemotherapy
+
+#### Structured Exercise after Adjuvant Chemotherapy for Colon Cancer
+
+- **Citation:** Courneya KS, Vardy JL, O'Callaghan CJ, et al.; CHALLENGE Investigators. *New England Journal of Medicine*. 2025.
+- **DOI/PMID:** DOI [10.1056/NEJMoa2502760](https://doi.org/10.1056/NEJMoa2502760); PMID [40450658](https://pubmed.ncbi.nlm.nih.gov/40450658/)
+- **URL:** [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/40450658/)
+- **Date:** 2025 Jul 3
+- **Category:** Exercise; Survivorship; Adjacent cancer evidence
+- **Evidence type:** Phase III multicentre randomized controlled trial.
+- **Population:** Colon cancer survivors after adjuvant chemotherapy, not prostate cancer patients.
+- **Patient relevance:** Important adjacent oncology evidence that a structured exercise program after curative-intent cancer treatment can be tested against disease outcomes, not just fatigue and quality of life.
+- **Main finding:** The abstract reports improved disease-free survival with structured exercise after adjuvant chemotherapy for colon cancer.
+- **Limitations:** This is not prostate-cancer-specific evidence and should not be directly extrapolated to prostate cancer recurrence or survival. It is most useful here as a signal that exercise-oncology interventions can be studied rigorously with cancer-control endpoints.
+- **Questions for clinician:** Are there prostate-cancer-specific exercise trials or survivorship programs available, and what outcomes are realistic to expect: function/QoL, metabolic health, treatment tolerance, or cancer-control endpoints?
+
 ## Clinician discussion checklist
 
 - Which phase am I in: screening, active surveillance, surgery recovery, radiation, ADT/systemic therapy, or survivorship?

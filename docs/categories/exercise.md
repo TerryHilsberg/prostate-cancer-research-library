@@ -35,7 +35,7 @@ Be especially cautious with:
 
 ## Filed items
 
-- [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, and exercise-oncology guidance.
+- [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, exercise-oncology guidance, a mechanistic Q&A on myokines/tumour-suppressive serum and INTERVAL-GAP4, and an adjacent note on the NEJM CHALLENGE colon-cancer structured-exercise trial.
 
 ## Current evidence summary
 
