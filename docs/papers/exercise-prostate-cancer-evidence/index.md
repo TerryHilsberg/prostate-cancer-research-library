@@ -23,6 +23,9 @@ Scope: exercise/physical activity before diagnosis, after diagnosis, during trea
 - **Aerobic training**: RCT evidence during radiation/ADT supports fitness and fatigue/QoL outcomes.
 - **Resistance training**: RCT evidence supports muscle mass, strength, and function, especially relevant during ADT.
 - **Combined aerobic + resistance programs**: common in ADT/survivorship trials and exercise oncology guidance.
+- **Impact/loading exercise**: potentially relevant to ADT-related bone loss, but only when safely prescribed and supervised; not appropriate for unsupervised use with osteoporosis, falls risk, pain, or possible bone metastases.
+- **High-intensity interval training (HIIT)**: studied in active surveillance and advanced-disease mechanistic settings; should be individualized rather than copied from generic fitness programs.
+- **Isometric or modified loading**: may be considered by specialist teams for selected patients with bone metastases, based on imaging and fracture-risk assessment; not a do-it-yourself strategy.
 - **Pelvic-floor muscle exercise**: specific post-prostatectomy urinary incontinence evidence; supervised programs appear more effective than unsupervised.
 
 ## Evidence synthesis by patient journey
@@ -354,13 +357,144 @@ The much larger related trial is **INTERVAL-GAP4** — a multicentre phase III t
 - **Limitations:** This is not prostate-cancer-specific evidence and should not be directly extrapolated to prostate cancer recurrence or survival. It is most useful here as a signal that exercise-oncology interventions can be studied rigorously with cancer-control endpoints.
 - **Questions for clinician:** Are there prostate-cancer-specific exercise trials or survivorship programs available, and what outcomes are realistic to expect: function/QoL, metabolic health, treatment tolerance, or cancer-control endpoints?
 
-## Clinician discussion checklist
+## PCRI / Rob Newton video notes: precision exercise medicine in prostate cancer
 
-- Which phase am I in: screening, active surveillance, surgery recovery, radiation, ADT/systemic therapy, or survivorship?
-- Are there any safety limits: bone metastases, anemia, infection, cardiac risk, falls risk, pain, severe fatigue, urinary catheter/wound recovery, or treatment complications?
-- Should the plan emphasize walking, aerobic training, resistance training, pelvic-floor therapy, flexibility/balance, or a combination?
-- Would supervised exercise physiology/physiotherapy be safer or more effective than a home program?
-- What outcomes should be tracked: fatigue, strength, continence, sexual function, bowel symptoms, weight/body composition, glucose/lipids, mood, or PSA/treatment milestones?
+**Source discussed by Terry:** Robert Newton, PhD, PCRI 2025 talk, [*The Power Of Exercise For Prostate Cancer*](https://www.youtube.com/watch?v=XXTcYilkPJo).  
+**Repository framing:** the talk is useful because it shifts the patient question from “Should I be active?” to “What kind of exercise medicine should be prescribed for this stage, treatment, risk profile, and goal?”
+
+### What “precision exercise medicine” means
+
+Newton’s central message is that exercise is **not one medicine**. Different forms and doses can have different goals:
+
+| Exercise target | Possible clinical goal | Patient caution |
+|---|---|---|
+| General movement / walking | reduce sedentary time; improve overall health and treatment resilience | any movement is usually better than none, but symptoms and safety limits still matter |
+| Resistance training | maintain or rebuild muscle, strength, function, and treatment tolerance, especially during ADT | needs correct technique and progression; frailty, pain, surgery recovery, or metastases may require supervision |
+| Aerobic / interval training | cardiorespiratory fitness, fatigue, metabolic health, possible immune/perfusion effects | intensity should be individualized; not all patients can start with vigorous exercise |
+| Impact/loading exercise | bone-density stimulus, particularly relevant to ADT-related bone loss | not for unsupervised use in osteoporosis, falls risk, bone pain, or suspected/known bone metastases |
+| Pelvic-floor training | urinary continence recovery after prostatectomy | timing and supervision should be discussed with the urologist/physiotherapist |
+| Isometric/modified loading | selected advanced/metastatic cases under specialist supervision | requires imaging-informed fracture-risk assessment |
+
+The practical implication is that a generic target such as “150 minutes per week plus resistance training” is a starting point, not a precision prescription. A patient on ADT with low muscle mass, a patient preparing for prostatectomy, a patient with bone metastases, and a patient receiving radiation may need very different programs.
+
+### Prehabilitation before prostatectomy
+
+Newton emphasizes exercise **before** primary treatment — especially before prostatectomy — as a way to improve physical and mental resilience. This is often called *prehabilitation* or *neoadjuvant exercise*. The proposed goals include better fitness for anesthesia, improved muscle and body composition, reduced systemic inflammation, and potentially smoother recovery.
+
+**Patient-facing interpretation:** this is not a reason to delay indicated treatment, but if surgery is scheduled weeks away, the waiting period may be an opportunity to ask about supervised prehabilitation, pelvic-floor preparation, strength, cardiovascular fitness, weight/body composition, and recovery planning.
+
+**Questions for clinician:**
+
+- Is there enough time before surgery to start a safe prehabilitation program?
+- Should pelvic-floor physiotherapy start before prostatectomy?
+- Are there lifting, catheter, wound, hernia, cardiovascular, or continence-related limits?
+- What outcomes should be tracked: walking capacity, strength, fatigue, continence preparation, body composition, or anxiety?
+
+### ADT: muscle, bone, fat, metabolic risk, and intermittent recovery
+
+ADT can worsen muscle mass, strength, fat mass, bone mineral density, fatigue, metabolic health, sexual function, mood, and cardiovascular risk. Newton’s talk places special emphasis on **low muscle mass / sarcopenia** as a practical risk marker because it can affect frailty, treatment tolerance, diabetes/cardiovascular risk, and overall resilience.
+
+A key assessment issue is that body weight or BMI can miss the problem: a man can look “normal weight” or overweight but still have very low muscle mass. Newton specifically highlights DEXA/body-composition assessment as one way to measure muscle, fat, and bone health. This should be interpreted clinically, not as a stand-alone consumer fitness metric.
+
+**Evidence examples:**
+
+- Resistance training in men on ADT can improve muscle mass and strength; see Houben et al. above and related ADT exercise trials.
+- Timing of exercise may matter when men start ADT: PMID [32020032](https://pubmed.ncbi.nlm.nih.gov/32020032/).
+- Exercise mode may matter for bone: resistance training plus impact/loading stimulus may be different from resistance training alone. See *Exercise Mode Specificity for Preserving Spine and Hip Bone Mineral Density in Prostate Cancer Patients*, PMID [30395051](https://pubmed.ncbi.nlm.nih.gov/30395051/).
+
+**Patient-facing interpretation:** for men on ADT, exercise should not be framed only as “cardio.” A resistance-focused plan may be central, especially when muscle loss, frailty, falls risk, bone density, fatigue, or metabolic health are concerns. Protein/energy adequacy may matter when the goal is muscle gain or preservation, but higher protein intake should be discussed with a clinician or dietitian, especially with kidney disease or other medical restrictions.
+
+### Radiation exercise priming: promising but not routine everywhere
+
+Newton discusses short aerobic exercise immediately before radiation as a possible way to increase tumour blood flow/oxygenation, reduce hypoxia, activate immune factors, and potentially improve radiation biology. This is a promising **exercise-priming** concept, not a universal standard of care.
+
+**Evidence examples:**
+
+- *Exercise modulation of tumour perfusion and hypoxia to improve radiotherapy response in prostate cancer*, PMID [32632128](https://pubmed.ncbi.nlm.nih.gov/32632128/).
+- ERADICATE protocol: *Exercise medicine as adjunct therapy during radiation for cancer of the prostate to improve treatment efficacy*, PMID [39875858](https://pubmed.ncbi.nlm.nih.gov/39875858/).
+
+**Patient-facing interpretation:** do not independently exercise immediately before a radiation fraction without the radiation oncology team’s agreement. Bladder-filling protocols, fatigue, cardiovascular risk, falls risk, urinary symptoms, and treatment logistics all matter.
+
+**Questions for radiation oncology:**
+
+- Is any exercise before radiation appropriate in my centre’s workflow?
+- Would it interfere with bladder/rectal preparation or positioning?
+- Is the goal fatigue reduction, fitness, treatment tolerance, or tumour oxygenation/perfusion research?
+- Are there trials or exercise-oncology services linked to my treatment centre?
+
+### Bone metastases: avoid both extremes
+
+The older advice for men with bone metastases was often “avoid activity.” Newton argues that blanket rest can worsen weakness, frailty, and quality of life. The opposite extreme — unsupervised loading of painful or unstable bone lesions — is also unsafe.
+
+**Balanced interpretation:** metastatic bone disease should trigger **imaging-informed, supervised, modified exercise**, not automatic inactivity and not do-it-yourself heavy loading. Depending on lesion location and stability, programs may exercise unaffected regions, avoid high-risk movements, use machines or supported positions, and monitor pain and function.
+
+Newton also describes specialist-supervised isometric loading around selected bone lesions. This should be treated as an emerging/specialist practice, not a general patient instruction.
+
+**Questions for clinician/exercise professional:**
+
+- Do my scans show bone metastases, osteoporosis, or fracture-risk areas that change exercise choices?
+- Which bones or movements should be protected?
+- Can I safely train unaffected limbs or muscle groups?
+- Should I see an oncology physiotherapist or accredited exercise physiologist experienced with metastatic disease?
+- What symptoms — new focal bone pain, night pain, neurological symptoms, falls, weakness — should stop exercise and trigger urgent review?
+
+### Mechanisms Newton highlights
+
+The current evidence is strongest for function, fatigue, strength, body composition, and quality of life. Mechanistic evidence is promising but should not be overstated as proven survival benefit. Newton’s proposed mechanisms include:
+
+- **myokines** released from muscle, including IL-6, irisin, decorin, OSM, SPARC, IL-15, and IL-10;
+- **adipokines/fat signalling**, where higher fat and lower muscle may shift circulating signals in an unfavourable direction;
+- **immune activation**, including natural killer cells and memory T-cell signalling;
+- **reduced systemic inflammation and oxidative stress**;
+- **androgen-receptor and hormone-related signalling changes**;
+- **tumour vascularization/perfusion and hypoxia changes**;
+- **insulin, growth factor, and sex-steroid signalling**;
+- possible **epigenetic, genetic, and telomere-related** effects.
+
+**Key evidence anchor:** *Exercise-induced myokines and their effect on prostate cancer*, PMID [34158658](https://pubmed.ncbi.nlm.nih.gov/34158658/).
+
+### Active surveillance, HIIT, and mental health
+
+Newton and Moyad discuss active surveillance and a Canadian high-intensity interval training study. The important patient point is not just possible cancer biology; it is also anxiety, fear of progression, stress, self-esteem, fatigue, and quality of life.
+
+**Evidence example:** *A Randomized Trial of the Effects of Exercise on Anxiety, Fear of Cancer Progression and Quality of Life in Prostate Cancer Patients on Active Surveillance*, PMID [35179044](https://pubmed.ncbi.nlm.nih.gov/35179044/).
+
+**Patient-facing interpretation:** exercise may help men tolerate the uncertainty of active surveillance, but it does not replace PSA testing, MRI, biopsy schedules, or treatment escalation when clinically indicated.
+
+### Sexual function and patient-priority outcomes
+
+Newton emphasizes that patients often care deeply about urinary continence and sexual function, sometimes more than clinicians expect. The current page already covers pelvic-floor/continence evidence; it should also flag sexual function evidence.
+
+**Evidence example:** *Exercise and Psychosexual Education to Improve Sexual Function in Men With Prostate Cancer: A Randomized Clinical Trial*, *JAMA Network Open* 2025, DOI [10.1001/jamanetworkopen.2025.0413](https://doi.org/10.1001/jamanetworkopen.2025.0413), PMID [40072437](https://pubmed.ncbi.nlm.nih.gov/40072437/).
+
+**Patient-facing interpretation:** sexual function, intercourse satisfaction, fatigue, mood, continence, strength, and treatment tolerance are legitimate exercise outcomes to discuss — not secondary or trivial concerns.
+
+### Practical prescription issues from the Q&A
+
+The Q&A section includes practical advice about lifting frequency, whole-body resistance training, machines/free weights/bands, breathing, stretching, protein, creatine, sleep, and cold plunges. These are useful discussion prompts, but the website should avoid turning them into one-size-fits-all instructions.
+
+**Cautious takeaways:**
+
+- resistance training generally needs sufficient stimulus to maintain or grow muscle;
+- beginners or medically complex patients may be safer starting with supervised machines rather than free weights;
+- exhaling during exertion and avoiding breath-holding may matter for blood pressure/hernia risk;
+- sleep is central to recovery;
+- protein adequacy matters when trying to preserve or build muscle, but kidney disease and other conditions change what is safe;
+- creatine may be reasonable for some people but should be discussed with clinicians, especially with kidney issues or medication complexity;
+- cold-water immersion after lifting may not enhance muscle adaptation and may blunt some exercise signals, but this is a lower-priority issue than doing the exercise safely and consistently.
+
+## Expanded clinician discussion checklist
+
+- Which phase am I in: active surveillance, pre-surgery preparation, surgery recovery, radiation, ADT/systemic therapy, metastatic disease, or survivorship?
+- Is my main exercise goal muscle, bone, fatigue, continence, sexual function, mood, metabolic health, treatment tolerance, cardiovascular health, or possible cancer-control endpoints?
+- Should I be referred to an accredited exercise physiologist, oncology physiotherapist, pelvic-floor physiotherapist, dietitian, or psychologist?
+- Do I need DEXA or another body-composition/bone-density assessment because of ADT, frailty, weight loss, GLP-1 medication, falls risk, or low muscle mass?
+- If on ADT, should resistance training be prioritized over aerobic exercise because of muscle loss, sarcopenia, or frailty risk?
+- Is supervised impact/loading exercise appropriate for bone density, or unsafe because of osteoporosis, pain, falls risk, or metastases?
+- If I have bone metastases, which lesions are stable or unstable, and which movements should be avoided or modified?
+- During radiation, is exercise priming being studied or used at this centre, and would it interfere with bladder/rectal preparation?
+- During active surveillance, could exercise help anxiety, fear of progression, fatigue, and health markers while I continue standard monitoring?
+- How should nutrition, protein intake, sleep, and recovery support the exercise goal?
 - What symptoms should prompt stopping exercise and contacting the clinical team?
 
 ## Repository interpretation
@@ -370,4 +504,5 @@ This evidence strengthens the Exercise category by adding a structured distincti
 1. **Incidence prevention claims** — mixed and should be stated cautiously.
 2. **Post-diagnosis prognosis associations** — promising but mainly observational.
 3. **Supportive-care exercise during treatment** — stronger randomized evidence for fatigue, fitness, strength, function, and quality of life.
-4. **Post-treatment rehabilitation** — strongest for targeted problems such as urinary incontinence after prostatectomy and general survivorship function.
+4. **Precision exercise medicine** — emerging framework: exercise type, timing, intensity, supervision, body-composition assessment, bone safety, and treatment phase matter.
+5. **Post-treatment rehabilitation** — strongest for targeted problems such as urinary incontinence after prostatectomy and general survivorship function.

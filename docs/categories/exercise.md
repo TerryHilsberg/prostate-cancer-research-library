@@ -35,7 +35,7 @@ Be especially cautious with:
 
 ## Filed items
 
-- [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, exercise-oncology guidance, a mechanistic Q&A on myokines/tumour-suppressive serum and INTERVAL-GAP4, and an adjacent note on the NEJM CHALLENGE colon-cancer structured-exercise trial.
+- [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, exercise-oncology guidance, a mechanistic Q&A on myokines/tumour-suppressive serum and INTERVAL-GAP4, an adjacent note on the NEJM CHALLENGE colon-cancer structured-exercise trial, and PCRI/Rob Newton video notes on precision exercise medicine, prehabilitation, ADT muscle/bone/body-composition priorities, exercise priming around radiation, bone metastasis safety, mental health, and sexual function.
 
 ## Current evidence summary
 
@@ -43,8 +43,8 @@ Be especially cautious with:
 |---|---|
 | Before diagnosis / incidence | Exercise is highly beneficial for general health, but prostate-cancer-specific incidence prevention evidence is mixed. Best meta-analyses show little or no association with total prostate cancer incidence, with possible but uncertain reductions in advanced/aggressive/fatal disease. |
 | After diagnosis | Higher post-diagnosis activity, especially brisk walking and vigorous activity, is consistently associated with better survival/progression outcomes in observational cohorts, but causality is not proven. |
-| During treatment | Randomized trials and systematic reviews support aerobic and resistance exercise during radiation and ADT for fatigue, fitness, strength, function, body composition, and quality of life. |
-| After treatment | Survivorship exercise supports function and quality of life. Pelvic-floor muscle exercise, especially supervised programs, has specific evidence for urinary incontinence after radical prostatectomy. |
+| During treatment | Randomized trials and systematic reviews support aerobic and resistance exercise during radiation and ADT for fatigue, fitness, strength, function, body composition, and quality of life. Precision exercise questions include whether the main target is muscle, bone, fatigue, sexual function, treatment tolerance, or radiation/exercise-priming research. |
+| After treatment | Survivorship exercise supports function and quality of life. Pelvic-floor muscle exercise, especially supervised programs, has specific evidence for urinary incontinence after radical prostatectomy; ongoing plans may also target sarcopenia, bone density, mood, metabolic health, and recurrence-risk discussion. |
 
 ## Practical patient resources
 
