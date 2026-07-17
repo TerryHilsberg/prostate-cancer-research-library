@@ -38,6 +38,7 @@ Be especially cautious with:
 
 ## Filed items
 
+- [AI and Integrated Test Decision Support in Prostate Cancer: Evidence Map](../papers/ai-integrated-prostate-cancer-decision-support-evidence/index.md) — explains how MRI, biopsy maps, PSMA PET/CT, radiomics, AI segmentation, and digital pathology can support local-treatment targeting, focal boost planning, and treatment-intensity decisions.
 - [Focal Therapy for Localized Prostate Cancer: Evidence Map](../papers/focal-therapy-localized-prostate-cancer-evidence/index.md) — review of HIFU, cryotherapy, irreversible electroporation, focal laser ablation, vascular-targeted photodynamic therapy, TULSA/MR-guided ultrasound, focal brachytherapy, and focal radiation boost; includes patient-selection logic, lesion-location considerations, guideline cautions, and validation studies.
 - [Transperineal vs Transrectal Prostate Biopsy: Evidence Map](../papers/transperineal-transrectal-biopsy-evidence/index.md) — biopsy-route evidence relevant to accurate mapping before active surveillance, surgery, radiotherapy, or focal therapy.
 - [PSMA PET/CT in Prostate Cancer: Evidence Map](../papers/psma-pet-ct-prostate-cancer-evidence/index.md) — staging and recurrence imaging evidence relevant before selecting local or salvage treatment.
