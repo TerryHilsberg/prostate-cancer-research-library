@@ -28,6 +28,8 @@ However, the analysis **overstates the current clinical case** if read as “val
 | Advanced prostate cancer may be more glycolytic | Advanced and castration-resistant disease often shows metabolic reprogramming. | “Perfect alignment” with Warburg/Seyfried theory is too strong; prostate cancer also uses androgen receptor, lipid, mitochondrial, and microenvironment pathways. |
 | Ketogenic diet plus immunotherapy | A 2024 prostate-cancer model study suggests ketone-related immune sensitization. | This is preclinical; immune checkpoint inhibitors are not broadly effective for unselected prostate cancer. |
 | Calorie restriction | May reduce insulin/IGF-related signaling and weight in overweight men. | In older men, ADT, chemotherapy, or advanced disease, calorie restriction can worsen sarcopenia, frailty, and treatment tolerance. |
+| Fasting mimicking diet (FMD) | Longo-style periodic low-calorie/low-sugar/low-protein cycles have human biomarker and early prostate-cancer metabolic pilot evidence. | Prostate-cancer outcome benefit is unproven; safety depends on supervision, diabetes/kidney/cardiovascular status, treatment phase, BMI, and muscle mass. |
+| Protein / IGF-1 / mTOR | High animal-protein intake may raise IGF-1 and nutrient-signalling pathways in some contexts; plant-forward protein patterns may be biologically attractive. | Older men and men on ADT often need adequate protein plus resistance training to prevent sarcopenia; do not apply a universal low-protein rule. |
 | Adjunct role | Worth discussing as a supervised supportive/metabolic strategy in selected patients. | Should not delay or replace surgery, radiation, ADT, androgen receptor pathway inhibitors, chemotherapy, radioligand therapy, or clinical trials when indicated. |
 
 ## What the Gemini analysis got right
@@ -59,7 +61,20 @@ This supports **research interest**, not routine clinical use.
 
 **Reference:** Murphy et al., *Cancer Research*, 2024. DOI: [10.1158/0008-5472.CAN-23-2742](https://doi.org/10.1158/0008-5472.CAN-23-2742); PMID: [38588411](https://pubmed.ncbi.nlm.nih.gov/38588411/).
 
-### 4) Sarcopenia/adherence concerns are real
+### 4) FMD is a distinct metabolic-therapy approach from ketogenic dieting
+
+Valter Longo's fasting mimicking diet (FMD) framework deserves separate treatment because it is not simply a ketogenic diet or continuous calorie restriction. It uses short periodic cycles that are low in calories, sugars, and protein and relatively higher in unsaturated fats, with the aim of lowering insulin/IGF-1 and nutrient-sensing pathways such as mTOR while preserving feasibility compared with water-only fasting.
+
+Relevant evidence includes:
+
+- a randomized healthy-adult biomarker trial showing reductions in weight, fat, blood pressure, fasting glucose, IGF-1, triglycerides, LDL cholesterol, and CRP after monthly FMD cycles (PMID [28202779](https://pubmed.ncbi.nlm.nih.gov/28202779/));
+- a small prostate-cancer pilot implementation study reporting improved metabolic measures after periodic 4-day FMD cycles, but not proving cancer-control benefit (PMID [35314788](https://pubmed.ncbi.nlm.nih.gov/35314788/));
+- mechanistic and adjacent-cancer rationale for combining fasting/FMD with cancer therapies (PMID [30327499](https://pubmed.ncbi.nlm.nih.gov/30327499/));
+- the DIRECT breast-cancer neoadjuvant chemotherapy randomized phase 2 trial, which is important adjacent evidence but not directly applicable to prostate cancer treatment pathways (PMID [32576828](https://pubmed.ncbi.nlm.nih.gov/32576828/)).
+
+**Interpretation:** FMD has value as a supervised adjunct metabolic-health and research concept. For prostate cancer, the evidence does **not** yet show improved metastasis-free survival, prostate-cancer-specific survival, or overall survival.
+
+### 5) Sarcopenia/adherence concerns are real
 
 The Gemini analysis appropriately flags that strict calorie-restricted ketogenic diets may be hard to maintain and could worsen muscle loss. This matters because men with prostate cancer are often older, and ADT is associated with body-composition changes, insulin resistance, bone loss, and fatigue.
 

@@ -479,7 +479,7 @@ The Q&A section includes practical advice about lifting frequency, whole-body re
 - beginners or medically complex patients may be safer starting with supervised machines rather than free weights;
 - exhaling during exertion and avoiding breath-holding may matter for blood pressure/hernia risk;
 - sleep is central to recovery;
-- protein adequacy matters when trying to preserve or build muscle, but kidney disease and other conditions change what is safe;
+- protein adequacy matters when trying to preserve or build muscle, but kidney disease and other conditions change what is safe; this should be balanced against Valter Longo's FMD/protein-IGF-1/mTOR hypothesis, which argues for caution with high animal-protein intake in some contexts but does not remove the need to prevent sarcopenia during ADT or older age;
 - creatine may be reasonable for some people but should be discussed with clinicians, especially with kidney issues or medication complexity;
 - cold-water immersion after lifting may not enhance muscle adaptation and may blunt some exercise signals, but this is a lower-priority issue than doing the exercise safely and consistently.
 

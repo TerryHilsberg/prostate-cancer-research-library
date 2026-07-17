@@ -38,7 +38,7 @@ Be especially cautious with:
 
 - [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](../papers/metabolic-therapy-prostate-cancer-evidence/index.md) — diet-focused evidence review on ketogenic/low-carbohydrate interventions, calorie restriction, insulin/IGF signaling, and safety caveats.
 
-- [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, and survivorship nutrition reviews.
+- [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, survivorship nutrition reviews, and a patient-facing appraisal of Prof Valter Longo's fasting mimicking diet (FMD), protein/IGF-1/mTOR framework, and safety trade-offs.
 
 ## Current evidence summary
 
@@ -46,5 +46,5 @@ Be especially cautious with:
 |---|---|
 | Before diagnosis / incidence | Overall dietary patterns matter more than single-food claims. Western/inflammatory patterns and high dairy/calcium intake are associated with higher risk in some observational syntheses; healthy/plant-forward patterns may be associated with lower risk, but causality is uncertain. |
 | After diagnosis | Post-diagnosis plant-based, Mediterranean, and lower-inflammatory dietary patterns are associated with lower progression risk in several cohorts, but this is mostly observational. |
-| During treatment / ADT | Diet and weight-management interventions may support weight, glucose, insulin resistance, lipids, and function during ADT, but evidence is mainly supportive-care rather than cancer-control evidence. |
+| During treatment / ADT | Diet and weight-management interventions may support weight, glucose, insulin resistance, lipids, and function during ADT, but evidence is mainly supportive-care rather than cancer-control evidence. Longo-style FMD/protein-IGF-mTOR thinking is biologically plausible but must be balanced against ADT-related sarcopenia, frailty, bone loss, diabetes/kidney safety, and treatment tolerance. |
 | After treatment | Survivorship nutrition is strongest as cardiometabolic, bowel, muscle, weight, and quality-of-life support; evidence for recurrence/survival benefit is promising but not definitive. |

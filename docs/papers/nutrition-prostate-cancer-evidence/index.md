@@ -22,6 +22,8 @@ Scope: diet, dietary patterns, body composition, metabolic health, and selected 
 - **Single foods/nutrients**: dairy/calcium, tomato sauce/lycopene, fish/omega-3 and omega-6 balance.
 - **Active surveillance interventions**: vegetable-rich diet counseling, omega-3/low omega-6 diet plus fish oil, weight-loss diet/exercise programs.
 - **ADT/metabolic support**: low-carbohydrate diet plus walking, diet/exercise behavior programs.
+- **Fasting mimicking diet / periodic fasting**: Prof Valter Longo's FMD framework, prostate-cancer pilot evidence, cancer-adjunct trials in other cancers, and safety caveats.
+- **Protein / IGF-1 / mTOR questions**: high-protein and animal-protein hypotheses, ageing biology, prostate-cancer IGF evidence, and the countervailing need to preserve muscle during ADT and older age.
 - **Survivorship diet quality**: diet after diagnosis, progression, recurrence, cancer-specific mortality, and all-cause mortality.
 
 ## Evidence synthesis by patient journey
@@ -49,6 +51,10 @@ The best-known active surveillance RCT, MEAL, successfully increased vegetable i
 CAPFISH-3 tested a high omega-3, low omega-6 diet with fish oil in men on active surveillance and found a favorable change in Ki-67, a biopsy proliferation biomarker, over one year. This is promising but should not be overinterpreted as proof of better long-term cancer outcomes.
 
 In overweight/obese men on active surveillance, PALS tested a structured diet and exercise weight-loss program and primarily targeted obesity/metabolic biomarkers rather than definitive prostate cancer outcomes. In men starting ADT, CAPS1 and IDEA-P suggest diet/lifestyle interventions can improve or support metabolic and functional outcomes, but these are supportive-care findings, not proven anti-cancer effects.
+
+Prof Valter Longo's fasting mimicking diet (FMD) framework is relevant here because it proposes short, periodic, low-calorie/low-sugar/low-protein cycles designed to lower nutrient-signalling pathways such as insulin/IGF-1 and mTOR while being more practical than water-only fasting. The prostate-cancer-specific human evidence is still early: a small prospective implementation study of periodic 4-day FMD cycles in prostate cancer patients with metabolic features reported weight, waist, blood-pressure, glucose, cholesterol, and PSA changes, but it was not a randomized cancer-outcome trial. In other cancers, especially breast cancer neoadjuvant chemotherapy, randomized FMD evidence is more developed but remains **adjacent evidence**, not direct prostate-cancer proof.
+
+Longo's protein hypothesis is also worth including, but cautiously. The ageing-biology argument is that high protein intake, especially animal protein in midlife, can increase IGF-1 and nutrient-sensing pathways including mTOR, which may accelerate ageing biology and plausibly support cancer growth. However, prostate cancer patients are often older and may be on ADT, where sarcopenia, frailty, bone loss, treatment tolerance, and falls risk are major competing hazards. Thus the patient question is not simply “low protein good, high protein bad”; it is how to balance plant-forward diet quality and insulin/IGF/mTOR hypotheses against adequate protein, resistance training, muscle preservation, kidney function, and treatment phase.
 
 ### 4. After treatment has ended: survivorship
 
@@ -246,6 +252,92 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - **Limitations:** Pilot size, short follow-up, combined diet and exercise, not powered for cancer outcomes.
 - **Questions for clinician:** Would a structured group or coaching program improve adherence during ADT?
 
+### Fasting mimicking diet, protein, IGF-1, and mTOR
+
+#### Fasting mimicking diet and markers/risk factors for aging, diabetes, cancer, and cardiovascular disease
+
+- **Citation:** Wei M, Brandhorst S, Shelehchi M, et al. *Science Translational Medicine*. 2017.
+- **DOI/PMID:** DOI [10.1126/scitranslmed.aai8700](https://doi.org/10.1126/scitranslmed.aai8700); PMID [28202779](https://pubmed.ncbi.nlm.nih.gov/28202779/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28202779/
+- **Date:** 2017 Feb 15
+- **Category:** Nutrition; Metabolic Health; Adjacent evidence
+- **Evidence type:** Randomized trial in generally healthy adults, not prostate-cancer patients.
+- **Population:** 100 generally healthy US participants randomized to unrestricted diet versus monthly 5-day FMD cycles, with crossover.
+- **Patient relevance:** Provides the human biomarker basis for Longo's FMD framework: a low-calorie, low-sugar, low-protein, higher-unsaturated-fat periodic diet designed to reduce risk markers without continuous calorie restriction.
+- **Main finding:** Three monthly FMD cycles reduced body weight, body fat, blood pressure, fasting glucose, IGF-1, triglycerides, LDL cholesterol, and CRP, with no serious adverse events reported in this selected population.
+- **Limitations:** Not a prostate-cancer study; biomarker/risk-factor endpoints, not cancer progression or survival; participants were selected and monitored.
+- **Questions for clinician:** If FMD is considered, what is the goal: weight/metabolic markers, treatment tolerance, biomarker change, or a cancer endpoint — and is there evidence for that endpoint in my disease state?
+
+#### The impact of a fasting mimicking diet on metabolic health in prostate cancer: pilot implementation study
+
+- **Citation:** Fay-Watt V, O'Connor S, Roshan D, Romeo AC, Longo VD, Sullivan FJ. *Prostate Cancer and Prostatic Diseases*. 2023.
+- **DOI/PMID:** DOI [10.1038/s41391-022-00528-3](https://doi.org/10.1038/s41391-022-00528-3); PMID [35314788](https://pubmed.ncbi.nlm.nih.gov/35314788/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/35314788/
+- **Date:** 2023
+- **Category:** Nutrition; Metabolic Health; ADT/supportive care
+- **Evidence type:** Prospective pilot implementation study.
+- **Population:** 35 prostate-cancer patients with metabolic features; 29 completed 3-monthly cycles of a 4-consecutive-day packaged FMD.
+- **Patient relevance:** Direct prostate-cancer human evidence for periodic FMD as a metabolic-health intervention.
+- **Main finding:** Reported improvements included weight, abdominal circumference, blood pressure, glucose, cholesterol, and PSA-related measures after FMD cycles.
+- **Limitations:** Small, non-randomized, short follow-up, metabolic/biomarker focus, and not proof that FMD slows progression or improves survival.
+- **Questions for clinician:** Would any fasting-like approach be safe given current treatment, weight trend, muscle mass, diabetes medications, kidney function, blood pressure medicines, frailty, and treatment goals?
+
+#### Fasting and cancer: molecular mechanisms and clinical application
+
+- **Citation:** Nencioni A, Caffa I, Cortellino S, Longo VD. *Nature Reviews Cancer*. 2018.
+- **DOI/PMID:** DOI [10.1038/s41568-018-0061-0](https://doi.org/10.1038/s41568-018-0061-0); PMID [30327499](https://pubmed.ncbi.nlm.nih.gov/30327499/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/30327499/
+- **Date:** 2018 Nov
+- **Category:** Nutrition; Therapies; Metabolic Health
+- **Evidence type:** Mechanistic and clinical review.
+- **Population:** Preclinical and clinical fasting/FMD evidence across cancers.
+- **Patient relevance:** Best concise statement of the Longo/Nencioni rationale: fasting/FMD can alter growth factors and metabolites, potentially protecting normal cells while sensitizing cancer cells to therapy.
+- **Main finding:** Fasting/FMD is presented as a potentially promising adjunct with ongoing trials, particularly with chemotherapy, immunotherapy, or other treatments.
+- **Limitations:** Mechanistic plausibility and adjacent-cancer evidence do not establish prostate-cancer benefit; fasting is not automatically safe during cancer care.
+- **Questions for clinician:** Is this being studied in my cancer setting, and could it worsen malnutrition, sarcopenia, fatigue, diabetes control, or treatment tolerance?
+
+#### Fasting mimicking diet as an adjunct to neoadjuvant chemotherapy for breast cancer: DIRECT trial
+
+- **Citation:** de Groot S, Lugtenberg RT, Cohen D, et al. *Nature Communications*. 2020.
+- **DOI/PMID:** DOI [10.1038/s41467-020-16138-3](https://doi.org/10.1038/s41467-020-16138-3); PMID [32576828](https://pubmed.ncbi.nlm.nih.gov/32576828/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/32576828/
+- **Date:** 2020 Jun 23
+- **Category:** Nutrition; Adjacent cancer evidence
+- **Evidence type:** Multicentre randomized phase 2 trial.
+- **Population:** 131 patients with HER2-negative stage II/III breast cancer receiving neoadjuvant chemotherapy; without diabetes and BMI >18 kg/m².
+- **Patient relevance:** Shows FMD can be tested as an adjunct to cancer therapy in humans, but in breast cancer rather than prostate cancer.
+- **Main finding:** FMD was associated with higher radiologic response and, in per-protocol analysis, higher Miller-Payne 4/5 pathological response; toxicity was not increased despite dexamethasone omission in the FMD group.
+- **Limitations:** Not prostate cancer; chemotherapy context differs from prostate surgery/radiation/ADT/ARPI pathways; selected patients and protocol supervision.
+- **Questions for clinician:** Is there a prostate-cancer-specific trial or protocol, or would applying this be speculative extrapolation?
+
+#### Low protein intake is associated with a major reduction in IGF-1, cancer, and overall mortality in the 65 and younger but not older population
+
+- **Citation:** Levine ME, Suarez JA, Brandhorst S, et al. *Cell Metabolism*. 2014.
+- **DOI/PMID:** DOI [10.1016/j.cmet.2014.02.006](https://doi.org/10.1016/j.cmet.2014.02.006); PMID [24606898](https://pubmed.ncbi.nlm.nih.gov/24606898/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/24606898/
+- **Date:** 2014 Mar 4
+- **Category:** Nutrition; Metabolic Health; Aging biology
+- **Evidence type:** Observational human cohort plus experimental model data.
+- **Population:** NHANES III adults with mouse/cell-model experiments; not prostate-cancer-specific.
+- **Patient relevance:** Key paper behind Longo's public view that high protein intake, especially animal protein in midlife, may raise IGF-1 and cancer/ageing risk, whereas plant protein may behave differently.
+- **Main finding:** In ages 50–65, high protein intake was associated with higher all-cause and cancer mortality and higher IGF-1; associations were attenuated or abolished for plant-derived protein. In older adults, higher protein was associated with lower mortality, illustrating age-dependent trade-offs.
+- **Limitations:** Observational diet data, not a prostate-cancer trial; age interaction is central; cannot be converted into a universal low-protein prescription for older men with cancer.
+- **Questions for clinician:** Given my age, muscle mass, ADT status, kidney function, and exercise goals, should protein emphasis shift toward plant-forward sources, protein adequacy, or restriction?
+
+#### Circulating IGF-I and prostate cancer risk
+
+- **Citation:** Travis RC, Appleby PN, Martin RM, et al. *Cancer Research*. 2016.
+- **DOI/PMID:** DOI [10.1158/0008-5472.CAN-15-1551](https://doi.org/10.1158/0008-5472.CAN-15-1551); PMID [26921328](https://pubmed.ncbi.nlm.nih.gov/26921328/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26921328/
+- **Date:** 2016 Apr 15
+- **Category:** Nutrition; Hormones; Risk Stratification
+- **Evidence type:** Individual participant data meta-analysis.
+- **Population:** Up to 10,554 prostate cancer cases and 13,618 controls from 17 prospective and two cross-sectional studies.
+- **Patient relevance:** Provides prostate-specific support that IGF biology matters, independent of any one diet theory.
+- **Main finding:** Higher circulating IGF-I was associated with increased prostate cancer risk in prospective analyses.
+- **Limitations:** Association with diagnosis risk, not proof that lowering IGF-I after diagnosis improves prostate-cancer outcomes; dietary interventions were not tested.
+- **Questions for clinician:** Does IGF-I evidence support broad metabolic health attention, while avoiding claims that FMD/protein restriction is proven to control prostate cancer?
+
 ### After treatment / survivorship
 
 #### Effect of postdiagnosis diet and lifestyle on clinical outcomes in prostate cancer survivors
@@ -298,7 +390,9 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - Should the focus be Mediterranean-style, plant-forward, high-fiber diet quality rather than single supplements?
 - How should calcium and dairy decisions balance prostate-cancer uncertainty with bone health, especially if on ADT?
 - If considering fish oil or omega-3 supplements, what are the bleeding, medication, and cardiovascular considerations?
-- What outcomes should be tracked: weight, waist, muscle/strength, lipids, glucose/HbA1c, blood pressure, bowel symptoms, fatigue, and treatment tolerance?
+- If considering FMD, fasting, or calorie restriction, am I an appropriate candidate given treatment phase, BMI, recent weight loss, frailty, diabetes medications, kidney disease, blood pressure, and muscle mass?
+- Does protein advice need to differ by age and goal: lower animal-protein/IGF-1/mTOR exposure in midlife versus adequate protein plus resistance training to protect muscle during ADT or older age?
+- What outcomes should be tracked: weight, waist, muscle/strength, DEXA/body composition, lipids, glucose/HbA1c, blood pressure, bowel symptoms, fatigue, and treatment tolerance?
 
 ## Repository interpretation
 
@@ -307,4 +401,5 @@ This evidence strengthens the Nutrition category by adding a structured distinct
 1. **Incidence prevention claims** — diet pattern evidence is suggestive but not definitive; avoid single-food/supplement certainty.
 2. **Post-diagnosis associations** — plant-forward, Mediterranean, and low-inflammatory patterns look promising but are mostly observational.
 3. **Active surveillance trials** — increased vegetables alone did not reduce progression in MEAL; omega-3/low omega-6 diet changed a biomarker in CAPFISH-3 but needs longer-term clinical outcomes.
-4. **Treatment/survivorship support** — nutrition is strongest as cardiometabolic, weight, muscle, bowel, and quality-of-life support, especially during ADT and survivorship.
+4. **Longo/FMD/protein-IGF-mTOR framework** — valuable as an adjunct metabolic-health and research hypothesis, especially for supervised short periodic FMD cycles and plant-forward protein thinking, but prostate-cancer clinical outcome proof is limited and safety depends heavily on age, ADT status, muscle mass, diabetes/kidney disease, frailty, and treatment phase.
+5. **Treatment/survivorship support** — nutrition is strongest as cardiometabolic, weight, muscle, bowel, and quality-of-life support, especially during ADT and survivorship.
