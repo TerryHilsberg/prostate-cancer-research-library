@@ -14,16 +14,16 @@ Scope: focal and partial-gland treatment approaches for localized prostate cance
 | **What is focal therapy?** | Treatment aimed at the known cancer-bearing part of the prostate rather than the whole gland, attempting to preserve urinary and sexual function. | Strong concept; variable clinical validation by modality |
 | **Who is the classic candidate?** | A man with localized, MRI-visible, biopsy-confirmed, clinically significant but limited-volume disease, often an index lesion that appears unilateral or regionally concentrated, with no clear extracapsular extension, seminal vesicle invasion, nodal disease, or metastases. | Consensus-based; not proven by large long-term randomized trials for most ablation modalities |
 | **Who is usually a poor candidate?** | Multifocal high-grade disease, extensive bilateral disease, large or poorly localized tumour, MRI-invisible significant disease, suspected extracapsular extension, high-risk biology needing whole-gland/systemic control, inability to comply with MRI/biopsy surveillance, or expectation that focal therapy eliminates future monitoring. | Consensus/guideline-based |
-| **Which modality has the strongest cancer-control evidence?** | For **radiation**, focal boost to an MRI-visible dominant intraprostatic lesion has randomized phase III evidence from FLAME. For **ablation**, HIFU, cryotherapy, and padeliporfin vascular-targeted photodynamic therapy have more published evidence than newer modalities, but long-term comparative evidence remains limited. | Moderate for focal boost RT; low-to-moderate for focal ablation depending on modality |
-| **Is focal therapy mainstream?** | Focal radiation boost is moving into mainstream radiotherapy for selected intermediate/high-risk patients. Focal ablative therapies are increasingly available but are still commonly described by guidelines as investigational or best done in trials/registries. | Guideline-dependent; evolving |
+| **Which modality has the strongest cancer-control evidence?** | For **radiation**, focal boost to an MRI-visible dominant intraprostatic lesion has randomized phase III evidence from FLAME. For **ablation**, HIFU and cryotherapy now have a large UK prospective-registry update from the HEAT and ICE registries involving 3477 patients, while padeliporfin vascular-targeted photodynamic therapy has randomized low-risk evidence. | Moderate for focal boost RT; evolving low-to-moderate for focal ablation depending on modality |
+| **Is focal therapy mainstream?** | Focal radiation boost is moving into mainstream radiotherapy for selected intermediate/high-risk patients. Focal HIFU/cryo evidence is maturing, but the new HEAT/ICE report is still registry evidence, not a randomized proof of equivalence to surgery or radiotherapy. Major guidelines still commonly describe focal ablation as investigational or best done in trials/registries. | Guideline-dependent; evolving |
 | **What is the main trade-off?** | Lower urinary/sexual/rectal toxicity is the goal, but residual or out-of-field cancer can remain. Follow-up requires PSA, MRI, and usually repeat biopsy. | Supported by systematic reviews and consensus statements |
 
 ## Modalities covered
 
 | Modality | How it works | Typical use-case logic | Evidence maturity | Key caveat |
 |---|---|---|---|---|
-| **High-intensity focused ultrasound (HIFU)** | Focused ultrasound heats/ablates tissue. | MRI-visible index lesion; often unilateral/hemi-gland or quadrant treatment; used for selected low/intermediate and some carefully selected higher-risk localized cases in registries. | One of the larger focal-ablation evidence bases, including prospective multicentre registry data. | Follow-up biopsy rates vary; repeat focal treatment may be needed; not equivalent to radical therapy evidence. |
-| **Cryotherapy / focal cryoablation** | Freezing destroys targeted tissue. | Often MRI-visible lesions, including anterior or lateral lesions depending on access and ice-ball safety margins. | Registry and prospective development data; medium-term evidence. | Risk to urethra, sphincter, neurovascular bundles, rectum depends on lesion location and ice-ball margin. |
+| **High-intensity focused ultrasound (HIFU)** | Focused ultrasound heats/ablates tissue. | MRI-visible index lesion; often unilateral/hemi-gland or quadrant treatment; used for selected low/intermediate and some carefully selected higher-risk localized cases in registries. | One of the larger focal-ablation evidence bases, now including 5-year HIFU data and the 3477-patient UK HEAT/ICE HIFU+cryo registry update. | Follow-up biopsy rates vary; repeat focal treatment may be needed; registry outcomes should not be treated as randomized equivalence to radical therapy. |
+| **Cryotherapy / focal cryoablation** | Freezing destroys targeted tissue. | Often MRI-visible lesions, including anterior or lateral lesions depending on access and ice-ball safety margins. | Registry and prospective development data, strengthened by the UK HEAT/ICE registry update with HIFU and cryotherapy. | Risk to urethra, sphincter, neurovascular bundles, rectum depends on lesion location and ice-ball margin; long-term comparative evidence remains limited. |
 | **Irreversible electroporation (IRE / NanoKnife)** | Nonthermal electrical pulses disrupt cell membranes; theoretically preserves collagenous structures such as vessels/ducts. | Lesions close to structures where thermal spread is a concern, including selected apical/anterior/posterior locations, but selection is specialist-dependent. | Growing prospective evidence including phase II and pivotal single-arm data; still evolving. | Out-of-field clinically significant cancer and retreatment remain concerns; long-term comparative outcomes limited. |
 | **Focal laser ablation (FLA)** | MRI-guided laser heating creates localized coagulative necrosis. | Small MRI-visible lesions accessible to in-bore or fusion-guided laser placement. | Early phase/single-arm studies; investigational. | Small numbers; variable local control; expertise and MRI thermometry matter. |
 | **Vascular-targeted photodynamic therapy (VTP; padeliporfin/TOOKAD)** | Light-activated drug causes vascular occlusion and tissue necrosis in the treated zone. | Historically studied in low-risk localized disease compared with active surveillance. | One randomized phase III trial versus active surveillance in low-risk disease. | Low-risk disease may often be safely observed; availability/regulatory status varies. |
@@ -90,6 +90,14 @@ HIFU has one of the largest focal-ablation datasets. A multicentre study of foca
 Focal cryotherapy has prospective registry evidence and may be considered for selected MRI-visible clinically significant lesions. It is not just “freezing the cancer”; the ice-ball must cover the target with a safety margin while protecting urethra, sphincter, rectum, and neurovascular structures.
 
 **Patient interpretation:** cryotherapy may preserve function in selected men, but selection and follow-up are crucial. The evidence base is registry-heavy rather than definitive randomized comparison against surgery/radiation.
+
+### 3. HIFU and cryotherapy: UK HEAT/ICE registry update
+
+The BBC article refers to the 2026 European Urology report from the UK prospective HEAT and ICE registries: **Oncological Outcomes Following Focal HIFU and Cryotherapy for Treatment of Nonmetastatic Prostate Cancer in the United Kingdom: An Updated Analysis of 3477 Patients from the Prospective HEAT and ICE Registries**.
+
+This study is important because it is much larger and more mature than many earlier focal ablation reports. It followed **3477 patients** treated with focal HIFU or focal cryotherapy for nonmetastatic prostate cancer in UK registry practice. The BBC summary reports that nearly all men had intermediate- or high-risk disease and that prostate-cancer mortality was very low over follow-up, with fewer urinary and sexual side effects than expected from whole-gland radical therapy.
+
+**Patient interpretation:** this strengthens the case that focal HIFU/cryo is no longer just a small experimental concept. However, it is still **registry evidence**, not a randomized comparison with radical prostatectomy, radiotherapy, brachytherapy, or active surveillance. It can support a discussion about access and suitability, but it should not be read as proving that focal therapy is equivalent for every localized prostate cancer case.
 
 ### 4. Irreversible electroporation
 
@@ -184,6 +192,18 @@ The FLAME randomized phase III trial showed improved biochemical disease-free su
 - **Main finding:** Reported 5-year cancer-control and functional outcomes after focal HIFU; many patients had intermediate- or high-risk disease.
 - **Limitations:** Nonrandomized; follow-up biopsy not universal; failure-free survival definitions differ from standard radical therapy endpoints.
 - **Questions for clinician:** What is the chance of needing repeat HIFU, radical salvage treatment, or later radiation/prostatectomy?
+
+#### HEAT and ICE registries: updated UK focal HIFU and cryotherapy outcomes in 3477 patients
+
+- **Citation:** Light A, Peters M, Gopalakrishnan A, et al. *European Urology*. 2026.
+- **DOI/PMID:** DOI [10.1016/j.eururo.2026.05.007](https://doi.org/10.1016/j.eururo.2026.05.007); PMID not yet indexed in PubMed at retrieval.
+- **Article discussed by:** BBC News, “Prostate cancer trial using focal therapy has fewer side effects,” 2026-07-16: <https://www.bbc.com/news/articles/cwyq3lnndvxo>
+- **Evidence type:** Updated analysis of prospectively collected UK HEAT and ICE focal therapy registry data.
+- **Population:** 3477 patients treated with focal HIFU or focal cryotherapy for nonmetastatic prostate cancer in the United Kingdom.
+- **Main finding:** Provides large-scale long-term registry evidence for oncological outcomes after focal HIFU/cryo; BBC reporting emphasizes very low prostate-cancer mortality and lower urinary/sexual side-effect burden compared with typical whole-gland treatment expectations.
+- **Patient relevance:** This is the study behind the BBC report and is the strongest current reason to revisit access to focal HIFU/cryo for suitable localized cases.
+- **Limitations:** Registry/nonrandomized evidence; selection bias is likely; outcomes are not direct randomized comparisons with prostatectomy, radiotherapy, brachytherapy, or active surveillance; follow-up intensity and definitions of recurrence/salvage matter.
+- **Questions for clinician:** Am I anatomically and biologically similar to the registry patients? What were the centre’s own HIFU/cryo outcomes, repeat-treatment rate, salvage-treatment rate, and follow-up biopsy protocol?
 
 ### Cryotherapy
 
