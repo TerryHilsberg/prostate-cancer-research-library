@@ -1,0 +1,3249 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Patient-perspective prostate cancer diagnosis and treatment research repository">
+      
+      
+      
+        <link rel="canonical" href="https://TerryHilsberg.github.io/prostate-cancer-research-library/papers/ai-integrated-prostate-cancer-decision-support-evidence/">
+      
+      
+        <link rel="prev" href="../focal-therapy-localized-prostate-cancer-evidence/">
+      
+      
+        <link rel="next" href="../psma-pet-ct-prostate-cancer-evidence/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>AI and Integrated Test Decision Support Evidence - Prostate Cancer Research Library</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="deep-orange">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ai-and-integrated-test-decision-support-in-prostate-cancer-evidence-map" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Prostate Cancer Research Library" class="md-header__button md-logo" aria-label="Prostate Cancer Research Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Prostate Cancer Research Library
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              AI and Integrated Test Decision Support Evidence
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="deep-orange"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Prostate Cancer Research Library" class="md-nav__button md-logo" aria-label="Prostate Cancer Research Library" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Prostate Cancer Research Library
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../topics/prostate-cancer-patient/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Patient Perspective
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_2" id="__nav_2_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Patient Perspective
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/prostate-cancer-patient/decision-map/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Decision Map
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/prostate-cancer-patient/clinician-roles/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Clinician Roles
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/prostate-cancer-patient/clinician-questions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Questions for Clinicians
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/prostate-cancer-patient/glossary/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Glossary
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../topics/prostate-cancer-patient/open-questions/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Open Questions
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../categories/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Categories
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_3" id="__nav_3_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Categories
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/screening-early-detection/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Screening & Early Detection
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/diagnostic-workup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Diagnostic Workup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/risk-stratification-staging/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Risk Stratification & Staging
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/active-surveillance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Active Surveillance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/therapies/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Therapies
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/localized-treatment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Localized Treatment
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/advanced-recurrent-disease/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Advanced & Recurrent Disease
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/imaging-biomarkers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Imaging & Biomarkers
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/side-effects-quality-of-life/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Side Effects & Quality of Life
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/nutrition/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nutrition
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/exercise/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exercise
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/shared-decision-making/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Shared Decision-Making
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../categories/guidelines-care-pathways/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Guidelines & Care Pathways
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Papers
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Papers
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../exercise-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Exercise and Prostate Cancer Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../nutrition-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Nutrition and Prostate Cancer Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../blood-pressure-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blood Pressure and Prostate Cancer Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../infections-psa-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    STIs, UTIs, and PSA Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../transperineal-transrectal-biopsy-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Transperineal vs Transrectal Biopsy Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../focal-therapy-localized-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Focal Therapy for Localized Prostate Cancer Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI and Integrated Test Decision Support Evidence
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    AI and Integrated Test Decision Support Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#patient-facing-bottom-line" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patient-facing bottom line
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integrated-data-approaches-covered" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Integrated-data approaches covered
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clinical-workflow-where-integration-happens" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Clinical workflow: where integration happens
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Clinical workflow: where integration happens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-before-biopsy-biopsy-decision-and-target-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Before biopsy: biopsy decision and target selection
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-at-biopsy-mapping-the-prostate" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. At biopsy: mapping the prostate
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-after-diagnosis-risk-stratification-and-treatment-intensity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. After diagnosis: risk stratification and treatment intensity
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-localized-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Localized treatment targeting
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#current-and-emerging-tool-classes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Current and emerging tool classes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-synthesis-by-use-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evidence synthesis by use-case
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Evidence synthesis by use-case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a-biopsy-decision-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A. Biopsy decision support
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#b-mri-and-psma-pet-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        B. MRI and PSMA PET integration
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#c-ai-and-radiomics-for-local-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        C. AI and radiomics for local treatment targeting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#d-digital-pathology-and-multimodal-ai-for-treatment-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        D. Digital pathology and multimodal AI for treatment selection
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-papers-and-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Selected papers and tools
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Selected papers and tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#integrated-biopsy-decision-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Integrated biopsy decision support
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Integrated biopsy decision support">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sthlm3-mri-risk-prediction-mri-targeted-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STHLM3-MRI: risk prediction + MRI + targeted biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plum-mri-based-prostate-biopsy-risk-calculator" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLUM MRI-based prostate biopsy risk calculator
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mount-sinai-prebiopsy-risk-calculator" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mount Sinai prebiopsy risk calculator
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proclarix-blood-based-test-for-biopsy-decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proclarix blood-based test for biopsy decision-making
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#psma-pet-mri-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PSMA PET + MRI integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PSMA PET + MRI integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#primary-additive-value-of-psma-petct-to-mpmri-triage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRIMARY: additive value of PSMA PET/CT to mpMRI triage
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri-psma-petct-risk-calculator-before-transperineal-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MRI + PSMA PET/CT risk calculator before transperineal biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#primary-score-for-intraprostatic-psma-pet-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRIMARY score for intraprostatic PSMA PET patterns
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#airadiomics-for-local-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI/radiomics for local treatment targeting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="AI/radiomics for local treatment targeting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psma-pet-mpmri-radiomics-for-biologically-targeted-radiotherapy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PSMA PET + mpMRI radiomics for biologically targeted radiotherapy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rad-trap-radiomics-based-targeted-radiotherapy-planning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rad-TRaP: radiomics-based targeted radiotherapy planning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#corrsignia-mri-pathology-deep-learning-framework" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CorrSigNIA MRI-pathology deep learning framework
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-based-clinical-deployment-of-prostate-mri-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research-based clinical deployment of prostate MRI AI
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#digital-pathology-and-multimodal-ai-for-treatment-decisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Digital pathology and multimodal AI for treatment decisions
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Digital pathology and multimodal AI for treatment decisions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ai-predictive-model-for-hormone-therapy-use-in-prostate-cancer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI predictive model for hormone therapy use in prostate cancer
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai-digital-pathology-biomarker-for-long-term-vs-short-term-adt-in-high-risk-disease" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI digital pathology biomarker for long-term vs short-term ADT in high-risk disease
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multimodal-ai-biomarker-after-prostatectomy-biochemical-recurrence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multimodal AI biomarker after prostatectomy biochemical recurrence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai-based-digital-histologic-classifier-for-prostate-cancer-risk-stratification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI-based digital histologic classifier for prostate cancer risk stratification
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#review-and-implementation-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Review and implementation papers
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Review and implementation papers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#next-generation-prostate-imaging-and-ai-applications" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Next-generation prostate imaging and AI applications
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modern-integrative-prostate-cancer-diagnostics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modern integrative prostate cancer diagnostics
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practical-clinician-discussion-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practical clinician discussion checklist
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Practical clinician discussion checklist">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#before-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#before-local-treatment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before local treatment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#choosing-treatment-intensity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing treatment intensity
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#safety-bias-and-validation-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety, bias, and validation questions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#repository-interpretation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Repository interpretation
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../psma-pet-ct-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    PSMA PET/CT Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../immune-modulation-anti-inflammatory-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Immune Modulation and Anti-inflammatory Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hormone-levels-prostate-cancer-incidence-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hormone Levels and Prostate Cancer Incidence Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../metabolic-therapy-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Metabolic Therapy Evidence Review and Critique
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../genetic-epigenetic-risk-prostate-cancer-evidence/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Genetic and Epigenetic Risk Evidence
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../updates/" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Updates
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_5" id="__nav_5_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Updates
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../updates/2026-07-13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026-07-13 Weekly Scan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../updates/2026-07-06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026-07-06 Weekly Scan
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Policies
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Policies
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../policies/selection-policy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Selection Policy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../policies/medical-safety-policy/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Medical Safety Policy
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#patient-facing-bottom-line" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patient-facing bottom line
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#integrated-data-approaches-covered" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Integrated-data approaches covered
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#clinical-workflow-where-integration-happens" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Clinical workflow: where integration happens
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Clinical workflow: where integration happens">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-before-biopsy-biopsy-decision-and-target-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. Before biopsy: biopsy decision and target selection
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-at-biopsy-mapping-the-prostate" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. At biopsy: mapping the prostate
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-after-diagnosis-risk-stratification-and-treatment-intensity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. After diagnosis: risk stratification and treatment intensity
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-localized-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        4. Localized treatment targeting
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#current-and-emerging-tool-classes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Current and emerging tool classes
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#evidence-synthesis-by-use-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Evidence synthesis by use-case
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Evidence synthesis by use-case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#a-biopsy-decision-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        A. Biopsy decision support
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#b-mri-and-psma-pet-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        B. MRI and PSMA PET integration
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#c-ai-and-radiomics-for-local-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        C. AI and radiomics for local treatment targeting
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#d-digital-pathology-and-multimodal-ai-for-treatment-selection" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        D. Digital pathology and multimodal AI for treatment selection
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#selected-papers-and-tools" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Selected papers and tools
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Selected papers and tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#integrated-biopsy-decision-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Integrated biopsy decision support
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Integrated biopsy decision support">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sthlm3-mri-risk-prediction-mri-targeted-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        STHLM3-MRI: risk prediction + MRI + targeted biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plum-mri-based-prostate-biopsy-risk-calculator" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PLUM MRI-based prostate biopsy risk calculator
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mount-sinai-prebiopsy-risk-calculator" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Mount Sinai prebiopsy risk calculator
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#proclarix-blood-based-test-for-biopsy-decision-making" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Proclarix blood-based test for biopsy decision-making
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#psma-pet-mri-integration" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PSMA PET + MRI integration
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="PSMA PET + MRI integration">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#primary-additive-value-of-psma-petct-to-mpmri-triage" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRIMARY: additive value of PSMA PET/CT to mpMRI triage
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#mri-psma-petct-risk-calculator-before-transperineal-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        MRI + PSMA PET/CT risk calculator before transperineal biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#primary-score-for-intraprostatic-psma-pet-patterns" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PRIMARY score for intraprostatic PSMA PET patterns
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#airadiomics-for-local-treatment-targeting" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI/radiomics for local treatment targeting
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="AI/radiomics for local treatment targeting">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#psma-pet-mpmri-radiomics-for-biologically-targeted-radiotherapy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        PSMA PET + mpMRI radiomics for biologically targeted radiotherapy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#rad-trap-radiomics-based-targeted-radiotherapy-planning" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Rad-TRaP: radiomics-based targeted radiotherapy planning
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#corrsignia-mri-pathology-deep-learning-framework" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        CorrSigNIA MRI-pathology deep learning framework
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#research-based-clinical-deployment-of-prostate-mri-ai" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Research-based clinical deployment of prostate MRI AI
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#digital-pathology-and-multimodal-ai-for-treatment-decisions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Digital pathology and multimodal AI for treatment decisions
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Digital pathology and multimodal AI for treatment decisions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#ai-predictive-model-for-hormone-therapy-use-in-prostate-cancer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI predictive model for hormone therapy use in prostate cancer
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai-digital-pathology-biomarker-for-long-term-vs-short-term-adt-in-high-risk-disease" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI digital pathology biomarker for long-term vs short-term ADT in high-risk disease
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#multimodal-ai-biomarker-after-prostatectomy-biochemical-recurrence" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Multimodal AI biomarker after prostatectomy biochemical recurrence
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ai-based-digital-histologic-classifier-for-prostate-cancer-risk-stratification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AI-based digital histologic classifier for prostate cancer risk stratification
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#review-and-implementation-papers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Review and implementation papers
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Review and implementation papers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#next-generation-prostate-imaging-and-ai-applications" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Next-generation prostate imaging and AI applications
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modern-integrative-prostate-cancer-diagnostics" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Modern integrative prostate cancer diagnostics
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#practical-clinician-discussion-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Practical clinician discussion checklist
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Practical clinician discussion checklist">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#before-biopsy" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before biopsy
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#before-local-treatment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before local treatment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#choosing-treatment-intensity" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Choosing treatment intensity
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#safety-bias-and-validation-questions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Safety, bias, and validation questions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#repository-interpretation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Repository interpretation
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="ai-and-integrated-test-decision-support-in-prostate-cancer-evidence-map">AI and Integrated Test Decision Support in Prostate Cancer: Evidence Map</h1>
+<p>Retrieved: <strong>2026-07-17</strong><br />
+Category: <strong>Imaging &amp; Biomarkers; Risk Stratification &amp; Staging; Diagnostic Workup; Localized Treatment; Shared Decision-Making</strong><br />
+Scope: approaches that combine PSA, clinical variables, mpMRI, biopsy/pathology, genomic tests, and PSMA PET/CT to guide prostate cancer diagnosis, risk stratification, treatment selection, and local-treatment targeting.</p>
+<div class="admonition warning">
+<p class="admonition-title">Not medical advice</p>
+<p>This page summarizes decision-support evidence for education and clinician discussion. AI models, risk calculators, radiomics tools, genomic classifiers, and imaging-fusion systems should not replace specialist interpretation by urologists, radiation oncologists, radiologists, nuclear medicine physicians, pathologists, and medical oncologists. Many AI tools are promising but still require external validation, workflow integration, calibration to local populations, and proof that using them improves patient outcomes.</p>
+</div>
+<h2 id="patient-facing-bottom-line">Patient-facing bottom line</h2>
+<table>
+<thead>
+<tr>
+<th>Decision point</th>
+<th>What is already used</th>
+<th>What AI/integrated tools are adding</th>
+<th>Main caution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Should I have a biopsy?</strong></td>
+<td>PSA, PSA density, DRE, family history, age, prior biopsy, prostate volume, mpMRI/PI-RADS, risk calculators and biomarkers.</td>
+<td>MRI-based risk calculators, blood-test + MRI pathways, and emerging MRI+PSMA PET calculators can reduce unnecessary biopsies and target clinically significant cancer.</td>
+<td>A “low-risk” calculator result is not a diagnosis; missed clinically significant cancer remains possible.</td>
+</tr>
+<tr>
+<td><strong>Where should biopsy target?</strong></td>
+<td>mpMRI-visible lesions with MRI/US fusion or in-bore biopsy; systematic cores remain important.</td>
+<td>AI lesion detection, prostate/lesion segmentation, and MRI+PSMA PET fusion may improve consistency and targeting.</td>
+<td>AI can miss lesions or overcall artifacts; systematic/template sampling may still be needed.</td>
+</tr>
+<tr>
+<td><strong>How aggressive is the cancer?</strong></td>
+<td>Grade Group/Gleason score, tumour volume/core involvement, PSA/PSA density, MRI stage, clinical stage, genomic classifiers.</td>
+<td>Digital pathology AI and multimodal AI can quantify histology and combine pathology with clinical variables to predict recurrence/metastasis or treatment benefit.</td>
+<td>Many models are retrospective; clinical-use thresholds and equity/generalizability require validation.</td>
+</tr>
+<tr>
+<td><strong>Is cancer still localized?</strong></td>
+<td>mpMRI for local extent; PSMA PET/CT for staging selected intermediate/high-risk disease and recurrence; CT/bone scan in older pathways.</td>
+<td>PSMA PET + MRI/radiomics models may better define intraprostatic lesions, nodal disease, and radiation targets.</td>
+<td>PSMA PET is not perfect for microscopic nodal disease and should not replace biopsy/pathology.</td>
+</tr>
+<tr>
+<td><strong>Can local treatment be targeted?</strong></td>
+<td>mpMRI-defined dominant intraprostatic lesion; biopsy map; focal therapy planning; radiation boost planning.</td>
+<td>AI segmentation/radiomics and PSMA PET/MRI fusion may help define dominant lesions, ablation margins, focal radiation boost volumes, and biologically targeted radiotherapy.</td>
+<td>Registration error, MRI-invisible disease, PSMA-negative tumour, and multifocal disease can undermine focal plans.</td>
+</tr>
+<tr>
+<td><strong>Which treatment intensity is needed?</strong></td>
+<td>NCCN/EAU risk groups, nomograms, Decipher/other genomic classifiers, clinician judgment.</td>
+<td>AI pathology and multimodal models are being developed to predict who benefits from ADT duration, salvage therapy, or intensification.</td>
+<td>Predictive AI is different from prognostic AI; few tools have prospective outcome-changing validation.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="integrated-data-approaches-covered">Integrated-data approaches covered</h2>
+<ol>
+<li><strong>Traditional clinical risk calculators and nomograms</strong> — PSA, age, DRE, family history, prostate volume, prior biopsy, biopsy Grade Group, stage.</li>
+<li><strong>MRI-enhanced biopsy risk calculators</strong> — add PI-RADS, lesion size/location, prostate volume, PSA density.</li>
+<li><strong>Blood/biomarker + MRI pathways</strong> — Stockholm3, Proclarix, PHI/4K-like strategies, genomic tissue classifiers.</li>
+<li><strong>PSMA PET + MRI risk calculators</strong> — emerging tools combining clinical variables, mpMRI, and PSMA PET/CT before biopsy or for staging.</li>
+<li><strong>AI/radiomics for mpMRI and PSMA PET</strong> — lesion detection, segmentation, grade prediction, extracapsular extension prediction, dominant-lesion mapping.</li>
+<li><strong>Digital pathology AI</strong> — biopsy/prostatectomy slide analysis for Gleason grading, tumour quantification, recurrence/metastasis risk, and treatment-benefit prediction.</li>
+<li><strong>Multimodal AI</strong> — combines clinical data, digital pathology, imaging, and sometimes genomic/molecular information.</li>
+<li><strong>Local-treatment targeting systems</strong> — MRI/US fusion biopsy, PSMA PET/MRI registration, radiomics-guided focal boost, focal therapy planning, ablation-margin planning.</li>
+</ol>
+<h2 id="clinical-workflow-where-integration-happens">Clinical workflow: where integration happens</h2>
+<h3 id="1-before-biopsy-biopsy-decision-and-target-selection">1. Before biopsy: biopsy decision and target selection</h3>
+<p>The mature decision-support layer is not necessarily “AI” in the modern deep-learning sense. Many tools are statistical risk calculators that combine PSA, age, DRE, family history, prostate volume, prior biopsy, and now MRI findings. These help estimate the probability of any prostate cancer and clinically significant prostate cancer.</p>
+<p>The current direction is to combine:</p>
+<ul>
+<li>PSA and PSA density;</li>
+<li>age, DRE, family history, prior biopsy;</li>
+<li>prostate volume;</li>
+<li>mpMRI PI-RADS score and lesion features;</li>
+<li>blood biomarkers such as Stockholm3, PHI/4K-like tests, Proclarix;</li>
+<li>in selected settings, PSMA PET/CT.</li>
+</ul>
+<p><strong>Patient-facing interpretation:</strong> these tools can help decide whether biopsy is needed and where to target it, but a negative MRI or low calculator score does not guarantee absence of significant cancer.</p>
+<h3 id="2-at-biopsy-mapping-the-prostate">2. At biopsy: mapping the prostate</h3>
+<p>MRI-targeted biopsy improves sampling of visible lesions, but focal treatment and treatment targeting require more than “a positive biopsy.” The team needs to know:</p>
+<ul>
+<li>which lesion is the index lesion;</li>
+<li>whether contralateral or out-of-field clinically significant cancer exists;</li>
+<li>whether MRI-visible disease matches biopsy grade and location;</li>
+<li>whether systematic or template cores show hidden disease;</li>
+<li>whether PSMA PET uptake corresponds with the MRI lesion or reveals MRI-invisible disease.</li>
+</ul>
+<p>AI can assist by segmenting prostate zones and lesions, flagging suspicious regions, and creating 3D maps, but final targeting still depends on expert imaging and pathology review.</p>
+<h3 id="3-after-diagnosis-risk-stratification-and-treatment-intensity">3. After diagnosis: risk stratification and treatment intensity</h3>
+<p>Standard prostate cancer risk grouping uses PSA, Grade Group/Gleason score, clinical T stage, number/percentage of positive cores, and imaging stage. Genomic classifiers and digital pathology AI are being added to refine prognosis.</p>
+<p>Emerging AI models are beginning to answer more clinically useful questions:</p>
+<ul>
+<li>Who is likely to benefit from adding ADT to radiotherapy?</li>
+<li>Who is likely to benefit from longer versus shorter ADT?</li>
+<li>Who is at higher risk of distant metastasis after biochemical recurrence?</li>
+<li>Which post-prostatectomy patients need treatment intensification or closer surveillance?</li>
+</ul>
+<p>These are important because they move AI from “diagnosis support” toward <strong>predictive treatment selection</strong>.</p>
+<h3 id="4-localized-treatment-targeting">4. Localized treatment targeting</h3>
+<p>For focal therapy and focal radiation boost, the key problem is spatial: where exactly is the clinically important cancer, and how much margin is needed?</p>
+<p>Tools used or being studied include:</p>
+<ul>
+<li>mpMRI lesion contouring;</li>
+<li>MRI/ultrasound fusion biopsy maps;</li>
+<li>transperineal template mapping;</li>
+<li>PSMA PET/MRI or PET/CT co-registration;</li>
+<li>radiomics-based dominant lesion identification;</li>
+<li>AI segmentation of prostate, lesions, urethra, rectum, bladder, neurovascular bundles;</li>
+<li>dose-painting/focal boost planning;</li>
+<li>3D focal therapy planning and ablation-margin tools.</li>
+</ul>
+<p><strong>Important distinction:</strong> focal radiation boost is currently better validated than most focal ablative therapy because randomized FLAME data support boosting an MRI-visible dominant lesion during whole-prostate radiotherapy. Most focal ablation approaches still need registry/trial framing and biopsy-based follow-up.</p>
+<h2 id="current-and-emerging-tool-classes">Current and emerging tool classes</h2>
+<table>
+<thead>
+<tr>
+<th>Tool class</th>
+<th>Examples / data inputs</th>
+<th>Current role</th>
+<th>Validation status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Clinical nomograms/risk calculators</strong></td>
+<td>PSA, age, DRE, family history, prostate volume, prior biopsy, Grade Group, stage</td>
+<td>Biopsy decision, staging, lymph-node risk, recurrence risk, treatment discussions</td>
+<td>Widely used; performance depends on population calibration</td>
+</tr>
+<tr>
+<td><strong>MRI-enhanced calculators</strong></td>
+<td>PI-RADS, lesion features, prostate volume, PSA density plus clinical variables</td>
+<td>Estimate clinically significant cancer risk before biopsy</td>
+<td>Increasing validation; may reduce unnecessary biopsies</td>
+</tr>
+<tr>
+<td><strong>Biomarker + MRI pathways</strong></td>
+<td>Stockholm3, Proclarix, PHI/4K-like blood tests plus MRI</td>
+<td>Improve biopsy triage and reduce low-value biopsies</td>
+<td>Some prospective evidence; local availability varies</td>
+</tr>
+<tr>
+<td><strong>PSMA PET + MRI calculators</strong></td>
+<td>mpMRI PI-RADS + PRIMARY score/PSMA uptake + PSA/clinical features</td>
+<td>Detection of clinically significant cancer before biopsy and staging selected patients</td>
+<td>Promising; not universal standard before initial biopsy</td>
+</tr>
+<tr>
+<td><strong>AI MRI lesion detection/segmentation</strong></td>
+<td>bpMRI/mpMRI images</td>
+<td>Reader support, triage, prostate/lesion contours, biopsy targeting</td>
+<td>Many retrospective studies; deployment studies emerging</td>
+</tr>
+<tr>
+<td><strong>AI pathology</strong></td>
+<td>Digitized biopsy/prostatectomy slides</td>
+<td>Grade support, tumour quantification, prognosis, treatment-benefit modelling</td>
+<td>Rapidly developing; some tests entering clinical use/validation</td>
+</tr>
+<tr>
+<td><strong>Radiomics / ML treatment planning</strong></td>
+<td>MRI ADC/DWI/DCE, PSMA PET SUV, CT planning images, contours</td>
+<td>Dominant lesion mapping, focal boost, biologically targeted radiotherapy</td>
+<td>Mostly early/proof-of-concept; needs outcome validation</td>
+</tr>
+<tr>
+<td><strong>Multimodal predictive AI</strong></td>
+<td>Pathology images + PSA + Grade Group + T stage + treatment data, sometimes molecular data</td>
+<td>Predict metastasis risk or ADT/radiotherapy treatment benefit</td>
+<td>Strong retrospective trial-based evidence for some models; prospective implementation still needed</td>
+</tr>
+</tbody>
+</table>
+<h2 id="evidence-synthesis-by-use-case">Evidence synthesis by use-case</h2>
+<h3 id="a-biopsy-decision-support">A. Biopsy decision support</h3>
+<p>MRI-enhanced risk calculators and biomarker pathways are closest to routine clinical use. The decision is usually not “AI says cancer/no cancer,” but “given PSA, PSA density, MRI, prostate volume, age, DRE, family history, prior biopsy, and biomarkers, is biopsy justified?”</p>
+<p>Examples include MRI-enhanced ERSPC-style calculators, PLUM, Mount Sinai prebiopsy calculator, Stockholm3-MRI strategies, Proclarix, and newer models incorporating PSMA PET/CT.</p>
+<h3 id="b-mri-and-psma-pet-integration">B. MRI and PSMA PET integration</h3>
+<p>mpMRI is strong for local lesion detection and staging, but it misses some clinically significant cancers. PSMA PET can identify some MRI-invisible tumours and can improve staging, especially in intermediate/high-risk disease. Combined MRI+PSMA PET pathways are therefore attractive for:</p>
+<ul>
+<li>equivocal MRI;</li>
+<li>PI-RADS 2–3 with persistent clinical concern;</li>
+<li>high-risk staging;</li>
+<li>biopsy targeting;</li>
+<li>defining dominant lesions for focal boost or focal therapy.</li>
+</ul>
+<p>However, PSMA PET is not yet a general replacement for MRI or biopsy in initial diagnosis.</p>
+<h3 id="c-ai-and-radiomics-for-local-treatment-targeting">C. AI and radiomics for local treatment targeting</h3>
+<p>Radiomics and deep learning may help identify dominant intraprostatic lesions and biologically aggressive regions. This matters for:</p>
+<ul>
+<li>focal radiation boost/microboost;</li>
+<li>biologically targeted radiotherapy dose painting;</li>
+<li>focal therapy ablation planning;</li>
+<li>biopsy target prioritization;</li>
+<li>deciding whether disease is too multifocal for focal therapy.</li>
+</ul>
+<p>The main limitation is that most studies are retrospective or small, often using prostatectomy whole-mount pathology as a reference. That is useful for training models, but it does not prove that AI-guided treatment improves long-term outcomes.</p>
+<h3 id="d-digital-pathology-and-multimodal-ai-for-treatment-selection">D. Digital pathology and multimodal AI for treatment selection</h3>
+<p>AI pathology is increasingly important because prostate biopsy interpretation drives treatment decisions. AI may reduce variability in cancer detection, Gleason grading, pattern 4 quantification, cribriform/intraductal recognition, tumour volume estimation, and outcome prediction.</p>
+<p>The most clinically important emerging class is <strong>predictive</strong> multimodal AI: models trained on randomized trials to identify which patients benefit from treatment intensification, such as adding ADT to radiotherapy or using longer ADT duration in high-risk disease.</p>
+<p><strong>Patient-facing distinction:</strong></p>
+<ul>
+<li>A <strong>prognostic</strong> model says “your risk is higher or lower.”</li>
+<li>A <strong>predictive</strong> model says “you are more or less likely to benefit from this treatment.”</li>
+</ul>
+<p>Predictive models are more directly useful for treatment choice, but they need especially strong validation.</p>
+<h2 id="selected-papers-and-tools">Selected papers and tools</h2>
+<h3 id="integrated-biopsy-decision-support">Integrated biopsy decision support</h3>
+<h4 id="sthlm3-mri-risk-prediction-mri-targeted-biopsy">STHLM3-MRI: risk prediction + MRI + targeted biopsy</h4>
+<ul>
+<li><strong>Citation:</strong> Eklund M, et al. <em>The Lancet Oncology</em>. 2021.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/S1470-2045(21)00348-X">10.1016/S1470-2045(21)00348-X</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/34391509/">34391509</a></li>
+<li><strong>Evidence type:</strong> Prospective population-based randomized open-label non-inferiority trial.</li>
+<li><strong>Population:</strong> Men undergoing prostate cancer screening.</li>
+<li><strong>Patient relevance:</strong> Shows a pathway combining risk prediction, MRI, and targeted biopsy rather than PSA alone.</li>
+<li><strong>Main finding:</strong> Risk-prediction/MRI/targeted-biopsy strategy can maintain clinically significant cancer detection while reducing unnecessary biopsy and overdiagnosis pathways.</li>
+<li><strong>Limitations:</strong> Screening setting; local test availability and healthcare system matter.</li>
+<li><strong>Questions for clinician:</strong> Is a risk-prediction + MRI pathway available before biopsy, and what threshold triggers biopsy?</li>
+</ul>
+<h4 id="plum-mri-based-prostate-biopsy-risk-calculator">PLUM MRI-based prostate biopsy risk calculator</h4>
+<ul>
+<li><strong>Citation:</strong> <em>BJU International</em>. 2023.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1111/bju.15835">10.1111/bju.15835</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/35733400/">35733400</a></li>
+<li><strong>Evidence type:</strong> Development and external validation of mpMRI-based risk calculator.</li>
+<li><strong>Population:</strong> Men undergoing mpMRI before biopsy.</li>
+<li><strong>Patient relevance:</strong> Example of integrating PI-RADS/prostate MRI variables with clinical data before biopsy.</li>
+<li><strong>Main finding:</strong> MRI-inclusive risk calculation improved individualized prediction of clinically significant prostate cancer compared with clinical variables alone.</li>
+<li><strong>Limitations:</strong> Calculator performance depends on MRI quality, PI-RADS reporting, biopsy technique, and external calibration.</li>
+<li><strong>Questions for clinician:</strong> Does the calculator apply to my setting: biopsy-naïve, prior negative biopsy, prior low-grade cancer, or negative MRI?</li>
+</ul>
+<h4 id="mount-sinai-prebiopsy-risk-calculator">Mount Sinai prebiopsy risk calculator</h4>
+<ul>
+<li><strong>Citation:</strong> <em>European Urology Open Science</em>. 2022.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.euros.2022.04.017">10.1016/j.euros.2022.04.017</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/35813258/">35813258</a></li>
+<li><strong>Evidence type:</strong> Development/validation of MRI + clinical risk tool with advanced neural networking validation.</li>
+<li><strong>Population:</strong> 1902 men undergoing biopsy.</li>
+<li><strong>Patient relevance:</strong> Illustrates the clinical trend toward web-based individualized risk calculators using MRI and clinical data.</li>
+<li><strong>Main finding:</strong> MRI and clinical data can be integrated to predict any prostate cancer and clinically significant prostate cancer.</li>
+<li><strong>Limitations:</strong> Single-system development; online tools need external validation and calibration.</li>
+<li><strong>Questions for clinician:</strong> Which risk calculator does this clinic use, and is it validated in similar patients?</li>
+</ul>
+<h4 id="proclarix-blood-based-test-for-biopsy-decision-making">Proclarix blood-based test for biopsy decision-making</h4>
+<ul>
+<li><strong>Citation:</strong> <em>European Urology Oncology</em>. 2022.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.euo.2020.12.003">10.1016/j.euo.2020.12.003</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/33422560/">33422560</a></li>
+<li><strong>Evidence type:</strong> Prospective real-world multicentre study.</li>
+<li><strong>Population:</strong> Men with PSA 2–10 ng/mL, normal DRE, enlarged prostate, presenting for biopsy.</li>
+<li><strong>Patient relevance:</strong> Example of blood-based risk scoring used alongside clinical/imaging decision-making.</li>
+<li><strong>Main finding:</strong> Proclarix risk score helped support biopsy decision-making in a difficult PSA range.</li>
+<li><strong>Limitations:</strong> Not an imaging AI model; availability varies; should be interpreted with MRI and clinical context.</li>
+<li><strong>Questions for clinician:</strong> Would an additional blood biomarker meaningfully change my biopsy decision after MRI and PSA density?</li>
+</ul>
+<h3 id="psma-pet-mri-integration">PSMA PET + MRI integration</h3>
+<h4 id="primary-additive-value-of-psma-petct-to-mpmri-triage">PRIMARY: additive value of PSMA PET/CT to mpMRI triage</h4>
+<ul>
+<li><strong>Citation:</strong> <em>European Urology</em>. 2021.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.eururo.2021.08.002">10.1016/j.eururo.2021.08.002</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/34465492/">34465492</a></li>
+<li><strong>Evidence type:</strong> Prospective multicentre diagnostic study.</li>
+<li><strong>Population:</strong> Men being evaluated for prostate cancer diagnosis.</li>
+<li><strong>Patient relevance:</strong> Tests whether PSMA PET/CT adds diagnostic value to mpMRI before biopsy.</li>
+<li><strong>Main finding:</strong> PSMA PET/CT added diagnostic information to mpMRI triage and informed the PRIMARY score concept.</li>
+<li><strong>Limitations:</strong> PSMA PET availability/cost/radiation exposure; not yet a universal first-line prebiopsy test.</li>
+<li><strong>Questions for clinician:</strong> Is PSMA PET being used for staging, biopsy targeting, equivocal MRI, or research?</li>
+</ul>
+<h4 id="mri-psma-petct-risk-calculator-before-transperineal-biopsy">MRI + PSMA PET/CT risk calculator before transperineal biopsy</h4>
+<ul>
+<li><strong>Citation:</strong> <em>European Urology Open Science</em>. 2023.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.euros.2023.05.002">10.1016/j.euros.2023.05.002</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/37441340/">37441340</a></li>
+<li><strong>Evidence type:</strong> Risk calculator development using clinical variables, mpMRI, and PSMA PET/CT.</li>
+<li><strong>Population:</strong> 291 men from the PRIMARY prospective trial undergoing mpMRI, PSMA PET/CT, and transperineal biopsy.</li>
+<li><strong>Patient relevance:</strong> Directly matches the question of combining PSA/clinical data, MRI, PSMA PET, and biopsy risk.</li>
+<li><strong>Main finding:</strong> Models incorporating both mpMRI and PSMA PET/CT parameters were developed to predict overall and clinically significant prostate cancer.</li>
+<li><strong>Limitations:</strong> Needs external validation; not yet routine standard of care.</li>
+<li><strong>Questions for clinician:</strong> Would combined MRI+PSMA PET meaningfully change biopsy targeting or treatment planning in my risk group?</li>
+</ul>
+<h4 id="primary-score-for-intraprostatic-psma-pet-patterns">PRIMARY score for intraprostatic PSMA PET patterns</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Journal of Nuclear Medicine</em>. 2022.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.2967/jnumed.121.263448">10.2967/jnumed.121.263448</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/35301240/">35301240</a></li>
+<li><strong>Evidence type:</strong> Diagnostic imaging score development.</li>
+<li><strong>Patient relevance:</strong> Provides a structured way to interpret intraprostatic PSMA PET/CT patterns for diagnosis.</li>
+<li><strong>Main finding:</strong> PRIMARY score was proposed to optimize prostate cancer diagnosis using intraprostatic PSMA PET/CT patterns.</li>
+<li><strong>Limitations:</strong> Imaging score, not a stand-alone treatment selector; biopsy confirmation remains central.</li>
+<li><strong>Questions for clinician:</strong> If PSMA PET shows uptake, how will it be correlated with MRI and biopsy cores?</li>
+</ul>
+<h3 id="airadiomics-for-local-treatment-targeting">AI/radiomics for local treatment targeting</h3>
+<h4 id="psma-pet-mpmri-radiomics-for-biologically-targeted-radiotherapy">PSMA PET + mpMRI radiomics for biologically targeted radiotherapy</h4>
+<ul>
+<li><strong>Citation:</strong> <em>EJNMMI Research</em>. 2023.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1007/s00259-021-05631-6">10.1007/s00259-021-05631-6</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/37099047/">37099047</a></li>
+<li><strong>Evidence type:</strong> Imaging/radiomics study co-registering PSMA PET/CT, mpMRI, and histopathology.</li>
+<li><strong>Population:</strong> 19 prostate cancer patients.</li>
+<li><strong>Patient relevance:</strong> Addresses targeting information for local radiotherapy planning.</li>
+<li><strong>Main finding:</strong> Explored voxel-wise relationships and radiomic machine-learning models to predict tumour location and grade using PSMA PET and mpMRI.</li>
+<li><strong>Limitations:</strong> Small study; research framework; not proof of outcome improvement.</li>
+<li><strong>Questions for radiation oncologist:</strong> Could MRI and PSMA PET together better define a dominant lesion for focal boost, and how is registration uncertainty handled?</li>
+</ul>
+<h4 id="rad-trap-radiomics-based-targeted-radiotherapy-planning">Rad-TRaP: radiomics-based targeted radiotherapy planning</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Radiation Oncology</em>. 2016.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1186/s13014-016-0718-3">10.1186/s13014-016-0718-3</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/27829431/">27829431</a></li>
+<li><strong>Evidence type:</strong> Computational framework for MRI radiomics, registration, and focal radiotherapy planning.</li>
+<li><strong>Patient relevance:</strong> Shows how AI/radiomics can be translated into target volumes and dose planning.</li>
+<li><strong>Main finding:</strong> Proposed a workflow for radiomics-based lesion detection, MRI-to-CT registration, and targeted brachytherapy/EBRT planning.</li>
+<li><strong>Limitations:</strong> Retrospective proof-of-concept; not clinical outcome validation.</li>
+<li><strong>Questions for clinician:</strong> Is any proposed boost volume based on validated clinical contours, research radiomics, or both?</li>
+</ul>
+<h4 id="corrsignia-mri-pathology-deep-learning-framework">CorrSigNIA MRI-pathology deep learning framework</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Medical Image Analysis</em>. 2022.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.media.2021.102288">10.1016/j.media.2021.102288</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/34784540/">34784540</a></li>
+<li><strong>Evidence type:</strong> MRI-pathology correlation and deep learning framework.</li>
+<li><strong>Patient relevance:</strong> Example of using prostatectomy pathology as ground truth to teach AI where aggressive cancer is on MRI.</li>
+<li><strong>Main finding:</strong> Developed a framework to selectively identify/localize indolent and aggressive prostate cancers on MRI.</li>
+<li><strong>Limitations:</strong> Research framework; prostatectomy-derived training may not directly translate to all biopsy-era decisions.</li>
+<li><strong>Questions for clinician:</strong> Is AI being used to support lesion localization, or is it validated to change treatment decisions?</li>
+</ul>
+<h4 id="research-based-clinical-deployment-of-prostate-mri-ai">Research-based clinical deployment of prostate MRI AI</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Abdominal Radiology</em>. 2025.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1007/s00261-025-05014-7">10.1007/s00261-025-05014-7</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/40418374/">40418374</a></li>
+<li><strong>Evidence type:</strong> Prospective clinical workflow/deployment study.</li>
+<li><strong>Patient relevance:</strong> Shows the implementation problem: an AI model must work inside PACS/radiology workflow, not just in a research notebook.</li>
+<li><strong>Main finding:</strong> Integrated AI-based prostate/lesion segmentation into clinical PACS under a prospective trial scenario.</li>
+<li><strong>Limitations:</strong> Workflow deployment is not the same as proving better diagnosis or survival.</li>
+<li><strong>Questions for clinician:</strong> Is the AI tool used for research, second-reader support, or direct clinical reporting?</li>
+</ul>
+<h3 id="digital-pathology-and-multimodal-ai-for-treatment-decisions">Digital pathology and multimodal AI for treatment decisions</h3>
+<h4 id="ai-predictive-model-for-hormone-therapy-use-in-prostate-cancer">AI predictive model for hormone therapy use in prostate cancer</h4>
+<ul>
+<li><strong>Citation:</strong> <em>NEJM Evidence</em>. 2023.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1056/evidoa2300023">10.1056/evidoa2300023</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/38320143/">38320143</a></li>
+<li><strong>Evidence type:</strong> AI model developed from pretreatment prostate tissue images and clinical data from phase III randomized trials; validation in RTOG 9408.</li>
+<li><strong>Population:</strong> Patients treated with radiotherapy with or without short-term ADT.</li>
+<li><strong>Patient relevance:</strong> Example of predictive AI: identifying who may benefit from adding hormone therapy to radiotherapy.</li>
+<li><strong>Main finding:</strong> Locked AI model was validated for predicting benefit from ADT in a randomized-trial context.</li>
+<li><strong>Limitations:</strong> Needs clinical implementation validation; applicability depends on risk group, treatment setting, tissue quality, and model access.</li>
+<li><strong>Questions for radiation oncologist:</strong> Is any AI biomarker available to estimate whether ADT adds benefit for my risk group, and has it been validated prospectively?</li>
+</ul>
+<h4 id="ai-digital-pathology-biomarker-for-long-term-vs-short-term-adt-in-high-risk-disease">AI digital pathology biomarker for long-term vs short-term ADT in high-risk disease</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Journal of Clinical Oncology</em>. 2025.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1200/JCO.24.00365">10.1200/JCO.24.00365</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/40239134/">40239134</a></li>
+<li><strong>Evidence type:</strong> Multimodal AI-derived predictive biomarker trained and validated across multiple phase III radiotherapy trials.</li>
+<li><strong>Population:</strong> Men with high-risk localized prostate cancer receiving radiotherapy plus different ADT durations.</li>
+<li><strong>Patient relevance:</strong> Directly relevant to treatment-intensity decisions: whether long-term ADT adds benefit over short-term ADT.</li>
+<li><strong>Main finding:</strong> Developed and validated an AI pathology/clinical biomarker to predict differential benefit from long-term ADT for distant metastasis.</li>
+<li><strong>Limitations:</strong> Retrospective analysis of trial material; prospective implementation and health-system adoption are still evolving.</li>
+<li><strong>Questions for clinician:</strong> Could this kind of model eventually guide ADT duration, and is it available/validated in this clinic?</li>
+</ul>
+<h4 id="multimodal-ai-biomarker-after-prostatectomy-biochemical-recurrence">Multimodal AI biomarker after prostatectomy biochemical recurrence</h4>
+<ul>
+<li><strong>Citation:</strong> <em>European Urology</em>. 2025.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1016/j.eururo.2025.12.007">10.1016/j.eururo.2025.12.007</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/41436315/">41436315</a></li>
+<li><strong>Evidence type:</strong> Digital pathology + clinical-data multimodal AI model validated in NRG/RTOG salvage radiotherapy trials.</li>
+<li><strong>Population:</strong> Patients with biochemical recurrence after radical prostatectomy receiving salvage therapy.</li>
+<li><strong>Patient relevance:</strong> Relevant when deciding salvage radiotherapy and hormone therapy after PSA recurrence.</li>
+<li><strong>Main finding:</strong> Multimodal AI score was associated with distant metastasis risk after salvage therapy.</li>
+<li><strong>Limitations:</strong> Post-prostatectomy recurrence setting; not a pre-treatment local therapy selector.</li>
+<li><strong>Questions for clinician:</strong> If PSA recurs after surgery, can pathology/clinical AI refine salvage treatment intensity?</li>
+</ul>
+<h4 id="ai-based-digital-histologic-classifier-for-prostate-cancer-risk-stratification">AI-based digital histologic classifier for prostate cancer risk stratification</h4>
+<ul>
+<li><strong>Citation:</strong> <em>JCO Clinical Cancer Informatics</em>. 2025.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1200/CCI.21.00131">10.1200/CCI.21.00131</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/40532127/">40532127</a></li>
+<li><strong>Evidence type:</strong> Independent blinded validation of digital histology AI prognostic classifier.</li>
+<li><strong>Population:</strong> Radical prostatectomy cohort with Decipher genomic testing available.</li>
+<li><strong>Patient relevance:</strong> Shows how AI pathology may complement genomic classifiers for recurrence/metastasis risk.</li>
+<li><strong>Main finding:</strong> AI-derived pathology scores were associated with biochemical recurrence and distant metastasis risk.</li>
+<li><strong>Limitations:</strong> Retrospective validation; treatment-decision impact not yet the same as randomized predictive validation.</li>
+<li><strong>Questions for clinician:</strong> How does AI pathology compare with or add to Decipher/genomic testing and standard pathology?</li>
+</ul>
+<h3 id="review-and-implementation-papers">Review and implementation papers</h3>
+<h4 id="next-generation-prostate-imaging-and-ai-applications">Next-generation prostate imaging and AI applications</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Journal of Imaging</em>. 2025.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.3390/jimaging11110390">10.3390/jimaging11110390</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/41295107/">41295107</a></li>
+<li><strong>Evidence type:</strong> Review.</li>
+<li><strong>Patient relevance:</strong> Broad overview of AI in mpMRI, PSMA PET/CT, TRUS, lesion detection, risk stratification, segmentation, biopsy targeting, and treatment planning.</li>
+<li><strong>Main finding:</strong> AI may improve accuracy, efficiency, consistency, and treatment planning, but clinical integration, validation, and interpretability remain barriers.</li>
+<li><strong>Limitations:</strong> Review-level evidence; not a single validated clinical tool.</li>
+</ul>
+<h4 id="modern-integrative-prostate-cancer-diagnostics">Modern integrative prostate cancer diagnostics</h4>
+<ul>
+<li><strong>Citation:</strong> <em>Current Opinion in Urology</em>. 2026.</li>
+<li><strong>DOI/PMID:</strong> DOI <a href="https://doi.org/10.1097/MOU.0000000000001361">10.1097/MOU.0000000000001361</a>; PMID <a href="https://pubmed.ncbi.nlm.nih.gov/41373109/">41373109</a></li>
+<li><strong>Evidence type:</strong> Review.</li>
+<li><strong>Patient relevance:</strong> Summarizes radiology AI, pathology AI, and emerging multimodal biomarkers.</li>
+<li><strong>Main finding:</strong> AI can support radiology/pathology diagnosis and may increasingly integrate multimodal data for prognosis and treatment selection.</li>
+<li><strong>Limitations:</strong> Many systems are not yet prospectively validated as outcome-improving clinical decision tools.</li>
+</ul>
+<h2 id="practical-clinician-discussion-checklist">Practical clinician discussion checklist</h2>
+<h3 id="before-biopsy">Before biopsy</h3>
+<ul>
+<li>What is my PSA density, not just PSA?</li>
+<li>What is my PI-RADS score and lesion location/size?</li>
+<li>Has my risk been estimated with a calculator that includes MRI?</li>
+<li>Would a blood biomarker such as PHI/4K-like testing, Stockholm3, Proclarix, or another local test change the decision?</li>
+<li>Is PSMA PET being considered because MRI is equivocal, risk is high, or this is a research pathway?</li>
+</ul>
+<h3 id="before-local-treatment">Before local treatment</h3>
+<ul>
+<li>Are MRI findings, biopsy cores, and PSMA PET findings concordant?</li>
+<li>Is the dominant lesion clearly defined for focal therapy or focal boost?</li>
+<li>Is there significant cancer outside the proposed treatment volume?</li>
+<li>Has a targeted plus systematic or template biopsy mapped the gland adequately?</li>
+<li>If AI/radiomics is used to define a target, is it clinically validated or research-only?</li>
+</ul>
+<h3 id="choosing-treatment-intensity">Choosing treatment intensity</h3>
+<ul>
+<li>Are decisions based on risk group alone, a nomogram, genomic classifier, AI pathology, or a combination?</li>
+<li>Is the model prognostic or predictive of treatment benefit?</li>
+<li>Does the model estimate benefit from ADT, ADT duration, radiation boost, surgery, salvage therapy, or systemic intensification?</li>
+<li>Has the model been validated in randomized-trial data or only in retrospective cohorts?</li>
+<li>Would the result actually change the recommendation?</li>
+</ul>
+<h3 id="safety-bias-and-validation-questions">Safety, bias, and validation questions</h3>
+<ul>
+<li>Was the AI trained and validated in men similar to me by age, ancestry, PSA range, MRI scanner quality, biopsy method, and disease risk?</li>
+<li>Does the tool perform well in external validation, not just its development centre?</li>
+<li>What false-negative and false-positive rates matter for my decision?</li>
+<li>Who is responsible if AI and clinicians disagree?</li>
+<li>Will the AI result be documented in the medical record and explained in plain language?</li>
+</ul>
+<h2 id="repository-interpretation">Repository interpretation</h2>
+<p>This page adds an integrated decision-support layer across the existing PSA, MRI, biopsy, PSMA PET, genomic, focal therapy, and radiotherapy sections. The practical interpretation is:</p>
+<ol>
+<li><strong>Risk calculators and nomograms are already mainstream decision support</strong>, even when they are not branded as AI.</li>
+<li><strong>MRI-enhanced calculators and biomarker+MRI pathways are closest to routine use before biopsy.</strong></li>
+<li><strong>PSMA PET + MRI integration is promising for biopsy targeting, staging, and dominant-lesion definition</strong>, but not yet a universal replacement for MRI/biopsy pathways.</li>
+<li><strong>AI/radiomics for local targeting is promising for focal boost and focal therapy planning</strong>, but most evidence remains retrospective or early clinical deployment.</li>
+<li><strong>Digital pathology and multimodal AI are the most promising for treatment-intensity decisions</strong>, especially when validated in randomized trial datasets for ADT or salvage therapy benefit.</li>
+<li><strong>The key patient question is not “Is AI being used?” but “Has this tool been externally validated, does it apply to my risk group, and would it change management?”</strong></li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.sections", "navigation.expand", "navigation.indexes", "content.code.copy", "search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
