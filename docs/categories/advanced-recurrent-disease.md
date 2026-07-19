@@ -13,6 +13,7 @@ Research notes and filed articles for **advanced & recurrent disease**.
 
 ## Filed items
 
+- [2026-07-20 weekly scan](../updates/2026-07-20.md) — Advanced/recurrent-disease watch: the EAU 2026 relapsing/metastatic treatment update broadens clinician-discussion points around AR pathway inhibitors, PARP inhibitors/combinations, metastasis-directed therapy, PSMA-based therapy, and treatment sequencing; SPPORT quality-of-life results add side-effect context for salvage radiotherapy intensification; early 177Lu-PSMA in metastatic hormone-sensitive disease remains investigational; and real-world triplet-therapy data highlight neutropenia/febrile-neutropenia monitoring and possible G-CSF prophylaxis discussions.
 - [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](../papers/metabolic-therapy-prostate-cancer-evidence/index.md) — includes advanced/recurrent disease considerations, immunotherapy-model evidence, and cautions about substituting metabolic therapy for standard treatment.
 
 - [2026-07-13 weekly scan](../updates/2026-07-13.md) — Advanced/recurrent-disease watch: the ARTO randomized phase 2 long-term analysis reported an overall-survival signal when SBRT metastasis-directed therapy was added to abiraterone/ADT in selected oligometastatic castration-resistant prostate cancer, but the survival analysis was unplanned and requires specialist/multidisciplinary interpretation.
