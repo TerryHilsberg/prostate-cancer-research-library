@@ -18,6 +18,7 @@ _Retrieved: 2026-07-04_
 | **Can a negative PSMA PET/CT rule out disease?** | No. Microscopic disease can be below PET resolution or have low PSMA expression. A negative scan may still support treatment such as early salvage radiotherapy if other risk factors indicate it. | "If my scan is negative, what treatment or monitoring would still be recommended based on pathology and PSA kinetics?" |
 | **Why does PSMA PET matter for advanced disease?** | It can identify whether tumors express enough PSMA to consider PSMA-targeted radioligand therapy such as lutetium-177 PSMA-617 in selected metastatic castration-resistant settings. | "Does my disease meet imaging and clinical eligibility for PSMA-targeted therapy, and do we need FDG PET to look for PSMA-negative aggressive disease?" |
 | **Can PSMA PET/CT be used to monitor ongoing treatment?** | It may help clarify response or progression in some advanced-disease settings, but routine monitoring schedules are not as standardized as PSA, symptoms, CT/bone imaging, and treatment-specific assessments. | "What result on PSMA PET would actually change my current treatment plan, and what are the alternatives for monitoring?" |
+| **Do I need to avoid exercise the day before a PSMA PET/CT?** | I found no PSMA-specific study or joint EANM/SNMMI PSMA PET/CT guideline instruction proving that 24-hour exercise avoidance is required. The 24-hour rule is well established for **FDG PET/CT**, where exercised muscles can take up more glucose tracer. Follow the imaging centre's instructions, but ask whether the restriction is PSMA-specific or a general PET precaution. | "Is ordinary walking acceptable, and are you mainly asking me to avoid strenuous running, cycling, gym/resistance training, or heavy exertion?" |
 
 ## Where PSMA PET/CT fits in the care pathway
 
@@ -110,7 +111,49 @@ The later **PSMAfore** trial, in taxane-naive PSMA-positive metastatic castratio
 | **Access and reimbursement** | Availability and indication rules differ by country, scanner access, tracer supply, and insurer/public-system criteria. |
 | **A scan is not a treatment plan** | The best use of PSMA PET is when the care team has pre-specified what would change based on each possible result. |
 
+## Practical preparation question: exercise before PSMA PET/CT
+
+Some imaging centres tell patients not to exercise for a day before a PET/CT scan. The evidence basis depends on the tracer:
+
+- For **FDG PET/CT**, exercise restriction is guideline-supported. FDG is a glucose analogue, and skeletal muscle activated by strenuous exercise can take up more tracer. The EANM FDG PET/CT tumour-imaging guideline says patients should avoid strenuous exercise for at least 6 hours before FDG PET/CT, and preferably for 24 hours.[^fdg-eanm]
+- For **PSMA PET/CT**, I found no direct study showing that strenuous exercise the day before materially degrades scan accuracy, and the joint EANM/SNMMI PSMA PET/CT procedure guideline does **not** list 24-hour exercise avoidance as a standard patient-preparation requirement. Its preparation advice emphasizes no fasting requirement, hydration, medication continuity, bladder/urinary activity management, and timing around new ADT when possible.[^psma-guideline]
+- Therefore, a "no exercise for 24 hours" instruction before PSMA PET/CT may reflect a local department's cautious general PET protocol or a rule carried over from FDG PET/CT rather than PSMA-specific evidence.
+
+**Practical patient approach:** follow the imaging centre's written instructions, because local protocols vary and the centre is responsible for image quality. But if the instruction matters—for example, because exercise is part of daily cancer-supportive care—ask whether ordinary walking is acceptable and whether the centre mainly wants to avoid strenuous resistance training, running, cycling, heavy physical work, or unusual exertion in the 24 hours before the scan.
+
+**Clinician/nuclear-medicine question:** "Is the exercise restriction specific to my PSMA tracer and protocol, or is it a general PET rule derived from FDG PET/CT?"
+
 ## Selected evidence notes
+
+### Joint EANM/SNMMI PSMA PET/CT procedure guideline — patient preparation
+
+- **Citation:** Fendler WP, Eiber M, Beheshti M, et al. *European Journal of Nuclear Medicine and Molecular Imaging*. 2023.
+- **DOI/PMID:** DOI [10.2967/jnumed.120.252114](https://doi.org/10.2967/jnumed.120.252114); PMID [36604326](https://pubmed.ncbi.nlm.nih.gov/36604326/)
+- **Evidence type:** Joint professional procedure guideline / procedure standard for PSMA PET/CT.
+- **Patient relevance:** Best source for standard PSMA PET/CT preparation expectations.
+- **Main finding for preparation:** Patients do not need to fast and may take medications; hydration and bladder/urinary activity management are emphasized. The guideline does not give a standard 24-hour exercise-avoidance requirement.
+- **Limitations:** Local departments may still issue centre-specific instructions, and protocols may differ by tracer and scanner workflow.
+- **Questions for clinician:** "Does your department require exercise restriction for PSMA PET/CT, and if so is this tracer-specific or a general PET precaution?"
+
+### EANM FDG PET/CT tumour-imaging guideline — source of the 24-hour exercise rule
+
+- **Citation:** Boellaard R, Delgado-Bolton R, Oyen WJG, et al. *European Journal of Nuclear Medicine and Molecular Imaging*. 2015.
+- **DOI/PMID:** DOI [10.1007/s00259-014-2961-x](https://doi.org/10.1007/s00259-014-2961-x); PMID [25452219](https://pubmed.ncbi.nlm.nih.gov/25452219/)
+- **Evidence type:** Professional procedure guideline for FDG PET/CT tumour imaging.
+- **Patient relevance:** Explains why many PET departments ask patients to avoid strenuous exercise before PET.
+- **Main finding for exercise:** Patients should avoid strenuous exercise for at least 6 hours before FDG PET/CT, and preferably for 24 hours, to reduce skeletal-muscle and brown-fat FDG uptake.
+- **Limitations:** This applies to FDG PET/CT, not directly to PSMA PET/CT.
+- **Questions for clinician:** "Is my centre applying the FDG exercise rule to PSMA PET/CT as a precaution?"
+
+### Soffientini et al. 2012 — high muscular FDG uptake can affect lesion quantification
+
+- **Citation:** Soffientini A, et al. *European Journal of Nuclear Medicine and Molecular Imaging*. 2012.
+- **DOI/PMID:** DOI [10.1007/s00259-012-2202-0](https://doi.org/10.1007/s00259-012-2202-0); PMID [22890803](https://pubmed.ncbi.nlm.nih.gov/22890803/)
+- **Evidence type:** Retrospective repeat FDG PET/CT analysis.
+- **Patient relevance:** Supports the biological rationale for avoiding unnecessary muscle activation before FDG PET.
+- **Main finding:** In patients recalled for high muscular FDG uptake, reducing muscular uptake on repeat imaging changed lesion SUV quantification.
+- **Limitations:** FDG-specific; not a PSMA PET study.
+- **Questions for clinician:** "Does this FDG rationale apply to my PSMA tracer, or is the concern different?"
 
 ### Hofman et al. 2020 — proPSMA randomized trial
 
@@ -207,6 +250,7 @@ Bring these questions to the treating urologist, radiation oncologist, medical o
 - **Decision impact:** What exact decision would change if the scan is positive, negative, equivocal, or shows distant disease?
 - **Risk group:** Does my Grade Group, PSA, PSA density, MRI stage, clinical stage, or PSA doubling time place me in a group where PSMA PET is evidence-supported?
 - **Tracer:** Which tracer is available locally, and what are its common pitfalls?
+- **Preparation:** Does your centre require avoiding strenuous exercise before PSMA PET/CT? If yes, is this PSMA-specific or a general FDG-PET-derived precaution, and is ordinary walking acceptable?
 - **Negative scan:** If no disease is seen, will that change treatment or only indicate disease is below detection?
 - **Equivocal lesion:** Would follow-up MRI/CT, repeat imaging, biopsy, or multidisciplinary review be needed?
 - **Radiation planning:** If recurrence is found, would the scan alter prostate-bed, pelvic-node, or metastasis-directed radiation fields?
@@ -225,6 +269,8 @@ For this dashboard, PSMA PET/CT should be treated as a **decision-changing imagi
 The main uncertainty is not whether PSMA PET/CT sees more disease than older imaging—it often does—but whether each scan-driven management change improves outcomes for the individual patient. That makes the pre-scan clinical question essential.
 
 [^eau-diagnostic]: European Association of Urology. Prostate Cancer Guidelines, Diagnostic Evaluation chapter. <https://uroweb.org/guidelines/prostate-cancer/chapter/diagnostic-evaluation>
+[^psma-guideline]: Fendler WP, Eiber M, Beheshti M, et al. PSMA PET/CT: joint EANM procedure guideline/SNMMI procedure standard for prostate cancer imaging 2.0. *Eur J Nucl Med Mol Imaging*. 2023. PMID: [36604326](https://pubmed.ncbi.nlm.nih.gov/36604326/).
+[^fdg-eanm]: Boellaard R, Delgado-Bolton R, Oyen WJG, et al. FDG PET/CT: EANM procedure guidelines for tumour imaging: version 2.0. *Eur J Nucl Med Mol Imaging*. 2015. PMID: [25452219](https://pubmed.ncbi.nlm.nih.gov/25452219/).
 [^propsma]: Hofman MS, et al. Prostate-specific membrane antigen PET-CT in patients with high-risk prostate cancer before curative-intent surgery or radiotherapy (proPSMA). *Lancet*. 2020. PMID: [32209449](https://pubmed.ncbi.nlm.nih.gov/32209449/).
 [^osprey]: Pienta KJ, et al. A Phase 2/3 prospective multicenter study of diagnostic accuracy of PSMA PET/CT with 18F-DCFPyL in prostate cancer patients (OSPREY). *J Urol*. 2021. PMID: [33634707](https://pubmed.ncbi.nlm.nih.gov/33634707/).
 [^condor]: Morris MJ, et al. Diagnostic performance of 18F-DCFPyL-PET/CT in men with biochemically recurrent prostate cancer (CONDOR). *Clin Cancer Res*. 2021. PMID: [33622706](https://pubmed.ncbi.nlm.nih.gov/33622706/).
