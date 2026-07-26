@@ -15,6 +15,7 @@ The Gemini analysis is directionally useful in treating metabolic therapy as a *
 - prostate cancer is metabolically heterogeneous and interacts with androgen signaling, lipid metabolism, glucose/insulin pathways, and immune signaling;
 - obesity, insulin resistance, sarcopenia, and ADT-related metabolic changes are clinically important in prostate cancer care;
 - low-carbohydrate/ketogenic interventions can produce weight loss and metabolic changes in men with prostate cancer;
+- LDL/cholesterol-lowering medicines, especially statins and PCSK9 inhibitors, are being studied as adjuncts in advanced prostate cancer because lipid metabolism, androgen signalling, sphingolipids, and cardiovascular risk intersect during ADT and mCRPC treatment; see the separate [LDL-lowering/statin/PCSK9 evidence map](../ldl-lowering-statin-pcsk9-advanced-prostate-cancer-evidence/index.md);
 - one 2024 preclinical prostate-cancer study found cyclic ketogenic diet or beta-hydroxybutyrate could improve immune-checkpoint blockade response in mouse/model systems.
 
 However, the analysis **overstates the current clinical case** if read as “validation” of Seyfried-style metabolic therapy for prostate cancer. The human prostate-cancer evidence remains early, small, and mostly focused on feasibility, weight/metabolic markers, PSA kinetics, or preclinical mechanisms — not proven improvements in metastasis-free survival, prostate-cancer-specific survival, or overall survival.
