@@ -16,6 +16,7 @@ Scope: focal and partial-gland treatment approaches for localized prostate cance
 | **Who is usually a poor candidate?** | Multifocal high-grade disease, extensive bilateral disease, large or poorly localized tumour, MRI-invisible significant disease, suspected extracapsular extension, high-risk biology needing whole-gland/systemic control, inability to comply with MRI/biopsy surveillance, or expectation that focal therapy eliminates future monitoring. | Consensus/guideline-based |
 | **Which modality has the strongest cancer-control evidence?** | For **radiation**, focal boost to an MRI-visible dominant intraprostatic lesion has randomized phase III evidence from FLAME. For **ablation**, HIFU and cryotherapy now have a large UK prospective-registry update from the HEAT and ICE registries involving 3477 patients, while padeliporfin vascular-targeted photodynamic therapy has randomized low-risk evidence. | Moderate for focal boost RT; evolving low-to-moderate for focal ablation depending on modality |
 | **Is focal therapy mainstream?** | Focal radiation boost is moving into mainstream radiotherapy for selected intermediate/high-risk patients. Focal HIFU/cryo evidence is maturing, but the new HEAT/ICE report is still registry evidence, not a randomized proof of equivalence to surgery or radiotherapy. Major guidelines still commonly describe focal ablation as investigational or best done in trials/registries. | Guideline-dependent; evolving |
+| **Does the HEAT/ICE study apply to high-risk but nonmetastatic patients?** | It is relevant because 25% of registry patients were EAU high risk and the 10-year metastasis estimate in that subgroup was low. But it should be read as evidence for **carefully selected, MRI/biopsy-mapped high-risk cases**, not as proof that focal ablation is appropriate for all high-risk localized prostate cancers. | Important registry signal; not definitive comparative evidence |
 | **What is the main trade-off?** | Lower urinary/sexual/rectal toxicity is the goal, but residual or out-of-field cancer can remain. Follow-up requires PSA, MRI, and usually repeat biopsy. | Supported by systematic reviews and consensus statements |
 
 ## Modalities covered
@@ -98,6 +99,20 @@ The BBC article refers to the 2026 European Urology report from the UK prospecti
 This study is important because it is much larger and more mature than many earlier focal ablation reports. It followed **3477 patients** treated with focal HIFU or focal cryotherapy for nonmetastatic prostate cancer in UK registry practice. The BBC summary reports that nearly all men had intermediate- or high-risk disease and that prostate-cancer mortality was very low over follow-up, with fewer urinary and sexual side effects than expected from whole-gland radical therapy.
 
 **Patient interpretation:** this strengthens the case that focal HIFU/cryo is no longer just a small experimental concept. However, it is still **registry evidence**, not a randomized comparison with radical prostatectomy, radiotherapy, brachytherapy, or active surveillance. It can support a discussion about access and suitability, but it should not be read as proving that focal therapy is equivalent for every localized prostate cancer case.
+
+#### Relevance for high-risk patients with no metastatic spread
+
+This article is particularly relevant to the question: **could some high-risk, nonmetastatic patients reasonably discuss focal ablation rather than automatically being excluded?**
+
+Important details from the full article:
+
+- **Population:** nonmetastatic prostate cancer treated in 14 UK centres from 2004 to 2024; HIFU in 2897 patients and cryotherapy in 580.
+- **Risk mix:** 48% EAU favourable-intermediate risk, 23% unfavourable-intermediate risk, and **25% high risk** using the 2025 EAU risk grouping.
+- **Overall 10-year outcomes:** cancer-specific mortality 0.13%, metastases 3.3%, ADT use 14%, local retreatment 33%, and radical treatment 30% on an intention-to-treat basis.
+- **High-risk subgroup signals:** for high-risk patients, the reported 10-year estimates were cancer-specific mortality 0.19%, metastases 4.7%, ADT use 15%, local retreatment 33%, and radical treatment 28%. In the authors' post hoc per-protocol analysis, high-risk local retreatment and radical treatment estimates were lower, but that analysis is exploratory.
+- **Selection caveat:** although 25% were labelled high risk, the cohort still looked highly selected: median PSA was 6.8 ng/ml, most known-stage patients were T2, only 10% were T3a and 0.4% T3b, and Grade Group 4–5 cancers were uncommon. This is not the same as bulky, bilateral, MRI-poorly-defined, very-high-risk, node-positive, or metastatic disease.
+
+**Patient-facing interpretation for high-risk nonmetastatic disease:** the HEAT/ICE update makes focal HIFU/cryo more discussable for **selected** high-risk nonmetastatic patients, especially if disease is MRI-visible, biopsy-mapped, anatomically targetable, not obviously extracapsular/seminal-vesicle/nodal/metastatic, and the patient accepts repeat MRI/biopsy and possible retreatment. It does **not** overturn the usual caution that high-risk prostate cancer often needs whole-gland local therapy, sometimes with pelvic nodal treatment and/or systemic intensification. A high-risk patient should ask whether focal ablation would be offered only in a trial/registry, how occult out-of-field disease has been excluded, and what the salvage plan would be if repeat biopsy or PSA/MRI suggests persistence.
 
 ### 4. Irreversible electroporation
 
@@ -200,10 +215,11 @@ The FLAME randomized phase III trial showed improved biochemical disease-free su
 - **Article discussed by:** BBC News, “Prostate cancer trial using focal therapy has fewer side effects,” 2026-07-16: <https://www.bbc.com/news/articles/cwyq3lnndvxo>
 - **Evidence type:** Updated analysis of prospectively collected UK HEAT and ICE focal therapy registry data.
 - **Population:** 3477 patients treated with focal HIFU or focal cryotherapy for nonmetastatic prostate cancer in the United Kingdom.
-- **Main finding:** Provides large-scale long-term registry evidence for oncological outcomes after focal HIFU/cryo; BBC reporting emphasizes very low prostate-cancer mortality and lower urinary/sexual side-effect burden compared with typical whole-gland treatment expectations.
-- **Patient relevance:** This is the study behind the BBC report and is the strongest current reason to revisit access to focal HIFU/cryo for suitable localized cases.
-- **Limitations:** Registry/nonrandomized evidence; selection bias is likely; outcomes are not direct randomized comparisons with prostatectomy, radiotherapy, brachytherapy, or active surveillance; follow-up intensity and definitions of recurrence/salvage matter.
-- **Questions for clinician:** Am I anatomically and biologically similar to the registry patients? What were the centre’s own HIFU/cryo outcomes, repeat-treatment rate, salvage-treatment rate, and follow-up biopsy protocol?
+- **Main finding:** Provides large-scale long-term registry evidence for oncological outcomes after focal HIFU/cryo; the full article reports 10-year cancer-specific mortality of 0.13%, metastases of 3.3%, ADT use of 14%, and substantial retreatment/salvage use. A quarter of patients were EAU high risk.
+- **Patient relevance:** This is the study behind the BBC report and is the strongest current reason to revisit access to focal HIFU/cryo for suitable localized cases, including selected high-risk nonmetastatic men.
+- **High-risk relevance:** High-risk subgroup 10-year estimates were reported as cancer-specific mortality 0.19% and metastases 4.7%, but the cohort was selected and mostly Grade Group 2–3, with relatively few Grade Group 4–5 cancers and little known T3b disease.
+- **Limitations:** Registry/nonrandomized evidence; selection bias is likely; outcomes are not direct randomized comparisons with prostatectomy, radiotherapy, brachytherapy, or active surveillance; follow-up intensity and definitions of recurrence/salvage matter; high-risk findings are hypothesis-strengthening, not a blanket endorsement for all high-risk cases.
+- **Questions for clinician:** Am I anatomically and biologically similar to the registry patients? Is my high-risk label driven by PSA, Grade Group, T stage, MRI extent, or multiple adverse features? What were the centre’s own HIFU/cryo outcomes, repeat-treatment rate, salvage-treatment rate, and follow-up biopsy protocol?
 
 ### Cryotherapy
 
