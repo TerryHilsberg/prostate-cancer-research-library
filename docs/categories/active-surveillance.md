@@ -13,4 +13,5 @@ Research notes and filed articles for **active surveillance**.
 
 ## Filed items
 
+- [High-Risk Nonmetastatic Prostate Cancer: Does Watchful Waiting Add Up?](../papers/high-risk-nonmetastatic-localized-treatment-evidence/index.md) — explains why PIVOT and ProtecT support careful avoidance of overtreatment but do not prove that high-risk nonmetastatic prostate cancer should routinely be managed by observation/watchful waiting.
 - [2026-07-26 weekly scan](../updates/2026-07-26.md) — Active-surveillance watch: a systematic review and pooled analysis of selected intermediate-risk/Grade Group 1–2 patients suggests active surveillance can be a clinician-discussion option for carefully selected favorable intermediate-risk disease, especially with modern MRI-informed selection and structured follow-up; it does not support surveillance for all intermediate-risk patients.
