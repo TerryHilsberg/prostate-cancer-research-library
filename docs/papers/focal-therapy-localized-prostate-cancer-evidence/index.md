@@ -103,6 +103,25 @@ There is no universally accepted algorithm that says “HIFU for this lesion, cr
 - **Grade Group 2 / favourable-intermediate disease:** often the most plausible ablation-selection zone if the lesion is mapped and localized.
 - **Unfavourable intermediate or high-risk localized disease:** focal ablation requires extra caution. HEAT/ICE makes selected high-risk nonmetastatic HIFU/cryo more discussable, but high-risk biology, extracapsular extension risk, occult multifocal disease and need for systemic/radiation intensification must be addressed explicitly.
 
+### Specific scenario: anterior Grade Group 1–2 lesion, small prostate volume, but PSA >20 ng/mL
+
+This combination deserves a separate discussion because the features point in different directions:
+
+- **Features that can favour focal discussion:** Gleason 3+3 or 3+4 disease, a visible lesion apparently contained to the anterior prostate, limited lesion volume, and no MRI/biopsy evidence of contralateral clinically significant cancer.
+- **Feature that pushes against routine focal ablation:** PSA >20 ng/mL is a high-risk criterion. If prostate volume is <30 cc, the PSA density is at least about 0.67 ng/mL/cc, far above common diagnostic-risk thresholds such as 0.15. That discordance raises concern that the biopsy/MRI may be underestimating tumour volume, grade, multifocality, extracapsular extension, inflammation/prostatitis, or another PSA driver.
+
+**Direct evidence for exactly this phenotype is very limited.** Most focal-therapy studies do not report a clean subgroup of: anterior-only lesion + Gleason 3+3/3+4 + prostate volume <30 cc + PSA >20 ng/mL. The closest evidence says:
+
+- Anterior focal HIFU has been studied, but in a cohort with **median PSA about 7 ng/mL**, mostly Gleason 3+4, and prostate volume around 33 ml; anterior cases had more further treatment than posterior cases.[^anterior-hifu]
+- Focal cryotherapy has relatively relevant anterior-lesion evidence: in a 122-patient UK registry series, 65.6% had anterior ablation and 28.7% were NCCN high risk, but median PSA was 10.8 ng/mL, not >20; 3-year failure-free survival was 84.7% in high-risk patients.[^focal-cryo]
+- IRE/NanoKnife studies are much less supportive for PSA >20 with a small gland. A phase II IRE study required PSA ≤15 ng/mL, and the PRESERVE pivotal trial enrolled intermediate-risk organ-confined patients with PSA ≤15 ng/mL or PSA density <0.15 ng/mL/cc.[^ire-phase2][^preserve]
+- Focal laser ablation studies include Gleason 3+3 and 3+4 patients, but they are very small and early-phase; they do not establish cancer-control confidence for a PSA >20/high-PSA-density case.[^fla-3yr]
+- HEAT/ICE included a substantial high-risk subgroup and makes selected high-risk nonmetastatic HIFU/cryo more discussable, but the registry's median PSA was 6.8 ng/mL and it does not prove safety for a PSA-driven high-risk, very-high-PSA-density anterior case.[^heatice]
+
+**Patient-facing interpretation:** an anterior, apparently localized Gleason 3+4 or 3+3 lesion may be anatomically attractive for focal therapy, particularly cryotherapy, IRE, or selected HIFU depending on access and margins. But PSA >20 in a prostate <30 cc is a major red flag. Before focal therapy is treated as reasonable, the clinical team should be able to explain why the PSA is so high, whether PSA was repeated after excluding infection/inflammation/instrumentation effects, whether PSA density and PSA kinetics are concordant, whether pathology has had expert review, whether targeted plus systematic/template transperineal biopsy adequately sampled the anterior and contralateral gland, and whether PSMA PET/CT or other staging changes the risk picture.
+
+**Practical wording for the focal-therapy consultation:** “If my only adverse feature is PSA >20, and the MRI/biopsy show only a contained anterior Gleason 3+4 or 3+3 lesion in a small prostate, am I truly similar to your focal-therapy patients, or is this a discordant high-PSA-density case where focal ablation risks undertreating occult disease?”
+
 ### Patient-facing way to ask the specialist
 
 Rather than asking “which technology is best?”, ask:
@@ -415,3 +434,15 @@ This page fills a gap in the Localized Treatment section by separating:
 2. **Focal radiation boost** — a different concept, where the whole prostate is treated and the dominant lesion receives extra dose; this has stronger randomized evidence from FLAME for selected intermediate/high-risk radiotherapy candidates.
 3. **Patient selection** — focal treatment is most plausible when clinically significant disease is MRI-visible, biopsy-confirmed, localized, and regionally concentrated, and least plausible when disease is multifocal, bilateral, high-volume/high-grade, poorly mapped, or beyond the capsule.
 4. **Follow-up discipline** — focal therapy does not eliminate surveillance; MRI and repeat biopsy are central because residual in-field or out-of-field cancer can remain.
+
+[^anterior-hifu]: Guillaumier S, et al. Focal HIFU therapy for anterior compared to posterior prostate cancer lesions. *World J Urol*. 2021. DOI: [10.1007/s00345-020-03297-7](https://doi.org/10.1007/s00345-020-03297-7); PMID: [32638084](https://pubmed.ncbi.nlm.nih.gov/32638084/).
+
+[^focal-cryo]: Shah TT, et al. Early-medium-term outcomes of primary focal cryotherapy to treat nonmetastatic clinically significant prostate cancer from a prospective multicentre registry. *Eur Urol*. 2019. DOI: [10.1016/j.eururo.2018.12.030](https://doi.org/10.1016/j.eururo.2018.12.030); PMID: [30638633](https://pubmed.ncbi.nlm.nih.gov/30638633/).
+
+[^ire-phase2]: Blazevski A, et al. Focal therapy of prostate cancer index lesion with irreversible electroporation: a prospective study with a median follow-up of 3 years. *J Urol*. 2023. DOI: [10.1097/JU.0000000000002970](https://doi.org/10.1097/JU.0000000000002970); PMID: [36073928](https://pubmed.ncbi.nlm.nih.gov/36073928/).
+
+[^preserve]: Irreversible electroporation for prostate tissue ablation in patients with intermediate-risk prostate cancer: results from the PRESERVE trial. *Eur Urol*. 2026. DOI: [10.1016/j.eururo.2025.06.003](https://doi.org/10.1016/j.eururo.2025.06.003); PMID: [40685282](https://pubmed.ncbi.nlm.nih.gov/40685282/).
+
+[^fla-3yr]: MRI-guided focal laser ablation of prostate cancer: a prospective single-arm, single-center trial with 3 years of follow-up. *Diagn Interv Radiol*. 2021. PMID: [34003127](https://pubmed.ncbi.nlm.nih.gov/34003127/).
+
+[^heatice]: Light A, Peters M, Gopalakrishnan A, et al. Oncological outcomes following focal HIFU and cryotherapy for treatment of nonmetastatic prostate cancer in the United Kingdom: updated analysis from the HEAT and ICE registries. *European Urology*. 2026. DOI: [10.1016/j.eururo.2026.05.007](https://doi.org/10.1016/j.eururo.2026.05.007).
