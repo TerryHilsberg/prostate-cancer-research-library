@@ -1,7 +1,9 @@
 # Focal Therapy for Localized Prostate Cancer: Evidence Map
 
-Retrieved: **2026-07-17**  
-Category: **Localized Treatment; Therapies; Imaging & Biomarkers; Side Effects & Quality of Life**  
+Retrieved: **2026-07-28**
+
+Category: **Localized Treatment; Therapies; Imaging & Biomarkers; Side Effects & Quality of Life**
+
 Scope: focal and partial-gland treatment approaches for localized prostate cancer, including HIFU, cryotherapy, irreversible electroporation, focal laser ablation, vascular-targeted photodynamic therapy, TULSA/MR-guided ultrasound, and focal radiation boost to dominant intraprostatic lesions.
 
 !!! warning "Not medical advice"
@@ -18,15 +20,16 @@ Scope: focal and partial-gland treatment approaches for localized prostate cance
 | **Is focal therapy mainstream?** | Focal radiation boost is moving into mainstream radiotherapy for selected intermediate/high-risk patients. Focal HIFU/cryo evidence is maturing, but the new HEAT/ICE report is still registry evidence, not a randomized proof of equivalence to surgery or radiotherapy. Major guidelines still commonly describe focal ablation as investigational or best done in trials/registries. | Guideline-dependent; evolving |
 | **Does the HEAT/ICE study apply to high-risk but nonmetastatic patients?** | It is relevant because 25% of registry patients were EAU high risk and the 10-year metastasis estimate in that subgroup was low. But it should be read as evidence for **carefully selected, MRI/biopsy-mapped high-risk cases**, not as proof that focal ablation is appropriate for all high-risk localized prostate cancers. | Important registry signal; not definitive comparative evidence |
 | **What is the main trade-off?** | Lower urinary/sexual/rectal toxicity is the goal, but residual or out-of-field cancer can remain. Follow-up requires PSA, MRI, and usually repeat biopsy. | Supported by systematic reviews and consensus statements |
+| **How might HIFU, cryotherapy, IRE/NanoKnife and laser be chosen?** | Choice is mainly anatomical and evidence-driven: tumour size/shape, distance from urethra/sphincter/rectum/neurovascular bundles, anterior/posterior/apical/base location, prostate size/calcifications, operator experience, trial/registry access, and tolerance for retreatment or later salvage. | Consensus/practice-based; modality-specific comparative evidence is limited |
 
 ## Modalities covered
 
 | Modality | How it works | Typical use-case logic | Evidence maturity | Key caveat |
 |---|---|---|---|---|
-| **High-intensity focused ultrasound (HIFU)** | Focused ultrasound heats/ablates tissue. | MRI-visible index lesion; often unilateral/hemi-gland or quadrant treatment; used for selected low/intermediate and some carefully selected higher-risk localized cases in registries. | One of the larger focal-ablation evidence bases, now including 5-year HIFU data and the 3477-patient UK HEAT/ICE HIFU+cryo registry update. | Follow-up biopsy rates vary; repeat focal treatment may be needed; registry outcomes should not be treated as randomized equivalence to radical therapy. |
-| **Cryotherapy / focal cryoablation** | Freezing destroys targeted tissue. | Often MRI-visible lesions, including anterior or lateral lesions depending on access and ice-ball safety margins. | Registry and prospective development data, strengthened by the UK HEAT/ICE registry update with HIFU and cryotherapy. | Risk to urethra, sphincter, neurovascular bundles, rectum depends on lesion location and ice-ball margin; long-term comparative evidence remains limited. |
-| **Irreversible electroporation (IRE / NanoKnife)** | Nonthermal electrical pulses disrupt cell membranes; theoretically preserves collagenous structures such as vessels/ducts. | Lesions close to structures where thermal spread is a concern, including selected apical/anterior/posterior locations, but selection is specialist-dependent. | Growing prospective evidence including phase II and pivotal single-arm data; still evolving. | Out-of-field clinically significant cancer and retreatment remain concerns; long-term comparative outcomes limited. |
-| **Focal laser ablation (FLA)** | MRI-guided laser heating creates localized coagulative necrosis. | Small MRI-visible lesions accessible to in-bore or fusion-guided laser placement. | Early phase/single-arm studies; investigational. | Small numbers; variable local control; expertise and MRI thermometry matter. |
+| **High-intensity focused ultrasound (HIFU)** | Focused ultrasound heats/ablates tissue. | MRI-visible index lesion; often unilateral/hemi-gland or quadrant treatment; works best when acoustic access and treatment geometry allow a safe thermal margin; selected low/intermediate and some carefully selected higher-risk localized cases in registries. | One of the larger focal-ablation evidence bases, now including 5-year HIFU data and the 3477-patient UK HEAT/ICE HIFU+cryo registry update. | Thermal spread and incomplete margins matter; posterior/apical/urethra-adjacent anatomy can be limiting; prostatic calcifications may interfere with ultrasound energy; repeat focal treatment may be needed. |
+| **Cryotherapy / focal cryoablation** | Freezing destroys targeted tissue. | Often MRI-visible lesions, including anterior or lateral lesions depending on needle access and ice-ball safety margins; can create larger conformal ablation zones than very small-point therapies. | Registry and prospective development data, strengthened by the UK HEAT/ICE registry update with HIFU and cryotherapy. | Risk to urethra, sphincter, neurovascular bundles, rectum depends on lesion location and ice-ball margin; erectile dysfunction risk may increase when treating near neurovascular bundles; long-term comparative evidence remains limited. |
+| **Irreversible electroporation (IRE / NanoKnife)** | Nonthermal electrical pulses disrupt cell membranes; theoretically preserves collagenous structures such as vessels/ducts. | Lesions close to structures where thermal spread is a concern, including selected apical, periurethral, anterior or posterior locations; requires electrode placement geometry and anaesthesia expertise. | Growing prospective evidence including phase II and pivotal single-arm data; still evolving. | Long-term metastasis/survival data and randomized comparisons are limited; out-of-field clinically significant cancer and retreatment remain concerns. |
+| **Focal laser ablation (FLA)** | MRI-guided laser heating creates localized coagulative necrosis. | Small, discrete MRI-visible lesions accessible to in-bore or fusion-guided laser placement, especially when a small ablation volume is intended. | Early phase/single-arm studies; investigational. | Evidence base is much smaller than HIFU/cryo; local control depends on MRI thermometry, probe placement, and ablation margin; larger or irregular lesions may be poor fits. |
 | **Vascular-targeted photodynamic therapy (VTP; padeliporfin/TOOKAD)** | Light-activated drug causes vascular occlusion and tissue necrosis in the treated zone. | Historically studied in low-risk localized disease compared with active surveillance. | One randomized phase III trial versus active surveillance in low-risk disease. | Low-risk disease may often be safely observed; availability/regulatory status varies. |
 | **TULSA / MR-guided transurethral ultrasound ablation** | MRI-guided ultrasound from within urethra, often used for directional or near-whole-gland ablation. | Can be focal, subtotal, or near-whole-gland; useful conceptually for MRI-controlled thermal ablation. | Early prospective data; more whole-/near-whole-gland than classic focal in some studies. | Not the same evidence question as focal index-lesion ablation. |
 | **Focal radiation boost / microboost** | Whole prostate receives radiotherapy, with an extra dose to the MRI-visible dominant lesion. | Intermediate/high-risk radiotherapy candidates with a clear dominant intraprostatic lesion and acceptable organ-at-risk constraints. | Stronger validation: FLAME randomized phase III trial and ESTRO implementation guidance. | This is not tissue-sparing ablation; the whole gland is still treated, so toxicity/benefit questions differ. |
@@ -71,6 +74,44 @@ Focal treatment is harder to justify when there is:
 | **Near urethra** | Thermal ablation may risk urethral injury/stricture; nonthermal or radiation approaches may be considered by specialists, but evidence varies. |
 | **Bilateral disease** | Hemi-gland/subtotal approaches may still be discussed, but the more tissue treated, the less “focal” the functional advantage may become. |
 | **Dominant lesion in intermediate/high-risk radiotherapy candidate** | Focal radiation boost is different: the whole prostate is treated, then the visible lesion receives extra dose if constraints permit. |
+
+## Selecting one focal modality over another
+
+There is no universally accepted algorithm that says “HIFU for this lesion, cryo for that lesion, NanoKnife for another.” In practice, the decision is a **case-selection and anatomy problem** first, and a device choice second. The modality should be chosen only after the team has mapped the cancer with high-quality mpMRI, targeted plus systematic/template biopsy, risk grouping, prostate anatomy, baseline urinary/sexual function, and the patient’s willingness to accept repeat MRI/biopsy surveillance.
+
+### Practical selection matrix
+
+| Variable | HIFU | Cryotherapy | IRE / NanoKnife | Focal laser ablation |
+|---|---|---|---|---|
+| **Evidence maturity** | Larger focal-ablation evidence base; 5-year multicentre HIFU data plus HEAT/ICE HIFU/cryo registry. | Registry evidence; strengthened by HEAT/ICE but fewer patients than HIFU in that registry. | Promising prospective phase II and pivotal single-arm data; long-term comparative outcomes still limited. | Small early-phase and single-centre studies; generally the least mature of these four. |
+| **Tumour size / volume** | Better for a target that can be covered with a planned thermal field or hemi-/quadrant ablation margin; very large or irregular lesions may become subtotal treatment. | Can treat larger or shaped zones with multiple probes, but margins near sphincter/rectum/neurovascular bundles are the constraint. | Suited to carefully contoured targets if electrode geometry can surround the lesion; very large lesions may require complex arrays or may be poor candidates. | Best suited conceptually to small, discrete MRI-visible lesions; larger lesions raise margin and control concerns. |
+| **Location: apex / sphincter** | Technically sensitive: undertreatment risks persistence, overtreatment risks continence. | Ice-ball extension near sphincter must be tightly controlled. | Often discussed when nonthermal treatment near sphincter/urethra is attractive, but this is expertise-dependent. | Small apical targets may be possible in expert hands, but evidence is limited. |
+| **Location: urethra / bladder neck** | Thermal injury can cause urinary symptoms, sloughing, stricture or retention; distance and cooling strategy matter. | Urethral warming/cooling and ice-ball monitoring matter; periurethral disease may be challenging. | The nonthermal mechanism is a theoretical advantage near collagenous structures, but electrode placement and arrhythmia precautions matter. | Thermal technique; small precise ablation can help, but insufficient margin risks persistence. |
+| **Location: rectum / posterior capsule** | Rectal safety margin is critical for posterior disease. | Rectal distance and ice-ball monitoring are critical. | May be considered where avoiding thermal spread is valuable, but posterior electrode geometry must be safe. | MRI thermometry helps, but posterior safety margins and small study base are caveats. |
+| **Location: neurovascular bundle / erections priority** | Nerve-sparing intent depends on lesion distance and margin; closer lesions reduce erectile-preservation confidence. | Freezing near neurovascular bundles can impair erectile function; laterality and margin matter. | Nonthermal rationale may be appealing near neurovascular structures, but erectile outcomes still require centre-specific data. | Small-volume treatment may appeal for function preservation, but cancer-control evidence is less mature. |
+| **Anterior lesion** | May be feasible depending on access and prostate geometry; mapping accuracy is crucial. | Needle-based cryo can often access anterior/lateral regions if safe margins are possible. | Electrode placement can be adapted for anterior targets in expert centres. | Access depends on MRI-guided or fusion-guided probe placement. |
+| **Prostate size / calcifications** | Large glands and calcifications can affect ultrasound energy delivery and planning. | Large gland size can complicate probe placement and ice-ball coverage but is sometimes manageable. | Requires electrode geometry and safe current delivery. | Requires MRI visibility, access route, and precise probe placement. |
+| **Side-effect emphasis** | Goal is continence/erection preservation versus radical treatment, but urinary retention, sloughing, irritative symptoms and ED can occur. | Urinary symptoms, retention/stricture and ED risks depend on ice-ball extent and proximity to urethra/nerves. | Urinary symptoms, retention and ED can occur; cardiac synchronization/anaesthesia are added procedural considerations. | Usually framed as minimally invasive, but urinary/sexual outcomes come from small cohorts and must be balanced against limited cancer-control evidence. |
+| **Progression/outcome confidence** | More mature than IRE/laser, but still not randomized equivalence to surgery/radiation; retreatment and salvage are common parts of the pathway. | Similar caveat; HEAT/ICE strengthens long-term registry signal, but selection bias remains. | Useful 12-month and 3-year biopsy/safety signals; long-term metastasis-free and survival endpoints are not yet mature. | Most investigational; best discussed in trial/registry settings with mandatory biopsy follow-up. |
+
+### How tumour size, grade and laterality change the discussion
+
+- **Small, discrete, MRI-visible lesion:** laser, IRE, HIFU or cryo may all be technically discussable; the deciding issues become margin confidence, location, local expertise and evidence maturity. Laser is usually the least proven oncologically.
+- **Medium lesion or regionally concentrated unilateral disease:** HIFU or cryotherapy often have the more mature focal-ablation evidence base; IRE may be considered if thermal spread is a special concern. The more tissue treated, the smaller the functional advantage over whole-gland approaches may become.
+- **Large, irregular, bilateral or multifocal clinically significant disease:** focal therapy becomes less compelling. A hemi-gland/subtotal approach may be possible, but the patient should ask whether this is really tissue-sparing treatment or an undertreated whole-gland problem.
+- **Grade Group 1 / low-risk disease:** the key comparator may be active surveillance rather than another focal device. Treating low-risk disease can create side effects without proven survival advantage.
+- **Grade Group 2 / favourable-intermediate disease:** often the most plausible ablation-selection zone if the lesion is mapped and localized.
+- **Unfavourable intermediate or high-risk localized disease:** focal ablation requires extra caution. HEAT/ICE makes selected high-risk nonmetastatic HIFU/cryo more discussable, but high-risk biology, extracapsular extension risk, occult multifocal disease and need for systemic/radiation intensification must be addressed explicitly.
+
+### Patient-facing way to ask the specialist
+
+Rather than asking “which technology is best?”, ask:
+
+1. **Is my cancer focal enough to treat focally?** What did MRI plus targeted and systematic/template biopsy show on the other side of the gland?
+2. **What margin is planned and what structure limits that margin?** Urethra, sphincter, rectum, bladder neck, capsule or neurovascular bundle?
+3. **Why this modality for this exact location?** What would be worse about HIFU, cryo, IRE, laser, focal boost radiotherapy, or whole-gland treatment in my case?
+4. **What are your centre’s own outcomes?** In-field positive biopsy, out-of-field clinically significant cancer, repeat focal treatment, conversion to surgery/radiation/ADT, continence, erectile function, urinary retention/stricture, infection and rectal injury.
+5. **What is the salvage plan?** If MRI/biopsy shows persistence or recurrence, can I still have repeat ablation, prostatectomy, radiotherapy, brachytherapy or systemic treatment, and with what added toxicity?
 
 ## Evidence synthesis by modality
 
@@ -282,7 +323,7 @@ The FLAME randomized phase III trial showed improved biochemical disease-free su
 #### MRI-guided focal laser ablation: 3-year single-arm trial
 
 - **Citation:** *Diagnostic and Interventional Radiology*. 2021.
-- **DOI/PMID:** DOI [10.1016/j.jvir.2018.09.016](https://doi.org/10.1016/j.jvir.2018.09.016); PMID [34003127](https://pubmed.ncbi.nlm.nih.gov/34003127/)
+- **DOI/PMID:** DOI [10.5152/dir.2021.20095](https://doi.org/10.5152/dir.2021.20095); PMID [34003127](https://pubmed.ncbi.nlm.nih.gov/34003127/)
 - **Evidence type:** Prospective single-arm single-centre trial.
 - **Population:** 15 men with Gleason 3+3 or 3+4 prostate cancer.
 - **Main finding:** Reported feasibility, safety, quality-of-life, PSA, MRI, and biopsy outcomes over follow-up.
@@ -352,7 +393,7 @@ The FLAME randomized phase III trial showed improved biochemical disease-free su
 
 ### Modality and anatomy
 
-- Which modality is best for this lesion location: HIFU, cryo, IRE, laser, VTP, TULSA, focal boost RT, or brachy boost?
+- Which modality is best for this lesion size, shape and location: HIFU, cryo, IRE, laser, VTP, TULSA, focal boost RT, or brachy boost?
 - What ablation or boost margin will be used around the MRI lesion?
 - How close is the lesion to urethra, sphincter, rectum, bladder neck, capsule, neurovascular bundle, or apex?
 - Is a hemi-gland or subtotal treatment actually being proposed, and how much functional advantage remains?
