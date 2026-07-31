@@ -14,6 +14,7 @@ Research notes and filed articles for **shared decision-making**.
 
 ## Filed items
 
+- [Coronary and Cardiovascular Risk by Radical Treatment Type: Evidence Map](../papers/cardiovascular-risk-by-radical-treatment-prostate-cancer-evidence/index.md) — turns the surgery-versus-radiotherapy cardiovascular-risk question into clinician questions about risk group, ADT necessity/duration/type, baseline coronary disease, and cardio-oncology optimization.
 - [2026-07-26 weekly scan](../updates/2026-07-26.md) — Shared-decision watch: selected intermediate-risk active surveillance should be discussed through MRI/biopsy/risk-feature eligibility and follow-up triggers; a YouTube robot-assisted prostatectomy study highlights why online videos should be converted into clinician questions about continence, erectile function, complications, PSA follow-up, recovery timeline, and alternatives.
 - [AI and Integrated Test Decision Support in Prostate Cancer: Evidence Map](../papers/ai-integrated-prostate-cancer-decision-support-evidence/index.md) — patient-facing overview of how PSA, mpMRI, biopsy/pathology, PSMA PET/CT, biomarkers, risk calculators, radiomics, and AI can support shared decisions about biopsy, staging, local treatment, focal targeting, radiotherapy boost, ADT use/duration, and salvage therapy.
 
