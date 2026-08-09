@@ -13,6 +13,7 @@ Research notes and filed articles for **screening & early detection**.
 
 ## Filed items
 
+- [2026-08-09 weekly scan](../updates/2026-08-09.md) — Screening-pathway watch: ERSPC 20-year nonattendance analysis and the Czech nationwide pilot reinforce that modern PSA screening should be interpreted as an organized pathway with risk assessment, follow-up, MRI/biopsy triage, and attention to participation bias—not as a stand-alone PSA test.
 - [2026-08-02 weekly scan](../updates/2026-08-02.md) — Screening/triage watch: a small long-term 4Kscore retrospective cohort supports using reflex biomarkers as part of PSA/MRI/biopsy discussions, but not as stand-alone rule-out tests; a p2PSA/phi case-control study was kept on watchlist as hypothesis-generating biomarker evidence.
 - [2026-07-13 weekly scan](../updates/2026-07-13.md) — PSA-interpretation watch: long-term Swedish screening-cohort data suggest PSA density can add risk information for men with PSA 3–10 ng/mL, but PSAD should be interpreted with MRI findings, exam, family/genetic risk, infection/inflammation context, medications, and clinician judgment rather than used as a stand-alone rule.
 - [Hormone Levels and Prostate Cancer Incidence: Evidence Map](../papers/hormone-levels-prostate-cancer-incidence-evidence/index.md) — evidence on testosterone, free testosterone, SHBG, LH, IGF-I, and prostate cancer incidence/aggressive-disease risk; includes the 2026 Lancet Healthy Longevity individual-participant-data meta-analysis.
