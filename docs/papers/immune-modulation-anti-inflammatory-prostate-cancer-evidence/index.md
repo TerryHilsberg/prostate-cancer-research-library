@@ -1,6 +1,6 @@
 # Immune Modulation and Anti-inflammatory Agents in Prostate Cancer: Evidence Map
 
-_Retrieved: 2026-07-04_
+_Retrieved: 2026-07-04; focused aspirin update: 2026-08-09_
 
 **Category:** Therapies; advanced & recurrent disease; localized treatment; side effects & quality of life  
 **Scope:** Patient-facing review of immune modulation and anti-inflammatory approaches in prostate-cancer management, from approved immunotherapy to investigational vaccines, checkpoint inhibitors, mycobacterial immune modulators, NSAIDs/COX-2 inhibitors, vitamin D, low-dose naltrexone, bromelain, corticosteroids, and inflammation-related trial strategies.
@@ -16,7 +16,7 @@ _Retrieved: 2026-07-04_
 | **Is any immunotherapy approved with survival evidence?** | **Sipuleucel-T** improved overall survival by about 4 months in asymptomatic or minimally symptomatic metastatic castration-resistant prostate cancer (mCRPC), without clearly delaying radiographic/clinical progression. Availability varies by country. | "If I have mCRPC and few symptoms, is sipuleucel-T available and appropriate in my care system?" |
 | **Do checkpoint inhibitors work for most prostate cancer?** | Not for most unselected patients. Pembrolizumab has low response rates in unselected mCRPC, but can produce meaningful responses in tumors with **MSI-H/dMMR** or selected high-TMB biology. | "Do my genomic results suggest a tumor-agnostic indication for pembrolizumab or a clinical trial?" |
 | **Do combination checkpoint strategies solve the problem?** | Mixed and mostly investigational. Several phase 3 combinations have not improved overall survival in biomarker-unselected mCRPC, although some combinations show progression-free-survival or subgroup signals. | "Is this combination guideline-supported for my biomarker group, or is it mainly a clinical-trial question?" |
-| **Do anti-inflammatory drugs such as aspirin/NSAIDs improve prostate-cancer outcomes?** | Observational studies are inconsistent; randomized evidence does not support routine use as prostate-cancer treatment. Aspirin/NSAIDs may be indicated for cardiovascular or pain reasons, but cancer-control benefit is unproven. | "Do I have a cardiovascular, bleeding, kidney, ulcer, anticoagulant, or perioperative reason to use or avoid aspirin/NSAIDs?" |
+| **Does daily low-dose aspirin after diagnosis deter prostate-cancer metastasis?** | Biologically plausible, especially through platelet/T-cell anti-metastatic mechanisms, and some prostate cohorts show lower lethal progression or prostate-cancer mortality. However, other prostate cohorts and prostate-focused meta-analyses are neutral, and no definitive prostate-cancer randomized outcomes trial proves that starting aspirin after diagnosis prevents metastasis. | "Do I have an independent cardiovascular indication, and is my prostate-cancer risk high enough that the uncertain observational evidence is worth discussing despite bleeding risk?" |
 | **What about celecoxib/COX-2 inhibition?** | STAMPEDE and perioperative biomarker studies do **not** show clear survival or biomarker benefit sufficient for routine prostate-cancer treatment. Celecoxib has cardiovascular and renal risks. | "Is there any cancer-specific reason for celecoxib in my case, or would it only be used for pain/inflammation under usual safety rules?" |
 | **What about vitamin D, bromelain, or low-dose naltrexone?** | Vitamin D deficiency should be corrected for general health, but high-dose vitamin D has not shown reliable prostate-cancer treatment benefit. Bromelain and low-dose naltrexone are hypothesis-generating, not standard-of-care cancer therapy. | "Should my vitamin D be checked/corrected, and could any supplement interact with cancer treatment, anticoagulants, surgery, or pain medications?" |
 | **How should the Dalgleish/Liu IMM-101 case report be interpreted?** | It is interesting and hypothesis-generating, but it is a six-patient uncontrolled case report with major confounding from standard therapies. It cannot prove that IMM-101, LDN, bromelain, aspirin, or vitamin D controlled cancer. | "Is there a registered clinical trial or controlled evidence for this regimen, and would it interfere with proven therapy?" |
@@ -157,11 +157,24 @@ The authors report PSA declines or slowed PSA doubling time, stable imaging for 
 
 ### Aspirin and non-steroidal anti-inflammatory drugs (NSAIDs)
 
-Epidemiologic studies have explored whether aspirin or NSAIDs reduce prostate-cancer incidence, recurrence, or mortality. Results are inconsistent. Meta-analyses of aspirin exposure after diagnosis have not shown a reliable prostate-cancer-specific mortality benefit.[^aspirin-mortality] Earlier NSAID-risk meta-analyses described evidence as suggestive but not conclusive.[^nsaid-risk]
+#### Focused question: daily low-dose aspirin after prostate-cancer diagnosis to deter metastasis
 
-**Safety issue:** aspirin and NSAIDs can cause gastrointestinal bleeding, kidney injury, perioperative bleeding, interactions with anticoagulants/antiplatelets, and cardiovascular risks depending on agent and patient context.
+A 2025 *Nature* mechanistic paper gives a credible biological reason to revisit aspirin: in experimental metastasis models, COX-1 inhibition including aspirin reduced metastasis by limiting platelet-derived thromboxane A2 suppression of T-cell immunity at metastatic sites.[^aspirin-nature-2025] This aligns with an older individual-patient analysis of vascular-prevention randomized trials in which daily aspirin (at least 75 mg/day) reduced cancers presenting with distant metastasis and later metastatic spread, particularly adenocarcinomas.[^rothwell-metastasis]
 
-**Patient interpretation:** aspirin should be discussed primarily as a cardiovascular/vascular-risk medication unless a clinician is using it for another clear indication. It should not be started solely for prostate-cancer control based on current evidence.
+However, the prostate-cancer-specific clinical evidence is mixed and mostly observational:
+
+| Evidence stream | What it suggests | Why it does not settle the question |
+|---|---|---|
+| **Positive prostate cohort signals** | In CaPSURE, anticoagulant use—apparently driven mainly by aspirin—was associated with lower prostate-cancer-specific mortality, recurrence, and bone metastasis after prostatectomy or radiotherapy, with the strongest signal in high-risk disease.[^choe-aspirin] In the Physicians' Health Study, current post-diagnosis aspirin use was associated with lower risk of lethal prostate cancer, defined as metastasis or prostate-cancer death.[^downer-aspirin] | Observational studies can be confounded by cardiovascular care, health behaviours, tumour-risk differences, treatment choices, and prescribing patterns. |
+| **Neutral prostate cohort signals** | The Health Professionals Follow-up Study found no association between post-diagnosis aspirin use and metastases or fatal prostate cancer.[^jacobs-aspirin] UK CPRD data found no protective association after adjustment.[^cardwell-aspirin] NIH-AARP/PLCO pooled cohorts found no significant association with prostate-cancer-specific mortality, although all-cause mortality was lower among aspirin users.[^hurwitz-aspirin] | These findings argue against assuming a large, general prostate-cancer control effect. |
+| **Prostate-focused meta-analyses** | 2019 meta-analyses found no statistically reliable reduction in prostate-cancer-specific mortality from pre- or post-diagnosis aspirin exposure.[^aspirin-mortality][^liu-bmc-aspirin] A 2023 meta-analysis reported lower incidence and mortality associations overall but also noted that randomized controlled trials did not show a prostate-cancer association.[^li-aspirin-2023] | Pooled observational associations remain vulnerable to bias; randomized prostate-cancer outcome evidence is insufficient. |
+| **Randomized prostate-cancer evidence** | A feasibility trial showed men on active surveillance could be randomized to aspirin/vitamin D strategies with good adherence, but it was not powered to test metastasis or survival benefit.[^aspirin-vitd-feasibility] | Feasibility is not efficacy. |
+
+**Biomarker caveat:** the video also cited colon-cancer evidence that aspirin benefit after diagnosis may depend on retained HLA class I antigen expression.[^hla-colon] That supports the immune-recognition hypothesis, but it is **not** a validated prostate-cancer biomarker for deciding who should take aspirin.
+
+**Safety issue:** aspirin and NSAIDs can cause gastrointestinal bleeding, intracranial or perioperative bleeding, kidney injury, interactions with anticoagulants/antiplatelets, and cardiovascular risks depending on agent and patient context. The USPSTF recommends against initiating low-dose aspirin for primary cardiovascular prevention in adults 60 years or older and limits any primary-prevention consideration to selected younger adults without increased bleeding risk.[^uspstf-aspirin]
+
+**Patient interpretation:** daily low-dose aspirin is a reasonable **clinician-discussion item**, especially if there is an independent cardiovascular indication or high-risk localized disease, but it is **not a proven prostate-cancer anti-metastasis treatment**. Do not self-start aspirin solely to deter prostate-cancer metastasis after diagnosis.
 
 ### Celecoxib and COX-2 inhibition
 
@@ -314,6 +327,58 @@ The state of the art is best summarized as:
 - **Main finding:** No effect on apoptosis, prostaglandins, androgen receptor levels, or PSA; one postoperative MI in celecoxib arm.
 - **Patient relevance:** Biomarker and safety caution for COX-2 inhibition.
 
+### 2025 aspirin metastasis mechanism paper
+
+- **Citation:** Daker M, et al. *Nature*. 2025.
+- **DOI/PMID:** DOI [10.1038/s41586-025-08626-7](https://doi.org/10.1038/s41586-025-08626-7); PMID [40044852](https://pubmed.ncbi.nlm.nih.gov/40044852/)
+- **Evidence type:** Preclinical/mechanistic metastasis study.
+- **Population:** Experimental models; not a prostate-cancer patient outcomes trial.
+- **Main finding:** COX-1 inhibition including aspirin released T cells from platelet thromboxane A2-mediated immune suppression and reduced metastasis in T-cell-dependent models.
+- **Patient relevance:** Strong biological plausibility for an anti-metastatic aspirin hypothesis, but not proof that starting aspirin after prostate-cancer diagnosis prevents metastasis.
+
+### Rothwell et al. 2012 — daily aspirin and cancer metastasis in vascular-prevention trials
+
+- **Citation:** Rothwell PM, et al. *Lancet*. 2012.
+- **DOI/PMID:** DOI [10.1016/S0140-6736(12)60209-8](https://doi.org/10.1016/S0140-6736(12)60209-8); PMID [22440947](https://pubmed.ncbi.nlm.nih.gov/22440947/)
+- **Evidence type:** Analysis of incident cancers arising during randomized aspirin vascular-prevention trials.
+- **Population:** Trial participants who developed solid cancers; not designed as a prostate-cancer treatment trial.
+- **Main finding:** Daily aspirin reduced risk of cancer with distant metastasis, especially adenocarcinoma, and reduced later metastasis among patients without metastasis at diagnosis.
+- **Patient relevance:** Supports the adenocarcinoma/metastasis hypothesis, but prostate-specific application remains uncertain.
+
+### Choe et al. 2012 — aspirin/anticoagulants after prostatectomy or radiotherapy
+
+- **Citation:** Choe KS, et al. *Journal of Clinical Oncology*. 2012.
+- **DOI/PMID:** DOI [10.1200/JCO.2011.41.0308](https://doi.org/10.1200/JCO.2011.41.0308); PMID [22927523](https://pubmed.ncbi.nlm.nih.gov/22927523/)
+- **Evidence type:** Observational CaPSURE cohort.
+- **Population:** 5,955 men with localized prostate cancer treated with radical prostatectomy or radiotherapy.
+- **Main finding:** Anticoagulant use, particularly aspirin, was associated with lower prostate-cancer-specific mortality; recurrence and bone metastasis were also lower, with the largest apparent benefit in high-risk disease.
+- **Patient relevance:** A signal worth discussing in high-risk localized disease, but not randomized proof.
+
+### Jacobs et al. 2012 — Health Professionals Follow-up Study post-diagnosis aspirin
+
+- **Citation:** Jacobs EJ, et al. *Cancer Prevention Research*. 2012.
+- **DOI/PMID:** DOI [10.1158/1940-6207.CAPR-12-0171](https://doi.org/10.1158/1940-6207.CAPR-12-0171); PMID [22961777](https://pubmed.ncbi.nlm.nih.gov/22961777/)
+- **Evidence type:** Prospective observational cohort.
+- **Population:** 3,986 men with prostate cancer.
+- **Main finding:** No association between aspirin use after diagnosis and metastases or fatal prostate cancer.
+- **Patient relevance:** Important counterweight to positive observational signals.
+
+### Downer et al. 2017 — Physicians' Health Study lethal prostate cancer
+
+- **Citation:** Downer MK, et al. *European Urology*. 2017.
+- **DOI/PMID:** DOI [10.1016/j.eururo.2017.01.044](https://doi.org/10.1016/j.eururo.2017.01.044); PMID [28189429](https://pubmed.ncbi.nlm.nih.gov/28189429/)
+- **Evidence type:** Prospective cohort with randomized-trial origin and long-term post-trial follow-up.
+- **Population:** Male physicians; post-diagnosis analysis among men initially diagnosed with nonlethal prostate cancer.
+- **Main finding:** Current post-diagnosis aspirin use was associated with lower risk of lethal prostate cancer and all-cause mortality, but sensitivity analyses were not fully consistent and dose could not be assessed.
+- **Patient relevance:** Supports continued research, not routine self-initiation.
+
+### Prostate aspirin meta-analyses and feasibility trial
+
+- **Liu et al. 2019:** systematic review/meta-analysis found no significant association between pre- or post-diagnosis aspirin exposure and prostate-cancer-specific or all-cause mortality.[^aspirin-mortality]
+- **Zhang et al. 2019:** updated meta-analysis likewise found no significant association between aspirin use and prostate-cancer-specific mortality, including pre- and post-diagnosis subgroups.[^liu-bmc-aspirin]
+- **Li et al. 2023:** broader meta-analysis found lower prostate-cancer incidence and mortality associations overall, but randomized controlled trials did not find an association.[^li-aspirin-2023]
+- **Marshall et al. 2022:** active-surveillance aspirin/vitamin D feasibility trial showed recruitment/adherence feasibility but was not designed to determine efficacy.[^aspirin-vitd-feasibility]
+
 ### Liu et al. 2019 — aspirin mortality meta-analysis
 
 - **Citation:** Liu Y, et al. *BioMed Research International*. 2019.
@@ -345,6 +410,18 @@ The state of the art is best summarized as:
 [^prostvac]: Gulley JL, et al. Phase III trial of PROSTVAC in asymptomatic or minimally symptomatic mCRPC. *J Clin Oncol*. 2019. PMID: [30817251](https://pubmed.ncbi.nlm.nih.gov/30817251/).
 [^dalgleish-liu]: Dalgleish AG, Liu WM. The role of immune modulation and anti-inflammatory agents in the management of prostate cancer: a case report of six patients. *Oncology Letters*. 2022. DOI: [10.3892/ol.2022.13367](https://doi.org/10.3892/ol.2022.13367); PMID: [35761946](https://pubmed.ncbi.nlm.nih.gov/35761946/).
 [^aspirin-mortality]: Liu Y, et al. Aspirin exposure and mortality risk among prostate cancer patients: systematic review and meta-analysis. *BioMed Research International*. 2019. PMID: [31073532](https://pubmed.ncbi.nlm.nih.gov/31073532/).
+[^aspirin-nature-2025]: Daker M, et al. Aspirin prevents metastasis by limiting platelet TXA2 suppression of T cell immunity. *Nature*. 2025. DOI: [10.1038/s41586-025-08626-7](https://doi.org/10.1038/s41586-025-08626-7); PMID: [40044852](https://pubmed.ncbi.nlm.nih.gov/40044852/).
+[^rothwell-metastasis]: Rothwell PM, et al. Effect of daily aspirin on risk of cancer metastasis: a study of incident cancers during randomised controlled trials. *Lancet*. 2012. DOI: [10.1016/S0140-6736(12)60209-8](https://doi.org/10.1016/S0140-6736(12)60209-8); PMID: [22440947](https://pubmed.ncbi.nlm.nih.gov/22440947/).
+[^choe-aspirin]: Choe KS, et al. Aspirin use and the risk of prostate cancer mortality in men treated with prostatectomy or radiotherapy. *Journal of Clinical Oncology*. 2012. DOI: [10.1200/JCO.2011.41.0308](https://doi.org/10.1200/JCO.2011.41.0308); PMID: [22927523](https://pubmed.ncbi.nlm.nih.gov/22927523/).
+[^jacobs-aspirin]: Jacobs EJ, et al. Aspirin use after a prostate cancer diagnosis and cancer survival in a prospective cohort. *Cancer Prevention Research*. 2012. DOI: [10.1158/1940-6207.CAPR-12-0171](https://doi.org/10.1158/1940-6207.CAPR-12-0171); PMID: [22961777](https://pubmed.ncbi.nlm.nih.gov/22961777/).
+[^cardwell-aspirin]: Cardwell CR, et al. Low-dose aspirin and survival in men with prostate cancer: a study using the UK Clinical Practice Research Datalink. *Cancer Causes & Control*. 2014. DOI: [10.1007/s10552-013-0306-x](https://doi.org/10.1007/s10552-013-0306-x); PMID: [24310109](https://pubmed.ncbi.nlm.nih.gov/24310109/).
+[^hurwitz-aspirin]: Hurwitz LM, et al. Do aspirin and other NSAIDs confer a survival benefit in men diagnosed with prostate cancer? *Cancer Prevention Research*. 2017. DOI: [10.1158/1940-6207.CAPR-17-0033](https://doi.org/10.1158/1940-6207.CAPR-17-0033); PMID: [28507039](https://pubmed.ncbi.nlm.nih.gov/28507039/).
+[^downer-aspirin]: Downer MK, et al. Regular aspirin use and the risk of lethal prostate cancer in the Physicians' Health Study. *European Urology*. 2017. DOI: [10.1016/j.eururo.2017.01.044](https://doi.org/10.1016/j.eururo.2017.01.044); PMID: [28189429](https://pubmed.ncbi.nlm.nih.gov/28189429/).
+[^liu-bmc-aspirin]: Zhang X, et al. Could aspirin be a lifesaver for prostate cancer patients in prostate cancer-specific mortality? *BMC Cancer*. 2019. DOI: [10.1186/s12885-019-6415-5](https://doi.org/10.1186/s12885-019-6415-5); PMID: [31805980](https://pubmed.ncbi.nlm.nih.gov/31805980/).
+[^li-aspirin-2023]: Li Q, et al. Effect of aspirin on incidence, recurrence, and mortality in prostate cancer patients: integrating evidence from randomized controlled trials and real-world studies. *European Journal of Clinical Pharmacology*. 2023. DOI: [10.1007/s00228-023-03556-7](https://doi.org/10.1007/s00228-023-03556-7); PMID: [37648741](https://pubmed.ncbi.nlm.nih.gov/37648741/).
+[^aspirin-vitd-feasibility]: Marshall JR, et al. Feasibility of aspirin and/or vitamin D3 for men with prostate cancer on active surveillance with Prolaris testing. *BJUI Compass*. 2022. DOI: [10.1002/bco2.169](https://doi.org/10.1002/bco2.169); PMID: [36267207](https://pubmed.ncbi.nlm.nih.gov/36267207/).
+[^hla-colon]: Reimers MS, et al. Expression of HLA class I antigen, aspirin use, and survival after a diagnosis of colon cancer. *JAMA Internal Medicine*. 2014. DOI: [10.1001/jamainternmed.2014.511](https://doi.org/10.1001/jamainternmed.2014.511); PMID: [24687028](https://pubmed.ncbi.nlm.nih.gov/24687028/).
+[^uspstf-aspirin]: US Preventive Services Task Force. Aspirin use to prevent cardiovascular disease: preventive medication. 2022. [USPSTF recommendation](https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/aspirin-to-prevent-cardiovascular-disease-preventive-medication).
 [^nsaid-risk]: Mahmud SM, et al. Use of nonsteroidal anti-inflammatory drugs and prostate cancer risk: a meta-analysis. *Int J Cancer*. 2010. PMID: [20091856](https://pubmed.ncbi.nlm.nih.gov/20091856/).
 [^stampedecel]: James ND, et al. Adding celecoxib with or without zoledronic acid for hormone-naïve prostate cancer: long-term survival results from STAMPEDE. *J Clin Oncol*. 2017. PMID: [28300506](https://pubmed.ncbi.nlm.nih.gov/28300506/).
 [^celecoxib-preop]: Harrison DJ, et al. COX-2 inhibition for prostate cancer chemoprevention: double-blind randomised pre-prostatectomy celecoxib/placebo study. *BJU Int*. 2017. PMID: [27480340](https://pubmed.ncbi.nlm.nih.gov/27480340/).
