@@ -13,6 +13,7 @@ Research notes and filed articles for **active surveillance**.
 
 ## Filed items
 
+- [2026-08-24 weekly scan](../updates/2026-08-24.md) — Active-surveillance watch: a small prospective urine-transcript study suggests that urinary markers may add to PSA density and MRI for reclassification prediction, but biomarker reassurance should not replace scheduled biopsy/MRI/PSA follow-up without clinician review.
 - [2026-08-17 weekly scan](../updates/2026-08-17.md) — Active-surveillance watch: MRI surveillance should use adequate image quality and structured serial comparison, but MRI does not replace scheduled biopsy; a long-follow-up cohort also highlights that BPH/lower urinary tract symptoms and prostate size can materially affect the practicality and quality-of-life burden of active surveillance.
 - [2026-08-02 weekly scan](../updates/2026-08-02.md) — Active-surveillance watch: a PRECISE scoring review supports structured serial prostate MRI comparison as part of monitoring, while emphasizing that MRI stability/progression should be integrated with PSA, biopsy/pathology, image quality, and clinician judgment.
 - [High-Risk Nonmetastatic Prostate Cancer: Does Watchful Waiting Add Up?](../papers/high-risk-nonmetastatic-localized-treatment-evidence/index.md) — explains why PIVOT and ProtecT support careful avoidance of overtreatment but do not prove that high-risk nonmetastatic prostate cancer should routinely be managed by observation/watchful waiting.
