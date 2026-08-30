@@ -13,6 +13,7 @@ Research notes and filed articles for **diagnostic workup**.
 
 ## Filed items
 
+- [2026-08-31 weekly scan](../updates/2026-08-31.md) — Diagnostic-workup watch: prospective validation of a urine-based 19-biomarker proteomic model suggests possible pre-biopsy triage value when combined with PSA/risk-calculator/MRI context, but sensitivity and validation limits mean it is not a stand-alone rule-out test.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Diagnostic-workup watch: a negative mpMRI plus negative systematic biopsy appears reassuring over medium-term follow-up but is not a permanent rule-out; PI-RADS 3 biopsy decisions may be refined by PSA-density variants, but thresholds remain validation-dependent.
 - [2026-08-17 weekly scan](../updates/2026-08-17.md) — Diagnostic-workup watch: new MRI-biopsy and PSAD studies reinforce that PSA density, PI-RADS, prostate volume, radiologist/AI inputs, targeted cores, and systematic cores each answer different questions; omitting systematic biopsy or applying a single PSAD cutoff can miss or undergrade some clinically significant cancers.
 - [2026-07-20 weekly scan](../updates/2026-07-20.md) — Diagnostic-workup watch: ProBIOPSY international consensus supports MRI-based biopsy pathways when imaging quality is adequate and harmonizes targeted plus perilesional biopsy concepts; a PI-RADS-stratified PSA-density cohort reinforces that PSA density should be interpreted alongside MRI findings rather than as a stand-alone diagnosis.

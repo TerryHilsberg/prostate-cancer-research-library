@@ -35,6 +35,7 @@ Be especially cautious with:
 
 ## Filed items
 
+- [2026-08-31 weekly scan](../updates/2026-08-31.md) — Fatigue/supportive-care watch: a best-evidence summary on non-pharmacological prostate-cancer fatigue management reinforces tailored exercise/physical activity as part of multimodal fatigue care, with safety tailoring for ADT, anemia, frailty, cardiovascular disease, falls risk, and bone metastases.
 - [Exercise and Prostate Cancer: Evidence Map](../papers/exercise-prostate-cancer-evidence/index.md) — curated evidence summary covering exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment/survivorship. Includes incidence evidence, post-diagnosis survival/progression cohorts, radiation/ADT trials, pelvic-floor rehabilitation evidence, exercise-oncology guidance, a mechanistic Q&A on myokines/tumour-suppressive serum and INTERVAL-GAP4, an adjacent note on the NEJM CHALLENGE colon-cancer structured-exercise trial, and PCRI/Rob Newton video notes on precision exercise medicine, prehabilitation, ADT muscle/bone/body-composition priorities, exercise priming around radiation, bone metastasis safety, mental health, and sexual function.
 
 ## Current evidence summary

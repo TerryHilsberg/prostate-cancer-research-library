@@ -13,6 +13,7 @@ Research notes and filed articles for **advanced & recurrent disease**.
 
 ## Filed items
 
+- [2026-08-31 weekly scan](../updates/2026-08-31.md) — Advanced/recurrent-disease watch: cardio-oncology referral evidence reinforces cardiovascular-risk review around ADT/systemic therapy; 177Lu-PSMA time-toxicity data add appointment/travel/contact-day burden to radioligand-therapy discussions.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Advanced/recurrent-disease watch: SABR re-irradiation for local recurrence after prior radiotherapy remains a specialist/trial-or-registry discussion; high-volume mHSPC prostate-directed radiotherapy under upfront doublet therapy is hypothesis-generating; PSMA radioligand access delays can materially affect care pathways.
 - [2026-08-09 weekly scan](../updates/2026-08-09.md) — Advanced/recurrent-disease watch: a 177Lu-PSMA mCRPC meta-analysis strengthens disease-control/QoL evidence while preserving sequencing and toxicity cautions; PSA nadir ≤0.2 ng/mL remains a prognostic marker in metastatic hormone-sensitive disease; NICE has an active consultation for talazoparib plus enzalutamide in HRR-mutated metastatic hormone-sensitive disease.
 - [2026-08-02 weekly scan](../updates/2026-08-02.md) — Advanced/recurrent-disease watch: a PSMA PET-era miN1 review highlights how improved nodal detection can change staging and treatment fields/intensity while leaving outcome-benefit uncertainty; an ADT hot-flash systematic review adds supportive-care options and medication/supplement safety cautions.

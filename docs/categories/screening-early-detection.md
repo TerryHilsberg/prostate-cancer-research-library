@@ -13,6 +13,7 @@ Research notes and filed articles for **screening & early detection**.
 
 ## Filed items
 
+- [2026-08-31 weekly scan](../updates/2026-08-31.md) — Screening/early-detection watch: a prospective urine proteomics validation study suggests possible pre-biopsy triage value beyond PSA alone, but it remains an adjunct to PSA density, MRI/PI-RADS, DRE, family/genetic risk, and clinician judgment rather than a rule-out test.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Screening/PSA-context watch: PI-RADS 3 biopsy decisions may be refined by PSA-density variants, and long-term PCPT follow-up found no claims-detectable post-finasteride syndrome signal; finasteride still changes PSA interpretation and medication decisions need clinician review.
 - [2026-08-17 weekly scan](../updates/2026-08-17.md) — Screening/PSA-context watch: the PC3 cohort suggests symptomatic primary-care presentations are somewhat more likely to detect clinically significant prostate cancer than opportunistic asymptomatic PSA testing, while a JAMA Network Open analysis flags disability and mobility impairment as potential barriers to PSA shared decision-making; a PSAD cohort cautions against rigid one-size-fits-all PSA-density thresholds.
 - [2026-08-09 weekly scan](../updates/2026-08-09.md) — Screening-pathway watch: ERSPC 20-year nonattendance analysis and the Czech nationwide pilot reinforce that modern PSA screening should be interpreted as an organized pathway with risk assessment, follow-up, MRI/biopsy triage, and attention to participation bias—not as a stand-alone PSA test.
