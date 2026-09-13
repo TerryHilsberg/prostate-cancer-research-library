@@ -13,6 +13,7 @@ Research notes and filed articles for **imaging & biomarkers**.
 
 ## Filed items
 
+- [2026-09-14 weekly scan](../updates/2026-09-14.md) — Imaging/biomarker watch: quantitative PSMA PET thresholds with histology correlation, PSMA PET tumour volume in conventionally nonmetastatic CRPC, plasma infrared molecular fingerprinting, and ancestry-dependent urinary proteomics all support more nuanced test interpretation while preserving validation, equity, and tissue-correlation cautions.
 - [2026-08-31 weekly scan](../updates/2026-08-31.md) — Imaging/biomarker watch: a prospective urine proteomics validation study supports biomarkers as possible complements to PSA, PSA density, risk calculators, and mpMRI before first biopsy, while reinforcing that biomarker reassurance still needs clinician interpretation and follow-up safeguards.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Imaging/biomarker watch: negative MRI plus negative biopsy lowers but does not eliminate future clinically significant cancer risk; urine transcript markers for active surveillance and PSMA PET after focal therapy are promising adjuncts that still require clinical context and validation.
 - [2026-08-09 weekly scan](../updates/2026-08-09.md) — Imaging/biomarker watch: the Czech national screening pilot reports increased pre-biopsy MRI use within an organized PSA pathway; NICE has an active talazoparib-plus-enzalutamide consultation for HRR-mutated metastatic hormone-sensitive prostate cancer, reinforcing biomarker-testing discussions in advanced disease.
