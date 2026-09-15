@@ -1,6 +1,6 @@
 # Exercise and Prostate Cancer: Evidence Map
 
-Retrieved: **2026-07-04**  
+Retrieved: **2026-09-15**  
 Category: **Exercise**  
 Scope: exercise/physical activity before diagnosis, after diagnosis, during treatment, and after treatment.
 
@@ -12,8 +12,8 @@ Scope: exercise/physical activity before diagnosis, after diagnosis, during trea
 | Phase | Best-supported conclusion | Strength of evidence | Practical question for clinician |
 |---|---|---|---|
 | **Before diagnosis / incidence** | Physical activity is clearly beneficial for general health, but prostate-cancer-specific incidence findings are mixed. Meta-analyses suggest little or no association with total prostate cancer incidence; some studies suggest lower risk of advanced/aggressive or fatal disease. | Moderate for "mixed/uncertain total incidence"; lower-to-moderate for advanced/fatal subtypes | Does my overall health profile make exercise especially important regardless of uncertain prostate-cancer incidence effects? |
-| **After diagnosis** | Observational cohorts consistently associate higher post-diagnosis activity, especially brisk walking/vigorous activity, with lower all-cause mortality and possibly lower prostate-cancer-specific mortality/progression. | Moderate observational evidence; not proof of causation | What activity level is safe for my risk group and treatment plan? |
-| **During active treatment** | Randomized trials and reviews support aerobic and resistance exercise for fatigue, physical fitness, strength, body composition, and quality of life during radiation and ADT. These trials generally evaluate symptoms/function rather than cancer control. | Moderate interventional evidence for function/QoL; limited for survival/cancer-control endpoints | Should I be referred to physiotherapy or an exercise physiologist during treatment? |
+| **After diagnosis** | Observational cohorts consistently associate higher post-diagnosis activity, especially brisk walking/vigorous activity, with lower all-cause mortality and possibly lower prostate-cancer-specific mortality/progression. The Courneya podcast reinforces that this is a reason to discuss exercise early, but not proof that exercise alone controls prostate cancer. | Moderate observational evidence; not proof of causation | What activity level is safe for my risk group and treatment plan, and should I get an oncology-exercise referral now rather than waiting until deconditioned? |
+| **During active treatment** | Randomized trials and reviews support aerobic and resistance exercise for fatigue, physical fitness, strength, body composition, and quality of life during radiation and ADT. Courneya's prostate-specific radiotherapy RCT and ADT discussion make resistance training especially relevant when testosterone suppression threatens muscle, fat, bone, fatigue, and metabolic health. | Moderate interventional evidence for function/QoL; limited for survival/cancer-control endpoints | Should I be referred to physiotherapy or an exercise physiologist during treatment, and should my plan include both aerobic and resistance work? |
 | **After treatment / survivorship** | Exercise rehabilitation and pelvic-floor muscle training can help selected post-treatment problems, especially urinary incontinence after prostatectomy and fatigue/function after treatment. | Moderate for pelvic-floor training; moderate/variable for broader rehabilitation outcomes | What post-treatment exercise or pelvic-floor program is appropriate, supervised, and timed safely? |
 
 ## Exercise types covered
@@ -49,6 +49,23 @@ The most directly relevant patient evidence is observational. Kenfield et al. (2
 RCTs and systematic reviews support exercise as supportive care. Segal et al. (2009) tested resistance or aerobic exercise during radiation. Horgan and O'Donovan (2018) summarized RCTs during radiotherapy. For ADT, resistance and combined programs are especially relevant because ADT can worsen body composition, muscle, strength, metabolic risk, fatigue, and bone health. Houben et al. (2023), Alibhai et al. (2024), and Toohey et al. (2022) support feasibility and functional benefits of exercise programs in men on ADT.
 
 **Interpretation:** exercise during treatment is best framed as symptom/function/risk-factor support, not as a proven anti-cancer treatment.
+
+### Podcast update: Kerry Courneya on exercise oncology across the cancer-care continuum
+
+The FoundMyFitness interview with Kerry Courneya is useful for this prostate-cancer page because it separates several ideas that patients can easily blur together: exercise for **general cancer prevention**, exercise for **treatment resilience**, exercise for **side-effect control**, and experimental claims about exercise as an **anti-cancer adjunct**. Courneya's strongest prostate-specific examples are not incidence prevention claims; they are post-diagnosis activity cohorts, the 2009 prostate-radiotherapy exercise RCT, ADT-related strength/body-composition concerns, and active-surveillance HIIT research.
+
+**How to translate the podcast for prostate-cancer discussion:**
+
+| Podcast theme | Prostate-cancer interpretation | Main caution |
+|---|---|---|
+| Exercise lowers risk for several cancers | Good reason to exercise for whole-body health, but prostate-cancer incidence data are weaker/mixed than colon, breast, endometrial, gastric-cardia, and oesophageal-adenocarcinoma evidence. | Do not tell patients exercise reliably prevents prostate cancer. |
+| Pre-diagnosis and post-diagnosis activity matter | Cohort evidence in prostate cancer links sustained/recreational activity before and after diagnosis with better survival outcomes. | Mostly observational; healthier men may be more able to exercise. |
+| Structured exercise is different from merely being active | A deliberate aerobic/resistance plan can target fatigue, fitness, strength, ADT muscle loss, body composition, and mood. | Dose, intensity, progression, and supervision should be individualized. |
+| Resistance training during systemic treatment | Direct prostate relevance during ADT: preserving muscle, strength, bone, insulin sensitivity, and function may matter as much as “cardio.” | Heavy lifting is not automatically safe after surgery, with frailty, or with bone metastases. |
+| Exercise may improve treatment biology | Adjacent evidence includes rectal-cancer chemoradiation and preclinical immune/perfusion studies; prostate radiation-priming research is emerging. | Mechanistic/adjacent evidence is not proof of prostate-cancer survival benefit. |
+| Exercise can help anxiety and sense of control | Active-surveillance HIIT and broader exercise-oncology guidelines support patient-reported benefits. | Exercise does not replace PSA/MRI/biopsy surveillance or indicated treatment. |
+
+**Patient-facing takeaway:** the podcast strengthens the case for asking for an exercise-oncology plan at diagnosis, before treatment starts, during radiation/ADT, and in survivorship. The plan should name the target outcome — fatigue, strength, muscle, bone, continence, sexual function, metabolic health, treatment tolerance, anxiety, or research-level cancer-control endpoints — rather than using a generic instruction to “exercise more.”
 
 ### 4. After treatment has ended: recovery and survivorship
 
@@ -356,6 +373,45 @@ The much larger related trial is **INTERVAL-GAP4** — a multicentre phase III t
 - **Main finding:** The abstract reports improved disease-free survival with structured exercise after adjuvant chemotherapy for colon cancer.
 - **Limitations:** This is not prostate-cancer-specific evidence and should not be directly extrapolated to prostate cancer recurrence or survival. It is most useful here as a signal that exercise-oncology interventions can be studied rigorously with cancer-control endpoints.
 - **Questions for clinician:** Are there prostate-cancer-specific exercise trials or survivorship programs available, and what outcomes are realistic to expect: function/QoL, metabolic health, treatment tolerance, or cancer-control endpoints?
+
+## FoundMyFitness / Kerry Courneya podcast evidence notes
+
+**Source:** Rhonda Patrick interview with Kerry Courneya, PhD, [*The Science of Exercise for Cancer*](https://www.foundmyfitness.com/episodes/kerry-courneya), episode #99. The transcript/timeline discusses cancer prevention, prehabilitation, fatigue, sleep, chemotherapy tolerance, treatment biology, active surveillance, ADT, implementation barriers, and why exercise should not be marketed as a panacea.
+
+### Prostate-specific papers and claims mentioned or directly implicated
+
+- **Recreational physical activity before/after diagnosis and prostate-cancer-specific mortality:** Wang et al. (European Urology 2017; PMID [28711382](https://pubmed.ncbi.nlm.nih.gov/28711382/)) is the prostate-cancer example linked in the podcast timeline. It supports the existing “after diagnosis” section: higher recreational physical activity after diagnosis was associated with lower prostate-cancer-specific mortality in men with nonmetastatic prostate cancer, but the design is observational.
+- **Radiotherapy exercise RCT:** Segal, Courneya and colleagues (JCO 2009; PMID [19064985](https://pubmed.ncbi.nlm.nih.gov/19064985/)) remains a key direct prostate-cancer trial: resistance or aerobic exercise during radiation improved supportive-care outcomes such as fatigue, fitness, strength, and quality-of-life domains, not survival.
+- **Active-surveillance HIIT:** the ERASE trial (J Urol 2022; PMID [35179044](https://pubmed.ncbi.nlm.nih.gov/35179044/)) fits Courneya's discussion of exercise as something patients can do while standard monitoring continues. It is most useful for anxiety, fear of progression, fitness, and patient agency; it should not be framed as replacing surveillance.
+- **Cancer-survivor exercise guidelines:** Campbell et al. (ACSM roundtable, 2019; PMID [31626055](https://pubmed.ncbi.nlm.nih.gov/31626055/)) supports recommending referral and tailoring, including resistance and aerobic components, contraindication screening, and symptom-specific goals.
+
+### Adjacent cancer evidence mentioned in the podcast
+
+These papers are useful context for prostate-cancer patients only if clearly labelled as adjacent evidence:
+
+- **Exercise and fatigue/sleep during chemotherapy:** oncology-outpatient and breast-cancer chemotherapy studies linked in the podcast (PMID [32897907](https://pubmed.ncbi.nlm.nih.gov/32897907/); DOI [10.1007/s10549-014-2883-0](https://doi.org/10.1007/s10549-014-2883-0)) support the broader point that exercise can improve fatigue, energy, sleep, and quality-of-life outcomes during cancer treatment. They are not prostate-specific.
+- **Breast-cancer chemotherapy tolerance:** Courneya's multicentre RCT in breast-cancer patients receiving adjuvant chemotherapy (PMID [17785708](https://pubmed.ncbi.nlm.nih.gov/17785708/)) is relevant to the concept of treatment tolerance and resistance/aerobic training, but should not be treated as prostate-cancer evidence.
+- **Exercise and cancer recurrence/mortality review:** Cormie et al. (Epidemiologic Reviews 2017; PMID [28453622](https://pubmed.ncbi.nlm.nih.gov/28453622/)) summarizes cross-cancer epidemiologic and RCT evidence. It supports the overall exercise-oncology rationale, while the prostate page should still prioritize prostate-specific cohorts and trials.
+- **Rectal-cancer exercise during neoadjuvant chemoradiation:** EXERT (PMID [34158253](https://pubmed.ncbi.nlm.nih.gov/34158253/)) is relevant to Courneya's tumour-perfusion/treatment-response discussion, but it is rectal-cancer evidence and should not be converted into a claim that exercise improves prostate-radiation control.
+- **Physical activity independent of BMI:** the pooled obesity-related-cancer analysis (DOI [10.1002/ijc.34011](https://doi.org/10.1002/ijc.34011)) supports the podcast's point that physical activity may matter even without weight loss. For prostate cancer, this belongs in a metabolic-health/body-composition discussion, not as a prostate-incidence proof.
+- **Vigorous intermittent lifestyle physical activity (VILPA):** Stamatakis et al. (Nature Medicine 2022; DOI [10.1038/s41591-022-02100-x](https://doi.org/10.1038/s41591-022-02100-x); PMID [36482104](https://pubmed.ncbi.nlm.nih.gov/36482104/)) supports the “exercise snacks” idea for population mortality outcomes. It is not a prostate-cancer treatment study, but it may be a practical bridge for sedentary survivors to discuss with clinicians.
+
+### What the podcast adds to this page
+
+1. **Ask early, not after decline:** Courneya emphasizes that cancer diagnosis and treatment often reduce activity. Patients may need referral before fatigue, ADT muscle loss, surgery recovery, or radiation logistics make exercise harder.
+2. **Separate activity from prescription:** daily movement and exercise snacks may help, but cancer rehabilitation often needs structured aerobic and resistance work with progression.
+3. **Name the endpoint:** an exercise plan for ADT muscle loss, active-surveillance anxiety, radiation fatigue, bone density, sexual function, or metastatic bone safety will not look the same.
+4. **Use biology cautiously:** immune-cell mobilization, IL-6/epinephrine, tumour perfusion, circulating tumour cells, and drug/radiation sensitization are plausible mechanisms; for prostate cancer, they remain mechanistic or adjacent unless backed by prostate-specific trials.
+5. **Avoid the panacea error:** the podcast explicitly notes that exercise does not improve every outcome and may worsen symptoms in some settings. New pain, neurological symptoms, severe fatigue, anemia, infection, uncontrolled cardiovascular disease, recent surgery, or bone metastasis concerns should prompt clinical review.
+
+### Clinician discussion prompts after listening to the podcast
+
+- Can I be referred to an oncology physiotherapist or accredited exercise physiologist now?
+- Is my immediate priority aerobic fitness, resistance training, muscle mass, bone density, fatigue, sleep, anxiety, continence, sexual function, metabolic health, or treatment tolerance?
+- If I am on ADT, should my plan include progressive resistance training and body-composition/bone-density monitoring?
+- If I am on active surveillance, is supervised HIIT or another structured program appropriate while I continue PSA/MRI/biopsy monitoring?
+- During radiation, is exercise being used only for fatigue/fitness support here, or is any exercise-priming protocol part of a research program?
+- What symptoms or scan findings would change or stop the exercise plan?
 
 ## PCRI / Rob Newton video notes: precision exercise medicine in prostate cancer
 
