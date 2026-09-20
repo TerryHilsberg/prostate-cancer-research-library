@@ -13,6 +13,7 @@ Research notes and filed articles for **diagnostic workup**.
 
 ## Filed items
 
+- [2026-09-21 weekly scan](../updates/2026-09-21.md) — Diagnostic-workup watch: external validation supports MRI-based biopsy risk calculators across transrectal and transperineal pathways, but local calibration and clinical context still matter; ESUR cautions that prostate MRI AI should remain human-in-the-loop; EAU 2026 reinforces MRI-first diagnosis and targeted plus regional biopsy when biopsy is indicated.
 - [2026-09-14 weekly scan](../updates/2026-09-14.md) — Diagnostic-workup watch: histology-linked PSMA PET thresholds, plasma infrared molecular fingerprinting, and ancestry-aware urinary proteomics all reinforce that new biomarkers/imaging metrics may refine risk discussions but should not replace PSA context, MRI quality, biopsy/pathology correlation, or clinician review.
 - [2026-08-31 weekly scan](../updates/2026-08-31.md) — Diagnostic-workup watch: prospective validation of a urine-based 19-biomarker proteomic model suggests possible pre-biopsy triage value when combined with PSA/risk-calculator/MRI context, but sensitivity and validation limits mean it is not a stand-alone rule-out test.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Diagnostic-workup watch: a negative mpMRI plus negative systematic biopsy appears reassuring over medium-term follow-up but is not a permanent rule-out; PI-RADS 3 biopsy decisions may be refined by PSA-density variants, but thresholds remain validation-dependent.

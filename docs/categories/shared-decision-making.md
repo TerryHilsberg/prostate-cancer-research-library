@@ -14,6 +14,7 @@ Research notes and filed articles for **shared decision-making**.
 
 ## Filed items
 
+- [2026-09-21 weekly scan](../updates/2026-09-21.md) — Shared-decision watch: biopsy risk calculators, MRI AI, salvage radiotherapy imaging, prehabilitation, and mCRPC treatment-line choices all reinforce asking what a tool or treatment changes, how well it applies to the patient's setting, and how daily-life effects will be discussed over time.
 - [2026-08-31 weekly scan](../updates/2026-08-31.md) — Shared-decision watch: new cardiovascular-referral, sexual-impact communication, urine-biomarker, fatigue, and radioligand time-toxicity studies all reinforce asking whether an intervention changes a real decision, what burdens/side effects matter to the patient and partner, and which specialist or allied-health support is needed.
 - [2026-08-02 weekly scan](../updates/2026-08-02.md) — Shared-decision watch: REQUITE long-term radiotherapy outcomes, PSMA PET miN1 stage-migration cautions, PRECISE serial-MRI monitoring, 4Kscore triage limits, and a pre-consultation education-tool implementation study all reinforce converting evidence into individualized clinician questions rather than stand-alone choices.
 - [Coronary and Cardiovascular Risk by Radical Treatment Type: Evidence Map](../papers/cardiovascular-risk-by-radical-treatment-prostate-cancer-evidence/index.md) — turns the surgery-versus-radiotherapy cardiovascular-risk question into clinician questions about risk group, ADT necessity/duration/type, baseline coronary disease, and cardio-oncology optimization.
