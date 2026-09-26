@@ -14,7 +14,7 @@ Scope: diet, dietary patterns, body composition, metabolic health, and selected 
 | **Before diagnosis / incidence** | The strongest evidence is about overall dietary patterns rather than single foods. Western/inflammatory patterns and high dairy/calcium intake are associated with higher risk in some observational syntheses; healthy/plant-forward patterns may be associated with lower risk, but causality is uncertain. | Moderate observational evidence; limited RCT evidence for prevention | Should I focus on a heart-healthy, plant-forward diet rather than prostate-specific “anti-cancer” claims? |
 | **After diagnosis / active surveillance** | Post-diagnosis plant-based, Mediterranean, and lower-inflammatory patterns are associated with lower progression risk in observational cohorts. RCTs show mixed results: increased vegetables alone did not reduce progression in MEAL, while an omega-3/low omega-6 intervention changed a biopsy proliferation biomarker in CAPFISH-3. | Moderate observational evidence; limited and mixed RCT evidence | Are there diet changes that support active surveillance without delaying appropriate treatment if risk changes? |
 | **During treatment / ADT** | Diet and weight-management interventions may help cardiometabolic risk, weight, insulin resistance, and function during ADT, but evidence is smaller and not primarily about cancer control. | Low-to-moderate interventional evidence for metabolic/supportive outcomes | Should I have dietitian support for ADT-related weight, glucose, lipids, muscle, and cardiovascular risk? |
-| **After treatment / survivorship** | Better diet quality and Mediterranean/plant-forward patterns are linked to better outcomes in some survivorship studies, but evidence remains mostly observational. UCSF/PCF-style guidance to emphasize plant foods and limit processed meat, saturated fat, whole milk, high egg intake, and poultry with skin is broadly consistent with this page, but should be framed as risk-reduction/supportive-care advice rather than a proven recurrence-prevention prescription. | Moderate observational evidence; limited prostate-specific intervention evidence | What dietary pattern best supports recovery, cardiovascular health, weight, bowel function, muscle preservation, bone health, and long-term survivorship? |
+| **After treatment / survivorship** | Better diet quality and Mediterranean/plant-forward patterns are linked to better outcomes in some survivorship studies, but evidence remains mostly observational. UCSF/PCF-style guidance to emphasize plant foods and limit processed meat, saturated fat, whole milk, high egg intake, and poultry with skin is broadly consistent with this page. The most specific dairy signal is for **whole/full-fat milk after diagnosis**, not for all dairy, and should be framed as risk-reduction/supportive-care advice rather than proven recurrence-prevention. | Moderate observational evidence; limited prostate-specific intervention evidence | What dietary pattern best supports recovery, cardiovascular health, weight, bowel function, muscle preservation, bone health, and long-term survivorship? |
 
 ## Nutrition topics covered
 
@@ -93,6 +93,56 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - The calcium message needs individualization: men on ADT may need bone-health planning, and calcium can come from low-fat dairy, fortified foods, low-oxalate greens, tofu, beans, almonds, canned fish, or supplements when clinically appropriate.
 
 **Website update from this appraisal:** keep the overall plant-forward/Mediterranean framing, but add more explicit food-specific cautions: avoid/minimize processed meat; avoid high whole-milk intake; do not overstate low-fat/non-fat dairy risk; keep whole eggs modest, especially avoiding high intake; choose skinless poultry/fish/plant proteins over poultry with skin and processed/red meat where practical.
+
+### Deep dive: the case against whole/full-cream milk after prostate cancer diagnosis
+
+**Why this gets a separate note:** “avoid dairy” is too broad. The strongest post-diagnosis signal is narrower: **whole/full-fat milk** or high-fat dairy patterns, while low-fat/non-fat dairy is not consistently associated with worse prostate-cancer outcomes. This matters because men on ADT may also need a bone-health plan, calcium/vitamin D review, and adequate protein.
+
+#### Direct post-diagnosis studies
+
+| Study | Population and endpoint | Whole/full-fat milk result | What it does and does not prove |
+|---|---|---|---|
+| **Pettersson et al. 2012, HPFS** | 3,918 men with apparently localized prostate cancer; metastases or prostate-cancer death | Total milk/dairy after diagnosis were not associated with lethal prostate cancer, but highest whole-milk intake was associated with higher progression/lethal risk; low-fat dairy was not associated with increased risk. | Supports a specific caution about whole milk, not a blanket anti-dairy conclusion. |
+| **Yang et al. 2015, Physicians' Health Study** | 926 men with nonmetastatic prostate cancer; prostate-cancer-specific and all-cause mortality | ≥3 dairy servings/day after diagnosis was associated with higher all-cause mortality and a higher prostate-cancer-specific mortality estimate; high-fat dairy appeared stronger than low-fat dairy, but the difference was not statistically significant. | Supports concern about high dairy/high-fat dairy intake, but is less specific to whole milk and has wide prostate-cancer mortality confidence intervals. |
+| **Tat et al. 2018, CaPSURE** | 1,334 men with nonmetastatic prostate cancer; recurrence composite | >4 servings/week of whole milk vs 0-3 servings/month was associated with higher recurrence risk; the association was stronger among men with BMI ≥27 kg/m²; low-fat milk and other dairy foods were not associated with recurrence. | The clearest direct reason to minimize whole/full-fat milk after diagnosis; still observational. |
+| **Song et al. 2013, Physicians' Health Study** | 21,660 male physicians plus survival analysis among 2,806 prostate-cancer cases | Whole milk, not skim/low-fat milk, was consistently associated with fatal prostate cancer and progression to fatal disease among cases. | Supportive but partly prediagnostic/baseline exposure, so it is less direct than Pettersson/Tat for post-diagnosis choices. |
+
+#### Meta-analysis and review context
+
+- **Aune et al. 2015** meta-analyzed cohort studies of dairy/calcium and prostate cancer incidence. It found modest positive associations for total dairy, milk, low-fat milk, cheese, dietary calcium, and prostate cancer risk, but this mainly addresses **developing** prostate cancer rather than outcomes after diagnosis.
+- **UCSF/PCF-style survivorship reviews** and the 2026 postdiagnosis diet/lifestyle review support plant-forward, lower-inflammatory, cardiometabolic-health dietary patterns, but they do not provide randomized proof that removing whole milk reduces recurrence or metastasis.
+- There is no clean randomized trial or high-quality meta-analysis specifically proving that **post-diagnosis whole milk avoidance** improves prostate-cancer survival. The evidence is a consistent-enough cohort signal for caution, not causal proof.
+
+#### Evidence strength assessment
+
+| Claim | Strength | Assessment |
+|---|---|---|
+| Avoiding or minimizing **whole/full-fat milk** after diagnosis is reasonable | **Moderate-low to moderate** | Supported by repeated prospective cohort signals and plausible mechanisms, but no randomized outcome trial. |
+| Whole milk **causes** recurrence or prostate-cancer death | **Not established** | Cohort associations may be confounded by broader diet, BMI, activity, screening, comorbidities, or treatment differences. |
+| All dairy should be eliminated after diagnosis | **Weak** | Direct post-diagnosis studies distinguish whole milk from low-fat/non-fat dairy; total dairy findings are mixed. |
+| Calcium and protein needs can be ignored because of prostate risk | **Incorrect / unsafe** | ADT, ageing, frailty, osteoporosis, kidney disease, and sarcopenia risk require individualized planning. |
+
+#### Proposed mechanisms
+
+These mechanisms are biologically plausible, but none has been proven as the causal pathway for the whole-milk cohort signal:
+
+1. **Saturated fat / high-fat dairy pattern:** whole milk may contribute to saturated fat intake, weight gain, insulin resistance, inflammation, and adverse lipid/cardiovascular risk. This may be especially relevant during ADT, which can worsen fat mass, insulin resistance, lipids, and cardiovascular risk.
+2. **IGF-1 signalling:** milk and dairy protein can raise circulating IGF-I modestly, and higher IGF-I is associated with prostate cancer risk in large pooled analyses. IGF-I can promote proliferation, survival signalling, and insulin/PI3K/AKT/mTOR pathway activity. This is plausible biology, but it does not prove that stopping whole milk after diagnosis improves outcomes.
+3. **Calcium/vitamin D hypothesis:** high calcium intake has been hypothesized to suppress active vitamin D, which may reduce anti-proliferative signalling in prostate cells. This is a possible pathway but does not map perfectly onto the post-diagnosis evidence because low-fat dairy also contains calcium and is not consistently adverse.
+4. **Body-composition interaction:** the CaPSURE whole-milk association was stronger in men with BMI ≥27 kg/m², suggesting that adiposity, insulin resistance, inflammation, or broader metabolic state may modify risk. BMI is crude, so DEXA/body composition and cardiometabolic markers may be more useful clinically.
+5. **Marker of Western diet:** whole milk can be a marker for a wider dietary pattern high in saturated fat, processed/red meat, refined grains, and lower plant-food intake. Statistical adjustment cannot fully remove this possibility.
+
+#### Patient-facing interpretation
+
+The most balanced conclusion is: **avoid or minimize whole/full-cream milk after prostate cancer diagnosis**, especially if overweight, metabolically unhealthy, or on ADT. If dairy is used, discuss low-fat/non-fat dairy versus non-dairy calcium/protein sources with a clinician or dietitian. Do not turn this into unsupervised calcium restriction, protein restriction, or a claim that all dairy is proven harmful.
+
+#### Clinician discussion prompts
+
+- Does my treatment plan include ADT or another reason to assess bone density, vitamin D, calcium intake, and fracture risk?
+- Should I avoid whole/full-cream milk specifically while using low-fat/non-fat dairy or fortified non-dairy alternatives if needed?
+- If I remove whole milk, what replaces it nutritionally: calcium-fortified soy milk, tofu set with calcium, low-oxalate greens, beans, almonds, canned fish with bones, or supplements?
+- Is my priority prostate-cancer risk reduction, cardiovascular risk reduction, bone protection, muscle preservation, weight management, or all of these?
+- Should I see an oncology dietitian before making major dairy, protein, fasting, or weight-loss changes?
 
 ## Selected papers
 
@@ -225,6 +275,62 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - **Main finding:** Total milk and dairy intake after diagnosis were not associated with greater lethal prostate cancer risk, but the highest whole-milk intake was associated with increased progression risk; low-fat dairy was not associated with increased risk.
 - **Limitations:** Observational evidence; diet and prostate cancer treatment contexts changed over time.
 - **Questions for clinician:** How should dairy choices be balanced against calcium/vitamin D needs, ADT bone risk, cardiovascular risk, and personal dietary preferences?
+
+#### Dairy intake after prostate cancer diagnosis and mortality: Physicians' Health Study
+
+- **Citation:** Yang M, Kenfield SA, Van Blarigan EL, et al. *International Journal of Cancer*. 2015.
+- **DOI/PMID:** DOI [10.1002/ijc.29608](https://doi.org/10.1002/ijc.29608); PMID [25989745](https://pubmed.ncbi.nlm.nih.gov/25989745/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/25989745/
+- **Date:** 2015 Nov 15
+- **Category:** Nutrition; Survivorship
+- **Evidence type:** Prospective cohort after diagnosis.
+- **Population:** 926 men in the Physicians' Health Study with nonmetastatic prostate cancer who completed diet questionnaires after diagnosis.
+- **Patient relevance:** Adds mortality context to the whole-milk/high-fat dairy question.
+- **Main finding:** Men consuming at least 3 servings/day of dairy after diagnosis had higher all-cause mortality and a higher prostate-cancer-specific mortality estimate than men consuming less than 1 serving/day; high-fat dairy appeared more strongly associated than low-fat dairy, but the high-fat versus low-fat difference was not statistically significant.
+- **Limitations:** Observational, dietary questionnaire completed a median of 5 years after diagnosis, 56 prostate-cancer deaths, wide confidence intervals for disease-specific mortality, and possible confounding.
+- **Questions for clinician:** Is high total dairy or high-fat dairy intake displacing plant foods, fish, legumes, or other cardiometabolic-health foods in my diet?
+
+#### Whole milk intake and prostate-cancer-specific mortality: Physicians' Health Study
+
+- **Citation:** Song Y, Chavarro JE, Cao Y, et al. *Journal of Nutrition*. 2013.
+- **DOI/PMID:** DOI [10.3945/jn.112.168484](https://doi.org/10.3945/jn.112.168484); PMID [23256145](https://pubmed.ncbi.nlm.nih.gov/23256145/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/23256145/
+- **Date:** 2013 Feb
+- **Category:** Nutrition; Screening & Early Detection; Survivorship
+- **Evidence type:** Prospective cohort plus survival analysis among incident prostate cancer cases.
+- **Population:** 21,660 US male physicians; survival analysis among 2,806 incident prostate cancer cases.
+- **Patient relevance:** Helps explain why clinicians often distinguish whole milk from skim/low-fat milk.
+- **Main finding:** Skim/low-fat milk was more associated with nonaggressive prostate cancer incidence, whereas whole milk was associated with fatal prostate cancer and with progression to fatal disease among prostate cancer cases.
+- **Limitations:** Milk intake was collected at baseline, often before diagnosis; this is supportive but less direct for post-diagnosis dietary changes.
+- **Questions for clinician:** Does the whole-milk signal justify switching to low-fat/non-fat or fortified non-dairy alternatives while maintaining bone-health nutrition?
+
+#### Milk, IGF signalling, and prostate cancer: systematic review and meta-analysis
+
+- **Citation:** Harrison S, Lennon R, Holly J, et al. *Cancer Causes & Control*. 2017.
+- **DOI/PMID:** DOI [10.1007/s10552-017-0883-1](https://doi.org/10.1007/s10552-017-0883-1); PMID [28361446](https://pubmed.ncbi.nlm.nih.gov/28361446/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/28361446/
+- **Date:** 2017 Jun
+- **Category:** Nutrition; Mechanisms; Hormones
+- **Evidence type:** Systematic review and meta-analysis of milk-IGF and IGF-prostate cancer evidence.
+- **Population:** 172 included studies across milk/IGF, IGF/prostate cancer, and animal evidence.
+- **Patient relevance:** Mechanistic context for dairy concerns, especially the IGF-I pathway.
+- **Main finding:** The review found moderate evidence that milk and dairy protein intake increase circulating IGF-I and IGFBP-3 modestly, and moderate evidence that prostate cancer risk increases with IGF-I.
+- **Limitations:** Mostly risk and biomarker biology, not direct proof that whole-milk avoidance after diagnosis improves recurrence or survival.
+- **Questions for clinician:** Does IGF biology support a general plant-forward/metabolic-health approach while avoiding claims that one food change controls cancer?
+
+#### Circulating IGF-I and prostate cancer risk: individual participant meta-analysis
+
+- **Citation:** Travis RC, Appleby PN, Martin RM, et al. *Cancer Research*. 2016.
+- **DOI/PMID:** DOI [10.1158/0008-5472.CAN-15-1551](https://doi.org/10.1158/0008-5472.CAN-15-1551); PMID [26921328](https://pubmed.ncbi.nlm.nih.gov/26921328/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/26921328/
+- **Date:** 2016 Apr 15
+- **Category:** Nutrition; Hormones; Risk Stratification
+- **Evidence type:** Individual participant data meta-analysis.
+- **Population:** Up to 10,554 prostate cancer cases and 13,618 controls from 17 prospective and two cross-sectional studies.
+- **Patient relevance:** Shows IGF-I is relevant to prostate cancer biology, independent of any one diet theory.
+- **Main finding:** In prospective studies, higher IGF-I was associated with higher prostate cancer risk; after mutual adjustment, IGF-I remained associated with risk.
+- **Limitations:** Incidence/risk evidence, not a post-diagnosis dairy intervention trial.
+- **Questions for clinician:** Should IGF-I biology be treated as a reason for overall metabolic-health diet quality rather than an isolated supplement or dairy rule?
 
 #### Plant-Based Diets and Disease Progression in Men With Prostate Cancer
 
@@ -463,6 +569,7 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - Are there foods/supplements that could interact with anticoagulants, surgery, radiation side effects, ADT, chemotherapy, kidney disease, or diabetes medications?
 - Should the focus be Mediterranean-style, plant-forward, high-fiber diet quality rather than single supplements?
 - How should calcium and dairy decisions balance whole-milk recurrence signals, low-fat/non-fat dairy uncertainty, non-dairy calcium sources, and bone health, especially if on ADT?
+- If I avoid whole/full-cream milk, what exact calcium/protein replacement should I use, and should vitamin D, DEXA, kidney-stone risk, cardiovascular risk, or ADT bone protection change the plan?
 - If considering fish oil or omega-3 supplements, what are the bleeding, medication, and cardiovascular considerations?
 - If considering FMD, fasting, or calorie restriction, am I an appropriate candidate given treatment phase, BMI, recent weight loss, frailty, diabetes medications, kidney disease, blood pressure, and muscle mass?
 - Does protein advice need to differ by age and goal: lower animal-protein/IGF-1/mTOR exposure in midlife versus adequate protein plus resistance training to protect muscle during ADT or older age?
