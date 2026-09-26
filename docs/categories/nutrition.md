@@ -2,7 +2,7 @@
 
 ## Scope
 
-Research notes and filed articles about **nutrition, diet quality, body composition, metabolic health, and prostate cancer diagnosis/treatment outcomes**.
+Research notes and filed articles about **nutrition, diet quality, body composition, metabolic health, dairy/calcium, eggs, meat, protein, and prostate cancer diagnosis/treatment outcomes**.
 
 This category is for patient-facing evidence on nutrition as a supportive health factor, not as a substitute for clinically indicated cancer diagnosis or treatment.
 
@@ -13,6 +13,7 @@ This category is for patient-facing evidence on nutrition as a supportive health
 - Are there nutrition considerations during active surveillance, surgery, radiation, ADT, chemotherapy, or survivorship?
 - Which claims are supported by human clinical evidence, and which remain speculative?
 - What should be discussed with an oncologist, urologist, dietitian, or GP?
+- When expert videos say to avoid or limit dairy, eggs, red meat, or processed meat, what does the underlying evidence actually support?
 
 ## Evidence to prioritize
 
@@ -38,7 +39,7 @@ Be especially cautious with:
 
 - [Metabolic Therapy as an Adjunct in Prostate Cancer: Evidence Review and Critique](../papers/metabolic-therapy-prostate-cancer-evidence/index.md) — diet-focused evidence review on ketogenic/low-carbohydrate interventions, calorie restriction, insulin/IGF signaling, and safety caveats.
 
-- [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, survivorship nutrition reviews, and a patient-facing appraisal of Prof Valter Longo's fasting mimicking diet (FMD), protein/IGF-1/mTOR framework, and safety trade-offs.
+- [Nutrition and Prostate Cancer: Evidence Map](../papers/nutrition-prostate-cancer-evidence/index.md) — curated evidence summary covering diet and dietary patterns before diagnosis, after diagnosis, during treatment/ADT, and after treatment/survivorship. Includes incidence evidence, active surveillance studies and trials, ADT/metabolic-support interventions, survivorship nutrition reviews, UCSF video appraisal on dairy/eggs/meat after treatment, and a patient-facing appraisal of Prof Valter Longo's fasting mimicking diet (FMD), protein/IGF-1/mTOR framework, and safety trade-offs.
 
 ## Current evidence summary
 
@@ -47,4 +48,4 @@ Be especially cautious with:
 | Before diagnosis / incidence | Overall dietary patterns matter more than single-food claims. Western/inflammatory patterns and high dairy/calcium intake are associated with higher risk in some observational syntheses; healthy/plant-forward patterns may be associated with lower risk, but causality is uncertain. |
 | After diagnosis | Post-diagnosis plant-based, Mediterranean, and lower-inflammatory dietary patterns are associated with lower progression risk in several cohorts, but this is mostly observational. |
 | During treatment / ADT | Diet and weight-management interventions may support weight, glucose, insulin resistance, lipids, and function during ADT, but evidence is mainly supportive-care rather than cancer-control evidence. Longo-style FMD/protein-IGF-mTOR thinking is biologically plausible but must be balanced against ADT-related sarcopenia, frailty, bone loss, diabetes/kidney safety, and treatment tolerance. |
-| After treatment | Survivorship nutrition is strongest as cardiometabolic, bowel, muscle, weight, and quality-of-life support; evidence for recurrence/survival benefit is promising but not definitive. |
+| After treatment | Survivorship nutrition is strongest as cardiometabolic, bowel, muscle, bone-health, weight, and quality-of-life support; evidence for recurrence/survival benefit is promising but not definitive. Current UCSF/PCF-style advice is best read as mostly plant-forward, limit processed meat/saturated fat/whole milk/high egg intake, and individualize low-fat dairy/calcium/protein rather than a blanket ban on all dairy, eggs, or animal protein. |

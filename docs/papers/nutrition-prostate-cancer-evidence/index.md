@@ -1,6 +1,6 @@
 # Nutrition and Prostate Cancer: Evidence Map
 
-Retrieved: **2026-07-04**  
+Retrieved: **2026-09-26**  
 Category: **Nutrition**  
 Scope: diet, dietary patterns, body composition, metabolic health, and selected supplements before diagnosis, after diagnosis, during treatment, and after treatment/survivorship.
 
@@ -14,12 +14,12 @@ Scope: diet, dietary patterns, body composition, metabolic health, and selected 
 | **Before diagnosis / incidence** | The strongest evidence is about overall dietary patterns rather than single foods. Western/inflammatory patterns and high dairy/calcium intake are associated with higher risk in some observational syntheses; healthy/plant-forward patterns may be associated with lower risk, but causality is uncertain. | Moderate observational evidence; limited RCT evidence for prevention | Should I focus on a heart-healthy, plant-forward diet rather than prostate-specific “anti-cancer” claims? |
 | **After diagnosis / active surveillance** | Post-diagnosis plant-based, Mediterranean, and lower-inflammatory patterns are associated with lower progression risk in observational cohorts. RCTs show mixed results: increased vegetables alone did not reduce progression in MEAL, while an omega-3/low omega-6 intervention changed a biopsy proliferation biomarker in CAPFISH-3. | Moderate observational evidence; limited and mixed RCT evidence | Are there diet changes that support active surveillance without delaying appropriate treatment if risk changes? |
 | **During treatment / ADT** | Diet and weight-management interventions may help cardiometabolic risk, weight, insulin resistance, and function during ADT, but evidence is smaller and not primarily about cancer control. | Low-to-moderate interventional evidence for metabolic/supportive outcomes | Should I have dietitian support for ADT-related weight, glucose, lipids, muscle, and cardiovascular risk? |
-| **After treatment / survivorship** | Better diet quality and Mediterranean/plant-forward patterns are linked to better outcomes in some survivorship studies, but evidence remains mostly observational. The safest interpretation is general survivorship and cardiometabolic health support. | Moderate observational evidence; limited prostate-specific intervention evidence | What dietary pattern best supports recovery, cardiovascular health, weight, bowel function, and long-term survivorship? |
+| **After treatment / survivorship** | Better diet quality and Mediterranean/plant-forward patterns are linked to better outcomes in some survivorship studies, but evidence remains mostly observational. UCSF/PCF-style guidance to emphasize plant foods and limit processed meat, saturated fat, whole milk, high egg intake, and poultry with skin is broadly consistent with this page, but should be framed as risk-reduction/supportive-care advice rather than a proven recurrence-prevention prescription. | Moderate observational evidence; limited prostate-specific intervention evidence | What dietary pattern best supports recovery, cardiovascular health, weight, bowel function, muscle preservation, bone health, and long-term survivorship? |
 
 ## Nutrition topics covered
 
 - **Dietary patterns**: Mediterranean, plant-based, healthy diet indices, Western/inflammatory patterns.
-- **Single foods/nutrients**: dairy/calcium, tomato sauce/lycopene, fish/omega-3 and omega-6 balance.
+- **Single foods/nutrients**: dairy/calcium, whole milk vs low-fat/non-fat dairy, eggs/choline, red/processed meat, poultry with skin vs skinless poultry, tomato sauce/lycopene, fish/omega-3 and omega-6 balance.
 - **Active surveillance interventions**: vegetable-rich diet counseling, omega-3/low omega-6 diet plus fish oil, weight-loss diet/exercise programs.
 - **ADT/metabolic support**: low-carbohydrate diet plus walking, diet/exercise behavior programs.
 - **Fasting mimicking diet / periodic fasting**: Prof Valter Longo's FMD framework, prostate-cancer pilot evidence, cancer-adjunct trials in other cancers, and safety caveats.
@@ -61,6 +61,38 @@ Longo's protein hypothesis is also worth including, but cautiously. The ageing-b
 Survivorship reviews suggest better overall diet quality and Mediterranean-style patterns may be associated with improved prognosis in cancer survivors, including prostate cancer, but prostate-specific intervention evidence remains limited. Nutrition after treatment should be framed around recovery, cardiometabolic health, bowel health, muscle preservation, weight stability or safe weight loss, and supporting tolerance of ongoing therapies if any.
 
 **Interpretation:** after treatment, nutrition is best treated as survivorship support and risk-factor management rather than as a substitute for surveillance or clinician-directed treatment.
+
+### UCSF video appraisal: post-treatment diet advice, dairy, eggs, and meat
+
+**Source reviewed:** Stacey Kenfield, PhD, UCSF/UCTV 2026 talk, [*Prostate Cancer: Diet and Exercise*](https://www.youtube.com/watch?v=l1yqcfhutvo&t=882s). The UCTV page and transcript identify the talk as a 2026 UCSF presentation on diet and exercise for prostate cancer patients.
+
+**Bottom line for the website:** the video is **more nuanced than a blanket “avoid all dairy, eggs, and meat” message**. It recommends a mostly plant-based eating pattern, but explicitly says plant-based does not mean everything must be plants and that smaller amounts of meat, dairy, eggs, fish, and seafood can still be included. Its strongest cautions are about **processed meat, saturated fat, whole milk, high egg intake, and poultry with skin**. That is broadly consistent with this website's cautious plant-forward/Mediterranean framing, but the site should be clearer about these specific foods.
+
+| UCSF video claim | Evidence-based interpretation for this library | Practical wording |
+|---|---|---|
+| Exercise has the most consistent post-diagnosis evidence | Agrees with the Exercise evidence map; diet evidence is more mixed and observational. | Prioritize exercise plus diet quality rather than diet alone. |
+| Adopt a plant-based eating pattern | Consistent with 2024-2026 cohort/systematic-review evidence associating plant-forward/Mediterranean/lower-inflammatory patterns with lower progression risk. | “Mostly plant foods” is a reasonable target; it is not the same as mandatory veganism. |
+| Limit processed meat and saturated fat | Supported by diet-pattern evidence and survivorship reviews; processed red meat evidence after diagnosis remains limited but concerning enough to minimize. | Avoid or minimize processed meats; make saturated fat reduction a cardiometabolic and possible prostate-cancer-risk discussion. |
+| Whole milk is a consistent concern | Direct post-diagnosis cohort data link whole milk, not low-fat/non-fat dairy overall, with recurrence/lethal progression signals. | Prefer non-dairy calcium sources or low-fat/non-fat dairy if dairy is used; avoid high whole-milk intake. |
+| Low-fat dairy is not consistently associated with progression/lethal prostate cancer | This distinction is important and prevents overreading “dairy” as all dairy in all contexts. | Do not state that all dairy must be eliminated; discuss calcium/bone health, especially with ADT. |
+| Eggs: very high intake may be a concern | New systematic review evidence says egg findings are inconsistent: one study signaled risk at about 5.5 servings/week, while several studies with lower highest categories did not. | A cautious target such as fewer than 3 whole eggs/week is defensible for discussion, but not proven as a required threshold. |
+| Protein is still needed in older adults | This aligns with the site's Longo/FMD caution: older men, men on ADT, and men doing resistance training need to avoid sarcopenia/frailty. | Shift protein sources toward beans/lentils, soy foods, nuts/seeds, fish, skinless poultry, and possibly low-fat dairy; do not apply a universal low-protein rule. |
+
+**Strengths of the video**
+
+- It starts by saying diet evidence is complicated, sometimes conflicting, and less consistent than exercise evidence.
+- It uses a patient-relevant survivorship frame: many men die with prostate cancer rather than from it, so cardiovascular/metabolic health matters.
+- It distinguishes whole milk from low-fat dairy, and high egg intake from lower intake, rather than treating all dairy or all eggs as equal.
+- It recommends dietitian support, calcium planning, and adequate protein for older adults rather than unsupervised restriction.
+
+**Weaknesses / caveats**
+
+- The talk is short and time-limited, so some recommendations are compressed and could sound more absolute than the underlying observational evidence allows.
+- Much of the food-specific evidence comes from cohort studies, not randomized trials powered for metastasis, prostate-cancer mortality, or overall survival.
+- “Avoid/limit” tables can blur different evidence levels: processed meat, whole milk, eggs, saturated fat, and poultry with skin do not all have the same consistency or endpoint support.
+- The calcium message needs individualization: men on ADT may need bone-health planning, and calcium can come from low-fat dairy, fortified foods, low-oxalate greens, tofu, beans, almonds, canned fish, or supplements when clinically appropriate.
+
+**Website update from this appraisal:** keep the overall plant-forward/Mediterranean framing, but add more explicit food-specific cautions: avoid/minimize processed meat; avoid high whole-milk intake; do not overstate low-fat/non-fat dairy risk; keep whole eggs modest, especially avoiding high intake; choose skinless poultry/fish/plant proteins over poultry with skin and processed/red meat where practical.
 
 ## Selected papers
 
@@ -151,6 +183,48 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - **Main finding:** Higher fish and tomato sauce consumption were inversely associated with prostate cancer progression in this cohort.
 - **Limitations:** Observational, older treatment/surveillance context, self-reported diet, possible confounding.
 - **Questions for clinician:** Are fish and tomato-rich foods reasonable within a broader cardiometabolic diet plan?
+
+#### Postdiagnostic red meat, poultry, and egg intake and prostate cancer outcomes — systematic review
+
+- **Citation:** Sandhu S, Teshome H, Van Blarigan EL, Chan JM, et al. *Journal of Urology*. 2026.
+- **DOI/PMID:** DOI [10.1097/JU.0000000000005263](https://doi.org/10.1097/JU.0000000000005263); PMID [42607142](https://pubmed.ncbi.nlm.nih.gov/42607142/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/42607142/
+- **Date:** 2026
+- **Category:** Nutrition; Survivorship; Side Effects & Quality of Life
+- **Evidence type:** Systematic review of prospective cohort studies after prostate cancer diagnosis.
+- **Population:** Six cohort studies including more than 10,000 men with prostate cancer.
+- **Patient relevance:** Directly addresses Terry's question about red meat, poultry, and eggs after diagnosis.
+- **Main finding:** Evidence was limited and inconsistent. Total red meat was not associated with progression outcomes across five studies, but processed red meat and all-cause mortality/prostate-cancer-specific signals remain concerning. Poultry with skin appeared riskier than skinless poultry. Egg evidence was inconsistent: a positive progression association appeared in one study with very high intake, while several studies with lower highest-intake groups did not show associations.
+- **Limitations:** Cohort evidence, self-reported diet, varied endpoints and intake categories; not a randomized diet prescription trial.
+- **Questions for clinician:** Should I minimize processed meat, avoid poultry skin, keep whole eggs modest, and replace red/processed meat with fish, legumes, soy foods, nuts/seeds, or skinless poultry while maintaining adequate protein?
+
+#### Milk and other dairy foods after diagnosis: CaPSURE recurrence cohort
+
+- **Citation:** Tat D, Kenfield SA, Cowan JE, et al. *The Prostate*. 2018.
+- **DOI/PMID:** DOI [10.1002/pros.23441](https://doi.org/10.1002/pros.23441); PMID [29105845](https://pubmed.ncbi.nlm.nih.gov/29105845/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/29105845/
+- **Date:** 2018 Jan
+- **Category:** Nutrition; Survivorship
+- **Evidence type:** Prospective cohort after diagnosis.
+- **Population:** 1,334 men with nonmetastatic prostate cancer in CaPSURE.
+- **Patient relevance:** Directly informs the UCSF video's distinction between whole milk and low-fat/non-fat dairy.
+- **Main finding:** Whole milk consumption after diagnosis was associated with increased recurrence risk, particularly among very overweight or obese men; low-fat milk and other dairy foods were not associated with recurrence.
+- **Limitations:** Observational, diet self-report, potential residual confounding, and not a calcium/bone-health intervention.
+- **Questions for clinician:** If dairy is used for calcium/protein, should it be non-fat/low-fat, and are non-dairy calcium/protein sources preferable for my bone, kidney, cardiovascular, and prostate-risk profile?
+
+#### Milk and dairy consumption and lethal prostate cancer in HPFS
+
+- **Citation:** Pettersson A, Kasperzyk JL, Kenfield SA, et al. *Cancer Epidemiology, Biomarkers & Prevention*. 2012.
+- **DOI/PMID:** DOI [10.1158/1055-9965.EPI-11-1004](https://doi.org/10.1158/1055-9965.EPI-11-1004); PMID [22315365](https://pubmed.ncbi.nlm.nih.gov/22315365/)
+- **URL:** https://pubmed.ncbi.nlm.nih.gov/22315365/
+- **Date:** 2012 Mar
+- **Category:** Nutrition; Survivorship
+- **Evidence type:** Prospective cohort after diagnosis.
+- **Population:** 3,918 men diagnosed with apparently localized prostate cancer in the Health Professionals Follow-Up Study.
+- **Patient relevance:** Supports caution about whole milk while avoiding a blanket claim that all dairy after diagnosis is harmful.
+- **Main finding:** Total milk and dairy intake after diagnosis were not associated with greater lethal prostate cancer risk, but the highest whole-milk intake was associated with increased progression risk; low-fat dairy was not associated with increased risk.
+- **Limitations:** Observational evidence; diet and prostate cancer treatment contexts changed over time.
+- **Questions for clinician:** How should dairy choices be balanced against calcium/vitamin D needs, ADT bone risk, cardiovascular risk, and personal dietary preferences?
 
 #### Plant-Based Diets and Disease Progression in Men With Prostate Cancer
 
@@ -388,10 +462,11 @@ Survivorship reviews suggest better overall diet quality and Mediterranean-style
 - Do I need referral to an oncology dietitian, especially if losing weight, gaining weight on ADT, diabetic, frail, or using supplements?
 - Are there foods/supplements that could interact with anticoagulants, surgery, radiation side effects, ADT, chemotherapy, kidney disease, or diabetes medications?
 - Should the focus be Mediterranean-style, plant-forward, high-fiber diet quality rather than single supplements?
-- How should calcium and dairy decisions balance prostate-cancer uncertainty with bone health, especially if on ADT?
+- How should calcium and dairy decisions balance whole-milk recurrence signals, low-fat/non-fat dairy uncertainty, non-dairy calcium sources, and bone health, especially if on ADT?
 - If considering fish oil or omega-3 supplements, what are the bleeding, medication, and cardiovascular considerations?
 - If considering FMD, fasting, or calorie restriction, am I an appropriate candidate given treatment phase, BMI, recent weight loss, frailty, diabetes medications, kidney disease, blood pressure, and muscle mass?
 - Does protein advice need to differ by age and goal: lower animal-protein/IGF-1/mTOR exposure in midlife versus adequate protein plus resistance training to protect muscle during ADT or older age?
+- Should I specifically minimize processed meat, whole milk, poultry with skin, and high whole-egg intake while using fish, legumes, soy foods, nuts/seeds, skinless poultry, or low-fat/non-fat dairy if appropriate?
 - What outcomes should be tracked: weight, waist, muscle/strength, DEXA/body composition, lipids, glucose/HbA1c, blood pressure, bowel symptoms, fatigue, and treatment tolerance?
 
 ## Repository interpretation
@@ -402,4 +477,4 @@ This evidence strengthens the Nutrition category by adding a structured distinct
 2. **Post-diagnosis associations** — plant-forward, Mediterranean, and low-inflammatory patterns look promising but are mostly observational.
 3. **Active surveillance trials** — increased vegetables alone did not reduce progression in MEAL; omega-3/low omega-6 diet changed a biomarker in CAPFISH-3 but needs longer-term clinical outcomes.
 4. **Longo/FMD/protein-IGF-mTOR framework** — valuable as an adjunct metabolic-health and research hypothesis, especially for supervised short periodic FMD cycles and plant-forward protein thinking, but prostate-cancer clinical outcome proof is limited and safety depends heavily on age, ADT status, muscle mass, diabetes/kidney disease, frailty, and treatment phase.
-5. **Treatment/survivorship support** — nutrition is strongest as cardiometabolic, weight, muscle, bowel, and quality-of-life support, especially during ADT and survivorship.
+5. **Treatment/survivorship support** — nutrition is strongest as cardiometabolic, weight, muscle, bowel, bone-health, and quality-of-life support, especially during ADT and survivorship. The UCSF video adds useful specificity: processed meat, saturated fat, whole milk, poultry with skin, and high egg intake deserve more caution than low-fat/non-fat dairy or modest egg intake.
