@@ -13,6 +13,7 @@ Research notes and filed articles for **advanced & recurrent disease**.
 
 ## Filed items
 
+- [2026-09-28 weekly scan](../updates/2026-09-28.md) — Advanced/recurrent-disease safety watch: a 72,980-patient systematic review/meta-analysis found observational evidence linking ADT with higher acute-kidney-injury odds, supporting baseline and follow-up kidney-risk discussion without changing indicated ADT decisions on its own.
 - [2026-09-14 weekly scan](../updates/2026-09-14.md) — Advanced/recurrent-disease watch: PSMA PET tumour volume can risk-stratify patients labelled nonmetastatic CRPC by conventional imaging, but prognostic imaging does not by itself prove that PSMA-guided escalation improves outcomes; small single-arm radioligand-combination studies remain watchlist rather than practice-changing.
 - [2026-08-31 weekly scan](../updates/2026-08-31.md) — Advanced/recurrent-disease watch: cardio-oncology referral evidence reinforces cardiovascular-risk review around ADT/systemic therapy; 177Lu-PSMA time-toxicity data add appointment/travel/contact-day burden to radioligand-therapy discussions.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Advanced/recurrent-disease watch: SABR re-irradiation for local recurrence after prior radiotherapy remains a specialist/trial-or-registry discussion; high-volume mHSPC prostate-directed radiotherapy under upfront doublet therapy is hypothesis-generating; PSMA radioligand access delays can materially affect care pathways.
