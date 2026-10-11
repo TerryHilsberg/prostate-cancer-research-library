@@ -13,6 +13,7 @@ Research notes and filed articles for **diagnostic workup**.
 
 ## Filed items
 
+- [2026-10-12 weekly scan](../updates/2026-10-12.md) — Diagnostic-workup watch: repeat MRI change scoring with PRECISE and repeat PSA density may help structure biopsy-deferral follow-up, while a large repeat-MRI cohort suggests PSA-density velocity adds little beyond current PSA density, PI-RADS, age, and clinical context.
 - [2026-09-28 weekly scan](../updates/2026-09-28.md) — Diagnostic-workup watch: DEPROMP adds prospective patient-reported safety data for systematic plus MRI-targeted plus PSMA PET/CT-targeted transrectal biopsy; a multicenter biparametric-MRI AI study supports human-in-the-loop AI as biopsy-triage support, especially for PI-RADS 3, but not as a stand-alone rule-out test.
 - [2026-09-21 weekly scan](../updates/2026-09-21.md) — Diagnostic-workup watch: external validation supports MRI-based biopsy risk calculators across transrectal and transperineal pathways, but local calibration and clinical context still matter; ESUR cautions that prostate MRI AI should remain human-in-the-loop; EAU 2026 reinforces MRI-first diagnosis and targeted plus regional biopsy when biopsy is indicated.
 - [2026-09-14 weekly scan](../updates/2026-09-14.md) — Diagnostic-workup watch: histology-linked PSMA PET thresholds, plasma infrared molecular fingerprinting, and ancestry-aware urinary proteomics all reinforce that new biomarkers/imaging metrics may refine risk discussions but should not replace PSA context, MRI quality, biopsy/pathology correlation, or clinician review.
