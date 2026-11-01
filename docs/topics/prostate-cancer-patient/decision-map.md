@@ -27,7 +27,8 @@ For help understanding which specialist is usually involved at each point, see [
 
 - Active surveillance
 - Radical prostatectomy
-- External beam radiation therapy
+- For radical prostatectomy: whether structured prehabilitation is available and, in selected high-risk disease, whether perioperative systemic therapy belongs in the multidisciplinary comparison
+- External beam radiation therapy: conventional versus moderate hypofractionation versus five-treatment ultrahypofractionation/SBRT, including baseline urinary function and whether pelvic nodes are treated
 - Brachytherapy
 - Focal therapy/investigational approaches
 - ADT or systemic therapy for higher-risk/advanced disease

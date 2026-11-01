@@ -1,6 +1,6 @@
 # Focal Therapy for Localized Prostate Cancer: Evidence Map
 
-Retrieved: **2026-07-28**
+Retrieved: **2026-07-28**; updated **2026-11-02**
 
 Category: **Localized Treatment; Therapies; Imaging & Biomarkers; Side Effects & Quality of Life**
 
@@ -199,6 +199,16 @@ The FLAME randomized phase III trial showed improved biochemical disease-free su
 ## Selected papers and guidelines
 
 ### Overall evidence and guideline framing
+
+#### Focal therapy versus radical prostatectomy: 2026 comparative meta-analysis
+
+- **Citation:** Hinojosa-Gonzalez DE, Slawin B, Torres-Martinez M, Coady PJ, et al. *International Urology and Nephrology*. 2026.
+- **DOI/PMID:** DOI [10.1007/s11255-026-05466-w](https://doi.org/10.1007/s11255-026-05466-w); PMID [42946901](https://pubmed.ncbi.nlm.nih.gov/42946901/).
+- **Evidence type:** Systematic review/meta-analysis of 11 prospective and retrospective observational comparisons involving 8,399 patients (3,901 focal therapy; 4,498 radical prostatectomy).
+- **Main finding:** Pooled continence and erectile-function outcomes favored focal therapy, while salvage-treatment-free and failure-free survival favored prostatectomy. Overall-survival differences were not statistically significant; cancer-control differences attenuated in propensity-matched analyses, and trial-sequential analysis was inconclusive.
+- **Patient relevance:** This sharpens the central trade-off: focal therapy may preserve function for selected patients, but confidence in durable cancer control and freedom from repeat/salvage treatment is lower than for prostatectomy in the available comparisons.
+- **Limitations:** No randomized focal-therapy-versus-prostatectomy evidence; strong selection and treatment-era confounding; different focal modalities, risk groups, follow-up schedules, failure definitions, and functional instruments; pooled survival cannot establish equivalence.
+- **Questions for clinician:** How do this centre's functional outcomes compare with its in-field/out-of-field recurrence, repeat-biopsy, retreatment, and later prostatectomy/radiotherapy rates—and am I similar to the patients who received focal treatment rather than surgery?
 
 #### A Systematic Review of Focal Ablative Therapy for Clinically Localised Prostate Cancer in Comparison with Standard Management Options
 
