@@ -25,7 +25,7 @@ For help understanding which specialist is usually involved at each point, see [
 
 ## D. Management options
 
-- Active surveillance
+- Active surveillance: confirm a written PSA/MRI/biopsy schedule, reassessment triggers, and who tracks overdue monitoring
 - Radical prostatectomy
 - For radical prostatectomy: whether structured prehabilitation is available and, in selected high-risk disease, whether perioperative systemic therapy belongs in the multidisciplinary comparison
 - External beam radiation therapy: conventional versus moderate hypofractionation versus five-treatment ultrahypofractionation/SBRT, including baseline urinary function and whether pelvic nodes are treated
@@ -40,4 +40,4 @@ For help understanding which specialist is usually involved at each point, see [
 - Urinary incontinence/irritative symptoms
 - Sexual function
 - Bowel symptoms
-- Fatigue, mood, and quality of life
+- Fatigue, mood, sleep, pain, metabolic health, and quality of life, including baseline assessment and change over time

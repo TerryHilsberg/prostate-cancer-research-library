@@ -2,6 +2,7 @@
 
 Weekly research updates and focused evidence updates are listed here in reverse chronological order.
 
+- [2026-11-09 — Weekly Prostate Cancer Literature & Guideline Scan](2026-11-09.md)
 - [2026-11-02 — Weekly Prostate Cancer Literature & Guideline Scan](2026-11-02.md)
 - [2026-10-26 — Weekly Prostate Cancer Literature & Guideline Scan](2026-10-26.md)
 - [2026-10-19 — Weekly Prostate Cancer Literature & Guideline Scan](2026-10-19.md)
