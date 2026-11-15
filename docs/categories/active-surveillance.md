@@ -13,6 +13,8 @@ Research notes and filed articles for **active surveillance**.
 
 ## Filed items
 
+- [2026-11-16 weekly scan](../updates/2026-11-16.md) — A systematic review of four unique studies distinguishes MRI/biomarker/genomic risk prediction from demonstrated safety of biopsy reduction. Routine biopsy-free surveillance is not established; any deferral needs an individualized plan, reassessment triggers, and histology when indicated.
+
 - [2026-11-09 weekly scan](../updates/2026-11-09.md) — Active-surveillance safety update: in 11,597 older US Medicare beneficiaries, claims-based adherence to combined PSA and repeat-biopsy monitoring fell sharply over three years, reinforcing the need for an individualized written schedule, clear responsibility for tracking overdue tests, and MRI/biopsy/PSA safety-netting rather than treating surveillance as “no follow-up.”
 - [2026-10-12 weekly scan](../updates/2026-10-12.md) — Active-surveillance-adjacent watch: repeat MRI change scoring with PRECISE and repeat PSA density may help structure follow-up when biopsy is deferred, but MRI stability should not be treated as a permanent rule-out; PSA-density velocity alone added little beyond established predictors in one cohort.
 - [2026-08-24 weekly scan](../updates/2026-08-24.md) — Active-surveillance watch: a small prospective urine-transcript study suggests that urinary markers may add to PSA density and MRI for reclassification prediction, but biomarker reassurance should not replace scheduled biopsy/MRI/PSA follow-up without clinician review.

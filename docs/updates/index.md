@@ -2,6 +2,7 @@
 
 Weekly research updates and focused evidence updates are listed here in reverse chronological order.
 
+- [2026-11-16 — Weekly Prostate Cancer Literature & Guideline Scan](2026-11-16.md) — New ACS screening guideline; older-age screening trade-offs; MRI/biomarkers; pelvic-SBRT bowel outcomes; surveillance biopsy safeguards; exercise/fatigue; ctDNA and PSMA-volume prognosis.
 - [2026-11-09 — Weekly Prostate Cancer Literature & Guideline Scan](2026-11-09.md)
 - [2026-11-02 — Weekly Prostate Cancer Literature & Guideline Scan](2026-11-02.md)
 - [2026-10-26 — Weekly Prostate Cancer Literature & Guideline Scan](2026-10-26.md)
